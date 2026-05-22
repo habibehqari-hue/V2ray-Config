@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://75807638-6f19-0190-ae08-38492ee85c88@178.72.162.160:52006?encryption=none&flow=xtls-rprx-vision&security=tls&sni=cluster-other-1.firstvideocdn.ru&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3ARU
 vless://75807638-6f19-07d0-ae08-38492ee85c88@178.72.181.40:52006?allowInsecure=1&encryption=none&flow=xtls-rprx-vision&security=tls&sni=cluster-russia-3.firstvideocdn.ru&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3ARU
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@ciallo-egb.pages.dev:2053?allowInsecure=1&encryption=none&host=Ciallo-eGB.PageS.dev&path=%2F%25252F&security=tls&sni=Ciallo-eGB.PageS.dev&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@ciallo-egb.pages.dev:2096?allowInsecure=1&encryption=none&host=CIALlO-EgB.pAGES.dEV&security=tls&sni=CIALlO-EgB.pAGES.dEV&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
@@ -502,4 +503,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.206
 vless://0b89c53e-1d55-463f-90d7-f28b0e17b8a7@45.15.160.132:443?encryption=none&type=tcp&security=reality&headerType=none&sni=yahoo.com&fp=chrome&allowInsecure=1&pbk=2YrB1VDud3ZDZp-fnEGO7BKsHZQN9NVJuXU_5j-uzVI&sid=ddb9#%40ᴍɪɢᴀ
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@103.116.7.138:2096?encryption=none&host=sni.111000.indevs.in&security=tls&sni=sni.111000.indevs.in&type=ws#%F0%9F%98%8E52Anthony
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.19.229.21:2096?encryption=none&host=sni.111000.indevs.in&path=%2F&security=tls&sni=sni.111000.indevs.in&type=ws#%F0%9F%98%8E53Anthony
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.13.149:2053?encryption=none&fp=chrome&host=sni.111000.indevs.in&security=tls&sni=sni.111000.indevs.in&type=ws#%F0%9F%98%8E56Anthony
