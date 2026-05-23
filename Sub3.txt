@@ -3,15 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://77a2fa7d-39b5-45af-9758-74e1fbaf1995@home1.metaworkcloud.ir:8449?security=none&encryption=none&headerType=none&type=tcp#🔵@chillguy_vpn
-vless://77a52785-c460-4e6f-94b1-f09ad8e6d7af@5.10.249.6:2058?security=none&type=tcp&host=fast.com&headerType=http#🇮🇷27815 | ⚡️Telegram = t.me/SOSkeyNET
-vless://77a52785-c460-4e6f-94b1-f09ad8e6d7af@m3.masih1-ah.site:2058?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#🔵@chillguy_vpn
-vless://77ee0e8e-66a8-4ff1-bc2a-9d5f54a909e0@register.mobile-khayam.ir:50121?security=none&encryption=none&headerType=none&type=tcp#چنل عضو شو @v2ra_config
-vless://78426b35-89e3-4c8f-b21a-65717bc5c411@snapp.ir:8880?path=/&security=none&encryption=none&host=bot.stnolenza.ir&type=ws#@V2ray_confiig
-vless://793b2d46-4437-4fee-a25a-3ba6381e9dae@snapp.ir:80?path=/&security=none&encryption=none&host=derakhshan.molvliafor.ir&type=ws#@vpnbaz | ترکیبی
-vless://799f939b-964b-4416-84ac-18a6ace7fe70@camp.nahidapp.com:443?path=/IF_VPN_Bot&security=tls&encryption=none&insecure=0&host=camp.nahidapp.com&type=ws&allowInsecure=0#@Brayirani •☕ | عضو شید قطع نشید.
-vless://7a9d10c8-db5e-446d-ba95-61c2f54e0bc9@185.143.234.235:80?path=/&security=none&encryption=none&host=felorida2.azmabekaraziz.shop&type=ws#برای اتصال دائمی جوین شو🗾 prrofile_purple@
-vless://7ad37bd3-a2a1-4023-9619-464a9abf59a7@hmt.masterdadeh.ir:80?path=/&security=none&encryption=none&type=ws#@iicenet
 vless://7b3e76e2-66f7-47f5-bd78-a9324a5254b2@it.trevia.sbs:443?type=tcp&encryption=none&security=tls&fp=&alpn=#🔵@chillguy_vpn
 vless://7b427b3c-9747-4f14-9a9d-dd431f743aec@sr3.niloo.shop:2082?security=&encryption=none&headerType=&type=tcp#🔵@chillguy_vpn
 vless://7b51dea0-43d2-406d-ba97-664811629ee0@snapp.ir:80?type=ws&security=none&path=/&host=derakhshan.molvliafor.ir#Vpn_jet7
@@ -503,3 +494,12 @@ vless://df516e14-fca6-4b1c-ae8b-1679ae5e63eb@185.143.233.122:8080?path=/&securit
 vless://df516e14-fca6-4b1c-ae8b-1679ae5e63eb@185.143.233.122:8080?path=/&security=none&encryption=none&host=penhoon-ref.morvaridvps.ir&type=ws#🇮🇷27778 | ⚡️Telegram = t.me/SOSkeyNET
 vless://df6bcab7-8445-44c7-a6d0-c1a688eef0db@91.192.160.7:9999?encryption=none&security=none&type=tcp&headerType=none#🔵@chillguy_vpn
 vless://dff554dd-646c-4154-aaf4-ac0429f17648@snapp.ir:80?path=/&security=none&encryption=none&host=derakhshan.molvliafor.ir&type=ws#@vpnbaz | ترکیبی
+vless://dff5f175-ef05-4800-a844-cc417d6e0f15@185.226.140.140:443?alpn=h2,http/1.1&encryption=none&fp=chrome&host=s2.330ts.ir&path=/Uploader.php&security=tls&sni=s2.330ts.ir&type=ws#@canfigiop
+vless://e0dce552-056e-46da-86d1-2716e246f334@irna.ir:2087?type=ws&security=tls&encryption=none&path=/web&host=m2.fardaamoz.ir&sni=m2.fardaamoz.ir&alpn=h2&fp=chrome#🇮🇷27809 | ⚡️Telegram = t.me/SOSkeyNET
+vless://e139566b-3a6b-4bdc-a106-4bed64e12666@Dot.psdgold.st:51636?security=none&encryption=none&headerType=none&type=tcp#@hi_proxy_iran :👈کانال تلگرام
+vless://e16d126f-682c-4bb9-a0da-243b23f9f030@snapp.ir:80?type=ws&security=none&path=/&host=derakhshan.molvliafor.ir#HooshNet-8324595607
+vless://e1766cb1-29e0-4fe6-8188-e13416b1f19b@94.183.167.22:2027?security=none&encryption=none&host=parsabr.com&headerType=http&type=tcp#Telegram : @V2ynpv
+vless://e1766cb1-29e0-4fe6-8188-e13416b1f19b@speedtest.net:80?path=Telegram-@V2ynpv-Telegram-@V2ynpv-Telegram-@V2ynpv-Telegram-@V2ynpv-Telegram-@V2ynpv-&security=none&encryption=none&host=sabzb2.global.ssl.fastly.net&type=ws#Telegram : @V2ynpv
+vless://e20bdce4-bc7a-48ef-841f-cfab846a5494@2.188.212.54:80?type=ws&security=none&path=/api/&host=tk_tor.irannet.top&sni=tk_tor.irannet.top#🔵@chillguy_vpn
+vless://e27b7b53-6810-47ac-b5a5-eb89c4a22aed@snapp.ir:2082?path=/&security=none&encryption=none&host=rpsvpn3.xchitozx.org&type=ws🌐 tel : @v2ray_unit
+vless://e2d2eb35-8e1e-4e3a-ba1c-1cecb9d11c66@snapp.ir:80?path=/&security=none&encryption=none&host=derakhshan.molvliafor.ir&type=ws#V2rayng_Fast
