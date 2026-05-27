@@ -1,0 +1,6 @@
+#profile-title: base64:8J+GkyBHaXQ6YmFycnktZmFyIHwgU3ViOCDwn5Sl
+#profile-update-interval: 1
+#subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
+#support-url: https://github.com/barry-far/V2ray-config
+#profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://3c7961e6-6ce7-4e55-8b8a-01a5d663efd4@3.106.214.88:31318?security=reality&type=tcp&sni=www.tesla.com&fp=firefox&flow=xtls-rprx-vision&sid=1b665f78655294&spx=%2F&pbk=uAhNpK_fDxgKKNtYtUs2uB79V28pjFv1-Mh7D4PTaW8&encryption=none#🇦🇺[@Amirhossein_Mahboobi
