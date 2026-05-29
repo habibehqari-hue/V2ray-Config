@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://536d0d54-53a5-455a-ad7c-a525d8ff629f@45.130.125.160:443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=1&host=tesdt.arvanabr.xyz&fp=chrome&type=ws&allowInsecure=1&sni=tesdt.arvanabr.xyz#TEL;Father_vpn
+vless://53f32e75-39d3-4b64-b601-5664d7a38b60@it1.connectsuite.org:443?path=/cdn-cgi/ws&security=tls&encryption=none&type=ws#🦉@FreeConfigForYou
+vless://556d2515-b565-4519-9ad0-9ad6f792b6c1@104.18.12.149:8880?path=/api&security=none&encryption=none&host=prossh.octarpmta.ir&type=httpupgrade#Swiss(@proSSH)
 vless://55a72093-b567-49a3-bd56-c3a38e9c37b4@snapp.ir:80?type=ws&encryption=none&path=/&host=arix.subio.ir&security=none#DarkForce-VIP-Subio
 vless://55e5ef03-83b0-4b26-8053-7c6b3c2cc1eb@rfral.aghanami.ir:80?path=/&security=none&encryption=none&type=ws#🇮🇷26635 | ⚡️Telegram = t.me/SOSkeyNET
 vless://55f7d143-a594-4a91-b030-f227039f85ef@cdg-1.fromblancwithlove.com:8443?alpn=h2&encryption=none&security=tls&type=tcp#🫜25@oneclickvpnkeys
@@ -500,6 +503,3 @@ vless://a007a20d-603a-4cdb-80fe-2c04114462d2@hl.globalserver.ir:27416?type=tcp&e
 vless://a007a20d-603a-4cdb-80fe-2c04114462d2@hl.globalserver.ir:27416?type=tcp&encryption=none&path=/&host=snapp.ir&headerType=http&security=none#o75fld2z  5 گیگ سرور رایگان
 vless://a01daac7-1e65-4645-854d-b47d226f6b08@104.16.7.70:443?path=/&security=tls&encryption=none&insecure=0&host=y6-3cj.PAgES.DEV&type=ws&allowInsecure=0&sni=y6-3cj.PAgES.DEV#@ehsawn8
 vless://a01daac7-1e65-4645-854d-b47d226f6b08@104.20.6.134:443?path=/&security=tls&encryption=none&host=y6-3cj.PAgES.DEV&type=ws&sni=y6-3cj.PAgES.DEV#گیگی فقط و فقط 400 در چنل تلگرام   HiByeVPNN@⚡🌀
-vless://a03c3684-d9b2-4b6b-890e-2fdad128416c@18.158.242.102:443?security=none&encryption=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp#[66345] - Telegram : @V2All
-vless://a05f8278-d521-4652-bfb9-2b8dbe6b3102@a2.hamrahnode.ir:2053?path=/&security=tls&encryption=none&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=op2.x-upload.org#@TanhaNet
-vless://a12b0d31-f599-498e-b76e-8558a14b766b@47.79.144.103:25242?path=/a12b0d31&security=none&encryption=none&type=ws#TEL;FATHER_VPN¹³
