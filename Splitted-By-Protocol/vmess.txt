@@ -4,7 +4,7 @@
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
 vmess://eyJhZGQiOiJ1ay5jb25uZnVsbC5vcmciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNGEyNmE3ZjAtY2VjYS00NDBiLWJjMWEtNTc3YWFiNDFhNmUwIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiMjA1MiIsInBzIjoi8J+MnThAcHJveHlfa2FmZWUiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
-vmess://eyJ2IjoiMiIsInBzIjoiQHYycmF5Y29uZmlnYW1pciA1NTM1IiwiYWRkIjoiMTcyLjIzMy4xNy43NiIsInBvcnQiOiIyMjMyNCIsImlkIjoiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwiYWlkIjoiMSIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiIiwidGxzIjoiIiwiZnAiOiJjaHJvbWUifQ==
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HqfCfh6oxIiwiYWRkIjoiNTEuODMuMTk3LjE0MCIsInBvcnQiOiI4MCIsImlkIjoiN2Q4YzI5MDQtMDkxNy00MDAyLWJmZjktOWE0NGUxYzkyZmIxIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIvYXBpL3YxIiwidGxzIjoibm9uZSIsInNuaSI6IiIsImFscG4iOiIiLCJmcCI6IiJ9
 vmess://04621bae-ab36-11ec-b909-0242ac120002@45.92.70.236:22324?encryption=auto&security=none&type=tcp#🌶️11@oneclickvpnkeys
 vmess://2f3aadae-66c6-4dca-a670-03c183f8024e@103.31.79.186:443?encryption=auto&host=sctest1.dr-ping.ir&path=/kos-nanat-decoder&security=tls&sni=sctest1.dr-ping.ir&type=ws#🌝56@oneclickvpnkeys
 vmess://2f3aadae-66c6-4dca-a670-03c183f8024e@104.18.32.47:443?encryption=auto&host=sctest1.dr-ping.ir&path=/kos-nanat-decoder&security=tls&sni=sctest1.dr-ping.ir&type=ws#🌝60@oneclickvpnkeys
