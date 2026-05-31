@@ -3,12 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3YTVhZjUwMGNiMjk1OTM1@149.102.144.110:18337#%40v2node%23irancell-May30%F0%9F%91%89%F0%9F%8F%BB14
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3OGI2ZTkzZTU0MjI1ODAz@51.75.168.50:26179#%40v2node%23irancell-May30%F0%9F%91%89%F0%9F%8F%BB15
-ss://YWVzLTI1Ni1nY206ZjRlN2NjM2ItMWZkZS00ODYxLTlhN2UtMjk0NzI4ZDhhMTZh@uk1.connectsuite.org:2083#%40v2node%23irancell-May30%F0%9F%91%89%F0%9F%8F%BB11
-trojan://humanity@104.17.121.71:443?type=ws&security=tls&path=%2Fassignment&host=www.creationlong.org&sni=www.creationlong.org&alpn=http%2F1.1&fp=chrome&allowInsecure=0#
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpidkdhMDU0TWF1eUNPbWFlWXRXdU9K@195.93.253.240:14130#%F0%9F%A6%841@oneclickvpnkeys
-vless://19804f6b-3661-4eca-b294-ba37196dab5b@129.6.29.255:443?encryption=none&type=ws&security=tls&path=%2Fid-tksi&host=graph.instagram.com.cyylr.eu.cc&sni=graph.instagram.com.cyylr.eu.cc&alpn=http%2F1.1&fp=chrome&allowInsecure=0#
 vless://41d480fd-1dcc-4766-8e01-a67e7faa5934@129.6.29.253:443?encryption=none&type=ws&security=tls&path=%2Fid-amz&host=investors.spotify.com.cyylr.eu.cc&sni=investors.spotify.com.cyylr.eu.cc&alpn=http%2F1.1&fp=chrome&allowInsecure=0#
 trojan://humanity@216.24.57.7:443?type=ws&security=tls&path=%2Fassignment&host=www.ignitelimit.com&sni=www.ignitelimit.com&allowInsecure=0#
 vless://749a5df1-2d12-45cf-80f3-f85ea6b2e405@31.76.53.0:443?security=reality&encryption=none&pbk=Fp0-VrMBeaQe9xOrehDYHt0mqTZL-5CdfuMEzoXkOE8&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=google.com#%40AzadWeb_iR%20%F0%9F%8D%8F
