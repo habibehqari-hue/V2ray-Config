@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://c65ca957-329a-0001-8e62-eaaa48468833@b02.connectv.net:443?security=reality&encryption=none&pbk=0RegtdcQHk9Fg95kgn5jmRglN6N3sdk3ZhrFXvmbrgk&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=b02.connectv.net#🇷🇺RU-🚀@VPNine1
 vless://c65ca957-329a-0004-8e62-eaaa48468833@spb.connectv.net:443?security=reality&encryption=none&pbk=vegx20Xc9XIkr8nfdEB7LZnficXNURVnDbB8_ND97Dw&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=spb.connectv.net#🇺🇸US-🚀@VPNine1
 vless://c72a3220-3e77-46e9-b5c7-0c3b6f29d130@185.143.233.235:2052?path=/&security=none&encryption=none&host=arvin.irzeus.ir&type=ws#%vmessorg
 vless://c7addea9-6d8a-48d6-8a00-aa99b8ece143@188.114.97.6:443?path=/path&security=tls&encryption=none&insecure=0&host=ws35.adsvxpro.com&fp=chrome&type=ws&allowInsecure=0&sni=ws35.adsvxpro.com#🛰️ Channel : @NitruStore 173
@@ -502,4 +503,3 @@ vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@141.193.213.10:443?path=/tsghdws&se
 vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@141.193.213.10:443?path=/tsghdws&security=tls&encryption=none&host=octopusss4.com&fp=chrome&type=ws&sni=octopusss4.com#@hi_proxy_iran :👈کانال تلگرام
 vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@141.193.213.10:443?path=/tsghdws&security=tls&encryption=none&host=octopusss4.com&fp=chrome&type=ws&sni=octopusss4.com#@outline_ir
 vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@141.193.213.10:443?path=/tsghdws&security=tls&encryption=none&host=octopusss4.com&type=ws&sni=octopusss4.com#@outline_ir
-vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@141.193.213.10:443?path=/tsghdws&security=tls&encryption=none&host=octopusss4.com&type=ws&sni=octopusss4.com#[72896] - Telegram : @V2All

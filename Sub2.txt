@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+trojan://SoftNetConnect@167.233.77.47:443?mode=auto&path=/&security=reality&extra={"xPaddingBytes":"100-1000"}&pbk=r3L15Vu29-90ra6YDfoOVU2Tfmn1yqE-XKD7-avJ_z4&fp=chrome&spx=/&type=xhttp&sni=www.yahoo.com&sid=e29c3f1ca8acb2#@tootffarangi🍓🔥
 trojan://SoftNetConnect@167.233.77.47:443?mode=auto&path=/&security=reality&extra={"xPaddingBytes":"100-1000"}&pbk=r3L15Vu29-90ra6YDfoOVU2Tfmn1yqE-XKD7-avJ_z4&fp=chrome&spx=/&type=xhttp&sni=www.yahoo.com&sid=e29c3f1ca8acb2#🇩🇪53387 | ⚡️Telegram = t.me/SOSkeyNET
 trojan://SoftNetConnect@167.233.77.47:443?mode=auto&path=/&security=reality&extra={"xPaddingBytes":"100-1000"}&pbk=r3L15Vu29-90ra6YDfoOVU2Tfmn1yqE-XKD7-avJ_z4&fp=chrome&spx=/&type=xhttp&sni=www.yahoo.com&sid=e29c3f1ca8acb2#🇩🇪DE-🚀@VPNine1
 trojan://SoftNetConnect@167.233.77.47:443?type=xhttp&security=reality&path=/&mode=auto&extra={"xPaddingBytes":"100-1000"}&sni=www.yahoo.com&fp=chrome&allowInsecure=1&pbk=r3L15Vu29-90ra6YDfoOVU2Tfmn1yqE-XKD7-avJ_z4&sid=e29c3f1ca8acb2&spx=/#@MoOon_proxy ( VIP
@@ -502,4 +503,3 @@ vless://0b0b8f0b-4b9e-4965-8e02-3ce8fa02ac55@104.21.65.15:443?security=tls&sni=f
 vless://0b0b8f0b-4b9e-4965-8e02-3ce8fa02ac55@104.21.65.15:443?security=tls&sni=freedom7.haner40160.workers.dev&type=ws&host=freedom7.haner40160.workers.dev&path=/&fp=chrome#🚀@VPNine1
 vless://0b0bd858-dc7f-425b-b026-e28224425058@171.22.136.84:443?type=ws&encryption=none&path=/path&host=play.google.com&security=none#🦉@FreeConfigForYou
 vless://0b0f0f45-b79a-4647-b466-d7879cd4aeea@45.92.219.119:7443?security=reality&encryption=none&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=d82fb387#@VPsave
-vless://0b0f0f45-b79a-4647-b466-d7879cd4aeea@45.92.219.119:7443?security=reality&encryption=none&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=d82fb387#@hi_proxy_iran :👈کانال تلگرام

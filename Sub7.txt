@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://@JynMarket@69.84.182.49:443?mode=packet-up&path=/JynMarket&security=tls&alpn=h2,http/1.1&encryption=none&extra={"scMaxEachPostBytes":"1000000","scMinPostsIntervalMs":"30","seqKey":"invalid","seqPlacement":"cookie","sessionKey":"referid-JynMarket","sessionPlacement":"header","uplinkHTTPMethod":"PUT","xPaddingBytes":"100-1000"}&insecure=0&host=a.pedramdns.shop&fp=chrome&type=xhttp&allowInsecure=0&sni=a.pedramdns.shop#@JynMarket🍃🐦‍🔥
 vless://@JynMarket@69.84.182.49:443?mode=packet-up&path=/JynMarket&security=tls&alpn=h2,http/1.1&encryption=none&extra={"scMaxEachPostBytes":"1000000","scMinPostsIntervalMs":"30","xPaddingBytes":"100-1000"}&insecure=0&host=nw.pedramdns.shop&fp=chrome&type=xhttp&allowInsecure=0&sni=nw.pedramdns.shop#JynMarket-0k715r0gv1-30D⏳
 vless://@MOSAVI_VPN@159.69.5.117:43141?path=/&security=none&encryption=none&type=ws#@Mosavi_vpn
 vless://@MOSAVI_VPN@159.69.5.117:43141?path=/&security=none&encryption=none&type=ws#@Mosavi_vpn  Join For more⬇️ https://t.me/mosavi_vpn
@@ -502,4 +503,3 @@ vless://c466ef48-fb57-40c6-808d-ee48d537844d@216.24.57.6:8443?encryption=none&se
 vless://c466ef48-fb57-40c6-808d-ee48d537844d@216.24.57.6:8443?path=/&security=tls&encryption=none&insecure=0&host=kakoolnews.joinkakoolnews.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=kakoolnews.joinkakoolnews.workers.dev#@Morrfinchnl
 vless://c5028183-96af-4b40-b362-12d46527c823@213.165.42.40:36985?security=reality&encryption=none&pbk=CgnlqjbaLZhDiGsk69nT8k7HzOCxtVTEnLViz3AfD2c&headerType=none&fp=chrome&spx=/&type=tcp&sni=www.yahoo.com&sid=0a41bdaa#♾️𝗝𝗼𝗶𝗻➠🆔️@ATLAS_V2VPN🆓️🛜🔷️378🌐🆕️
 vless://c61ac406-6661-4f55-a731-fd48f4c03079@104.17.147.22:80?path=/@Vpn_Mikey،@Vpn_Mikey&security=none&encryption=none&host=Vpn_Mikey-speedtest.net.Amir-Mikey.Tech.&type=httpupgrade#@Vpn_Mikey | unlimitedGB 🇫🇷
-vless://c65ca957-329a-0001-8e62-eaaa48468833@b02.connectv.net:443?security=reality&encryption=none&pbk=0RegtdcQHk9Fg95kgn5jmRglN6N3sdk3ZhrFXvmbrgk&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=b02.connectv.net#🇷🇺RU-🚀@VPNine1
