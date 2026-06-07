@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://a37f824a-e9ce-43cf-9193-d1be34cf89a6@FaStly1.YaShArMoBiLe.cOm:8880?security=none&type=ws&headerType=&path=/?ed=2080&host=mastercdn2.yasharteam.com#🇳🇱 متود (1)
 vless://a37f824a-e9ce-43cf-9193-d1be34cf89a6@Ip.yaShaRteAm.cOm:8880?security=none&type=ws&headerType=&path=/?ed=2080&host=moslem1.yasharteam.com#🇳🇱 متود (2)
 vless://a37f824a-e9ce-43cf-9193-d1be34cf89a6@svn.yasharmobile.com:3838?security=none&type=tcp&headerType=http&path=/&host=cdn.jsdelivr.net#🇮🇷 سرویس ویژه نت ملی
 vless://a37f824a-e9ce-43cf-9193-d1be34cf89a6@svn.yasharmobile.com:690?security=none&encryption=none&headerType=none&type=tcp#@Gap_ip
@@ -502,4 +503,3 @@ vless://d85b313a-bc5c-4f40-8d17-dd24861a28f4@Fast.postshup.ir:8880?path=/?ed=208
 vless://d85b313a-bc5c-4f40-8d17-dd24861a28f4@cd.land4k.com:443?path=/news&security=tls&alpn=h3,h2&encryption=none&insecure=0&host=cdn-pro4.postshup.ir.&fp=chrome&type=ws&allowInsecure=0&sni=cdn-pro4.postshup.ir.#🇨🇦55846 | ⚡️Telegram = t.me/SOSkeyNET
 vless://d85b313a-bc5c-4f40-8d17-dd24861a28f4@cd.land4k.com:443?path=/news&security=tls&alpn=h3,h2&encryption=none&insecure=0&host=cdn-pro4.postshup.ir.&fp=chrome&type=ws&allowInsecure=0&sni=cdn-pro4.postshup.ir.#👉🆔@freenettir📡🇨🇦®️Canada©️Toronto🅿️ping:77.31ms
 vless://d85b313a-bc5c-4f40-8d17-dd24861a28f4@www.speedtest.net:443?path=/news&security=tls&alpn=h3,h2&encryption=none&insecure=0&host=cdn-pro1.postshup.ir.&fp=chrome&type=ws&allowInsecure=0&sni=cdn-pro1.postshup.ir.#🇨🇦55849 | ⚡️Telegram = t.me/SOSkeyNET
-vless://d85b313a-bc5c-4f40-8d17-dd24861a28f4@www.speedtest.net:443?path=/news&security=tls&alpn=h3,h2&encryption=none&insecure=0&host=cdn-pro1.postshup.ir.&fp=chrome&type=ws&allowInsecure=0&sni=cdn-pro1.postshup.ir.#👉🆔@freenettir📡🇨🇦®️Canada©️Toronto🅿️ping:108.45ms
