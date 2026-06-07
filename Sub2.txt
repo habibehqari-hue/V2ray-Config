@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+trojan://SoftNetConnect@37.27.186.225:8443?type=xhttp&security=reality&path=/&mode=auto&extra={"xPaddingBytes":"100-1000"}&sni=www.icloud.com&fp=chrome&allowInsecure=1&pbk=DJahVHFtcuTNluFrRVx-QZjtaiSMvW9XB73Yv3b2cSI&sid=e7&spx=/#
+trojan://SoftNetConnect@46.62.201.63:2087?type=xhttp&security=reality&path=/&mode=auto&extra={"xPaddingBytes":"100-1000"}&sni=www.icloud.com&fp=chrome&allowInsecure=1&pbk=MGsu9-MZjoV5ReYAQFYIDoDbC5m4De0QC1i0XhcpWjU&sid=f7e48a54&spx=/#@MoOon_proxy ( 3️⃣finl
 trojan://SoftNetConnect@46.62.201.63:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=reality&pbk=7QujZCFY-5FCBpHciv7YuzmE0eoqqkH3UyPKoW9ny1E&headerType=none&fp=chrome&spx=/&type=tcp&sni=www.yahoo.com&sid=53#🇫🇮 t.me/Natrixo AA
 trojan://SoftNetConnect@46.62.201.63:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=reality&pbk=7QujZCFY-5FCBpHciv7YuzmE0eoqqkH3UyPKoW9ny1E&headerType=none&fp=chrome&spx=/&type=tcp&sni=www.yahoo.com&sid=53#👉🆔@v2ray_configs_pool📡🇫🇮®️Finland©️Helsinki🅿️ping:23.86ms
 trojan://SoftNetConnect@46.62.201.63:443?security=reality&pbk=7QujZCFY-5FCBpHciv7YuzmE0eoqqkH3UyPKoW9ny1E&headerType=none&fp=chrome&spx=/&type=tcp&sni=www.yahoo.com&sid=53#@best_internet_iran جوین شو قطع نمونی🔥🇮🇷
@@ -501,5 +503,3 @@ vless://0f0b7f69-78e1-4e9e-8b35-0986444613e4@188.114.97.6:443?encryption=none&ty
 vless://0f0b7f69-78e1-4e9e-8b35-0986444613e4@188.114.97.6:443?encryption=none&type=ws&security=tls&path=/index.html&sni=ve52.pages.dev&allowInsecure=0&ech=ip.gs+udp://8.8.8.8#🔵@chillguy_vpn
 vless://0f0b7f69-78e1-4e9e-8b35-0986444613e4@188.114.97.6:443?encryption=none&type=ws&security=tls&path=/index.html&sni=vrnt4.pages.dev&allowInsecure=0&ech=54.mk+udp://8.8.8.8#2https://t.me/ConfigX2ray
 vless://0f0b7f69-78e1-4e9e-8b35-0986444613e4@188.114.97.6:443?encryption=none&type=ws&security=tls&path=/index.html&sni=vrnt4.pages.dev&allowInsecure=0&ech=54.mk+udp://8.8.8.8#@filembad
-vless://0f0b7f69-78e1-4e9e-8b35-0986444613e4@188.114.97.6:443?encryption=none&type=ws&security=tls&path=/index.html&sni=vrnt4.pages.dev&allowInsecure=0&ech=54.mk+udp://8.8.8.8#[73668] - Telegram : @V2All
-vless://0f0b7f69-78e1-4e9e-8b35-0986444613e4@188.114.97.6:443?encryption=none&type=ws&security=tls&path=/index.html&sni=vrnt4.pages.dev&allowInsecure=0&ech=54.mk+udp://8.8.8.8#🔵@chillguy_vpn
