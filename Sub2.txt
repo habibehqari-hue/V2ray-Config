@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+trojan://Masir_Sefid@84.234.31.111:443?security=reality&pbk=03be_-tMiVFxrLwXO7TMr4HTN4o68ai5Vd5Y2HeIgBQ&headerType=none&fp=chrome&spx=/QAOaxSnbH2vawds&type=tcp&sni=store.steampowered.com&sid=84e87fdcdf2ea9e8#@internet_azad_2026 :کانال ما
+trojan://Masir_Sefid@84.234.31.249:1040?security=reality&pbk=w0XepGv1Hk0gBh1Apiw-nvn8SfzjWcDuxdxN1mpaF3g&headerType=none&fp=chrome&spx=/aRBYGa427aKKE16&type=tcp&sni=store.steampowered.com&sid=84e87fdcdf2ea9e8#⚡@V2ray_official
+trojan://Masir_Sefid@84.234.31.249:2083?security=reality&pbk=w0XepGv1Hk0gBh1Apiw-nvn8SfzjWcDuxdxN1mpaF3g&headerType=none&fp=chrome&spx=/ChZzHJgLH1mdM6A&type=tcp&sni=store.steampowered.com&sid=84e87fdcdf2ea9e8#⚡@V2ray_official
+trojan://Masir_Sefid@84.234.31.249:443?security=reality&pbk=w0XepGv1Hk0gBh1Apiw-nvn8SfzjWcDuxdxN1mpaF3g&headerType=none&fp=chrome&spx=/zyKRb3NaP9Ee0j4&type=tcp&sni=store.steampowered.com&sid=6ced01fc4aa417#@internet_azad_2026 : کانال ما
+trojan://Masir_Sefid@84.234.31.249:443?security=reality&pbk=w0XepGv1Hk0gBh1Apiw-nvn8SfzjWcDuxdxN1mpaF3g&headerType=none&fp=chrome&spx=/zyKRb3NaP9Ee0j4&type=tcp&sni=store.steampowered.com&sid=6ced01fc4aa417#@prrofile_purple ♥️
 trojan://Masir_Sefid@84.234.31.249:443?security=reality&pbk=w0XepGv1Hk0gBh1Apiw-nvn8SfzjWcDuxdxN1mpaF3g&headerType=none&fp=chrome&spx=/zyKRb3NaP9Ee0j4&type=tcp&sni=store.steampowered.com&sid=6ced01fc4aa417#⚡@V2ray_official
 trojan://Masir_Sefid@84.234.31.249:443?security=reality&pbk=w0XepGv1Hk0gBh1Apiw-nvn8SfzjWcDuxdxN1mpaF3g&headerType=none&fp=chrome&spx=/zyKRb3NaP9Ee0j4&type=tcp&sni=store.steampowered.com&sid=6ced01fc4aa417#⚫ 14 • @spotfyhits ❤
 trojan://Sg11afdb3c058cf8211956@ip1.hostparsa.ir:443?mode=auto&path=/download&security=tls&alpn=h2,http/1.1&extra={"scMaxEachPostBytes":1000000.0,"scMaxConcurrentPosts":100.0,"scMinPostsIntervalMs":30.0,"xPaddingBytes":"100-1000","noGRPCHeader":false}&host=x2-dpim9mztudx78ieloo1t.parsiclouds.ir&fp=chrome&allowinsecure=0&type=xhttp&sni=x2-dpim9mztudx78ieloo1t.parsiclouds.ir#🇩🇪All⁹ | @AarazV2ray
@@ -498,8 +503,3 @@ vless://129400e5-7d1b-4720-bf3e-f877c3e5021e@5.199.171.88:443?security=reality&e
 vless://12d8b109-394d-4d0c-a208-2b9a41f09f36@188.114.97.6:443?path=/my-wbv&security=tls&encryption=none&insecure=0&host=ads.ruangguru.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=ads.ruangguru.com.cyylr.eu.cc#TEL:Father_vpn
 vless://12e2b366-6426-4e09-9c6f-9c894262b923@de2.niekotin.de:80?encryption=none&host=de2.niekotin.de&path=/vless&security=none&type=ws#🪭57@oneclickvpnkeys
 vless://12e2b366-6426-4e09-9c6f-9c894262b923@de2.niekotin.de:80?encryption=none&path=/vless&security=none&type=ws#🪭54@oneclickvpnkeys
-vless://12e2b366-6426-4e09-9c6f-9c894262b923@de2.niekotin.de:80?path=/vless&security=none&encryption=none&type=ws#@VPsave
-vless://1302d92c-bbd7-4b77-a660-849fe723d233@marzbans.dadashinet10.ir:2044?security=&encryption=none&host=arvancload.ir&headerType=http&type=tcp#🇨🇴59842 | ⚡️Telegram = t.me/SOSkeyNET
-vless://1302d92c-bbd7-4b77-a660-849fe723d233@marzbans.dadashinet10.ir:2044?security=&encryption=none&host=arvancload.ir&headerType=http&type=tcp#🇹🇷TR-🚀@VPNine1
-vless://13ad36e6-c091-43f2-8505-47d868dd544c@172.67.141.220:80/?type=ws&encryption=none&host=ghju.apocalypse.cc.cd&path=/XR8So0uqFVa3vY9ZbxgW4&note=@FreeOnlineVPN#🇺🇸 - US - @FreeOnlineVPN
-vless://13bbbb75-2ec5-4262-9784-fe8b6e94510b@yt6.safepass.click:443?security=reality&encryption=none&pbk=ELp9PUvVnkoFJYiscWrbnPXRnsYdELSCbIz9wNmMRRw&host=@ProxyVPN11&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=timeweb.cloud&sid=965af8960474c29c#🇳🇱 @ProxyVPN11
