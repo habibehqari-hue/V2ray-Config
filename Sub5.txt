@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://48eabd37-500d-403f-8e8f-715d1e17bffd@89.167.82.102:2052?mode=auto&path=/Path&security=none&encryption=none&extra={"xPaddingBytes":"100-1000"}&host=89.167.82.102&type=xhttp#@vmesskhodam
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.198:23576?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fuck.rkn&fp=chrome&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01&type=tcp&headerType=none#🔵@chillguy_vpn
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.103:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#IR-@V2rayAlpha-18
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.93:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#@CUSTOMVPNSERVER
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.93:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#⚡Telegram =@CUSTOMVPNSERVER
@@ -503,3 +501,5 @@ vless://7762470f-39ea-2c8e-a4be-ca6fbb3a044f@104.17.100.248:443?type=tcp&encrypt
 vless://7772d968-52d2-459b-88c5-4c6d0a20f92a@euro.connectingissues.ir:80?mode=auto&path=/?ed=2048&security=none&encryption=none&extra={"scMaxEachPostBytes":"1000000","scMinPostsIntervalMs":"30","xPaddingBytes":"100-1000"}&host=shirin-kose.de&type=xhttp#@Poori_Vpn | 4
 vless://7772d968-52d2-459b-88c5-4c6d0a20f92a@global.connectingissues.ir:80?mode=auto&path=/?ed=2048&security=none&encryption=none&extra={"scMaxEachPostBytes":"1000000","scMinPostsIntervalMs":"30","xPaddingBytes":"100-1000"}&host=shirin-kose.de&type=xhttp#@Poori_Vpn | 6
 vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@172.64.149.209:2087?encryption=none&security=tls&sni=fgnix832fx.fx6hsv0.ccwu.cc&insecure=0&allowInsecure=0&type=ws&host=fgnix832fx.fx6hsv0.ccwu.cc&path=/#🇸🇬 Join+Telegram:@Farah_VPN 🇸🇬
+vless://77e69c70-31b4-44ea-af46-4664df9a614c@45.130.125.218:8443?mode=auto&path=/DrPing_channel&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=app5.dr-ping.com#@prrofile_purple  ♥️👈 تلگرام
+vless://783d226a-2a05-4b38-a93e-616da5990c42@45.195.137.2:8443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&security=reality&sid=cf9d145ad8f1ea55&sni=storage.yandex.net&type=tcp#🧢41@oneclickvpnkeys
