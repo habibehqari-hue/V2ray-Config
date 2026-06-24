@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://833f628c-1d6b-4dd1-89c9-40a8320f1a2c@144.31.159.84:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=e3pn9C1M3g6zh0CMZS3L-GuDH71NNUcoy18quvlgfWw&security=reality&sid=165b0fe73e74&sni=www.nvidia.com&type=tcp#🐬76@oneclickvpnkeys
+vless://83a589e2-3680-4bc2-a4e6-ed8f2d2452b4@188.114.97.6:2096?mode=gun&security=tls&encryption=none&insecure=0&type=grpc&serviceName=entekhab.ir.iribnews.ir.alalamtv.net.sharghdaily.com.ifpnews.com.alef.ir.hamshahrionline.ir&allowInsecure=0&sni=emotioNAl-haPPInEsswO85E1O13D.oNeeAt.co#TEL;Father_vpn
 vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.64.35.7:2053?allowInsecure=1&encryption=none&host=josni.hoyes.cloudns.ch&path=/&security=tls&sni=josni.hoyes.cloudns.ch&type=ws#🚀@VPNine1
 vless://83bea1c3-4386-44cc-96de-e72e529a4244@s2.cvbesty.ir:58784?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=THDZjFEtOb85UM7wb9gMkaQeL2sJBarNw4RJ-mBrdWM&sid=3f5684&spx=/&type=grpc#Channel : @Daily_Configs
 vless://83bea1c3-4386-44cc-96de-e72e529a4244@s2.cvbesty.ir:58784?mode=gun&security=reality&encryption=none&pbk=THDZjFEtOb85UM7wb9gMkaQeL2sJBarNw4RJ-mBrdWM&fp=chrome&spx=/&type=grpc&sni=yahoo.com&sid=3f5684#@ReleaseNet
@@ -501,5 +503,3 @@ vless://92e41c23-4b39-464a-bbff-63ef84f317da@156.146.40.201:443?encryption=none&
 vless://92e41c23-4b39-464a-bbff-63ef84f317da@156.146.40.201:443?security=reality&encryption=none&pbk=WMO-BNY1BX2nNlOOQgxLP4D3H-OnE2ypbXlbSMjLRVM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=e764f0ea#🇸🇰@FreakConfig
 vless://92e41c23-4b39-464a-bbff-63ef84f317da@95.173.199.110:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=api-maps.yandex.ru&fp=chrome&pbk=DxMGwax3l0UxFYZE349Fs15huyc4Jwzj6MG7Qrj0HQ0&sid=735093d7&type=tcp&headerType=none#hope of freedom - @anotherme_night
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.100:8443/?type=tcp&encryption=none&flow=&security=tls&sni=cdn9-33.vk-cdnvideo.com#🇷🇴RO-🚀@VPNine1
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.120:8443/?type=tcp&encryption=none&flow=&security=tls&sni=cdn9-33.vk-cdnvideo.com#🇷🇴RO-🚀@VPNine1
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.121:8443/?type=tcp&encryption=none&flow=&security=tls&sni=cdn9-33.vk-cdnvideo.com#🇷🇴RO-🚀@VPNine1
