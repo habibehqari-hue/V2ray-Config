@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://e33372bc-5229-4a87-8171-b691e9737e4a@albania-1.union.monster:443?security=reality&encryption=none&pbk=YTNREQ5mr3HNVUYrgPWfmwLCNLBWNiaPES5_xoiNM04&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=albania-1.tryselfme.vip&sid=b9#
 vless://e33372bc-5229-4a87-8171-b691e9737e4a@albania-1.union.monster:443?security=reality&encryption=none&pbk=YTNREQ5mr3HNVUYrgPWfmwLCNLBWNiaPES5_xoiNM04&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=albania-1.tryselfme.vip&sid=b9#🇦🇱 @ANA_SERVICE
 vless://e33372bc-5229-4a87-8171-b691e9737e4a@finland-3.union.monster:443?security=reality&encryption=none&pbk=78Fsn3YwKNA8HuQfQxXw1a-ItucVpdIWp7x-DIvUxSs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=finland-3.incselfgreat.vip&sid=b9#
 vless://e33372bc-5229-4a87-8171-b691e9737e4a@finland-3.union.monster:443?security=reality&encryption=none&pbk=78Fsn3YwKNA8HuQfQxXw1a-ItucVpdIWp7x-DIvUxSs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=finland-3.incselfgreat.vip&sid=b9#🇫🇮 @ANA_SERVICE
@@ -503,3 +502,4 @@ vless://jina@20.218.137.249:443?security=tls&encryption=none&insecure=0&headerTy
 vless://jina@20.79.160.49:443?security=tls&alpn=http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=jina-207916049-direct.yektanet.co#Telegram : @V2ynpv
 vless://jina@20.79.160.49:443?security=tls&alpn=http/1.1&encryption=none&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&flow=xtls-rprx-vision&sni=jina-207916049-direct.yektanet.co#@v2rayngzendegimamad🕊️
 vless://jina@20.79.160.49:443?security=tls&alpn=http/1.1&encryption=none&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&flow=xtls-rprx-vision&sni=jina-207916049-direct.yektanet.co#IR-@V2rayAlpha-9
+vless://jina@20.79.162.37:443?security=tls&alpn=h2,http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=jina-207916237-direct.yektanet.co#Telegram : @V2ynpv

@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://0eb6b808-3594-4165-a1cd-4aaa14036032@global.connectingissues.ir:80?mode=auto&path=/?ed=2048&security=&encryption=none&host=shirin-kose.de&type=xhttp#@Leecher56
 vless://0eb6b808-3594-4165-a1cd-4aaa14036032@mci.connectingissues.ir:80?mode=auto&path=/?ed=2048&security=&encryption=none&host=shirin-kose.de&type=xhttp#@Leecher56
 vless://0f06e572-eb9a-4831-be66-0646a03b849b@185.173.144.209:37368?path=/meet&security=none&encryption=none&host=play.google.com&type=ws#💥Tel: @Proxy_Vpney (2)
 vless://0f0f568e-de71-4e08-acdd-0865b6cb116c@ww.sansorchi.net:443?sni=5s51da56a8a9.sansorchi.beauty&host=5s51da56a8a9.sansorchi.beauty&type=ws&security=tls&path=/tel/sansorchi_bezan_gheychi_bot&encryption=none#@v2rayconfigamir 2106
@@ -503,3 +502,4 @@ vless://394f6981-a782-4779-9a85-e6cf22935d93@84.17.37.19:8443?security=tls&encry
 vless://394f6981-a782-4779-9a85-e6cf22935d93@87.249.139.244:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#Proxy_Se7en
 vless://394f6981-a782-4779-9a85-e6cf22935d93@87.249.139.244:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#⚡Tel: @Proxy_Vpney (3)
 vless://394f6981-a782-4779-9a85-e6cf22935d93@87.249.139.244:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#⚽Tel: @Proxy_Vpney (5)
+vless://394f6981-a782-4779-9a85-e6cf22935d93@87.249.139.244:8443?security=tls&encryption=none&insecure=0&host=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#https://t.me/v2raynplus |🇹🇷
