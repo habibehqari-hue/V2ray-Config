@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://EarnMoneyarz-ZoRo@155.103.69.33:42841?security=reality&encryption=none&pbk=dzQmB-5PshfbZ228GO154TnSIcKV1HvG8sAhzlLn_zo&headerType=none&fp=chrome&spx=/50S8MSimAOoof6r&type=tcp&sni=www.yahoo.com&sid=a00ad308#@FarazV2ray
-vless://EarnMoneyarz-ZoRo@155.103.69.33:42841?security=reality&encryption=none&pbk=dzQmB-5PshfbZ228GO154TnSIcKV1HvG8sAhzlLn_zo&headerType=none&fp=chrome&spx=/50S8MSimAOoof6r&type=tcp&sni=www.yahoo.com&sid=a00ad308#@NETMelliAnti
 vless://EarnMoneyarz-ZoRo@155.103.69.33:42841?security=reality&encryption=none&pbk=dzQmB-5PshfbZ228GO154TnSIcKV1HvG8sAhzlLn_zo&headerType=none&fp=chrome&spx=/50S8MSimAOoof6r&type=tcp&sni=www.yahoo.com&sid=a00ad308#Tel-@Alpha_V2rayip🤔 1
 vless://EarnMoneyarz-ZoRo@155.103.69.33:42841?security=reality&encryption=none&pbk=dzQmB-5PshfbZ228GO154TnSIcKV1HvG8sAhzlLn_zo&headerType=none&fp=chrome&spx=/50S8MSimAOoof6r&type=tcp&sni=www.yahoo.com&sid=a00ad308#برای اتصال دائمی جوین شو🍘 TelegramID ⌲Express_freevpn 🪩
 vless://EarnMoneyarz-ZoRo@speedtest-chekhost-fastly.amuseftdomainroyal.com:42841?encryption=none&security=reality&sni=www.yahoo.com&fp=chrome&pbk=dzQmB-5PshfbZ228GO154TnSIcKV1HvG8sAhzlLn_zo&sid=20ba44b6e3&spx=/&type=tcp&headerType=none#Tel: @Daily_Configs
@@ -503,3 +501,5 @@ vless://aa5e25fc-c7d7-4e6e-b7f7-105a35c0175a@tamin.ir:80?path=/&security=none&en
 vless://aa9453dc-0e52-4628-8911-933c5286a9da@fanlandv2.sorcepack.ir:52077?mode=gun&security=reality&encryption=none&pbk=PHBDzNOQhRFtN4bDJ6pOySCGlIA09CC_Josq13rTIwk&fp=chrome&type=grpc&sni=yahoo.com&sid=877521a51c7dad43#@Soul737
 vless://aa9453dc-0e52-4628-8911-933c5286a9da@fanlandv2.sorcepack.ir:52077?mode=gun&security=reality&encryption=none&pbk=PHBDzNOQhRFtN4bDJ6pOySCGlIA09CC_Josq13rTIwk&fp=chrome&type=grpc&sni=yahoo.com&sid=877521a51c7dad43#@fastkanfig 1
 vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.16.2.90:443?path=/43.218.77.16&security=tls&encryption=none&insecure=1&host=afrcloud22.mmv.kr&type=ws&allowInsecure=1&sni=.afrcloud22.mmv.kr#@v2rayngzendegimamad🕊️
+vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.16.2.90:443?path=/43.218.77.16=1443&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&type=ws&allowInsecure=0&sni=ProxyVPN11.afrcloud22.mmv.kr#IR-@V2rayAlpha-10
+vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.21.48.147:80?path=/64.181.218.67=443&security=none&encryption=none&host=afrcloud22.mmv.kr&type=ws#@v2rayngzendegimamad🕊️
