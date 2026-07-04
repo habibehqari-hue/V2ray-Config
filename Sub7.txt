@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://6324d103-f5a4-4e27-a1f2-4fe9cb0ab5bf@belnn.appleseraj.ir:2053?path=/?ed=2048&security=tls&encryption=none&insecure=0&host=chez-zzn.appleseraj.ir&fp=chrome&type=ws&allowInsecure=0&sni=chez-zzn.appleseraj.ir#Telegram : @V2ynpv
 vless://632ef785-c9f6-49c1-82c7-4411ba6c48be@bmi.ir.marandcity.com:443?security=reality&alpn=http/1.1&encryption=none&pbk=JtA0d5K6Jnmg35oWP9SDOsc1ceuqaxOsNg33fiPHJQs&host=yahoo.com&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=e915#@Azaranv2ray کانال تلگرام
 vless://632ef785-c9f6-49c1-82c7-4411ba6c48be@bmi.ir.marandcity.com:443?security=reality&alpn=http/1.1&encryption=none&pbk=JtA0d5K6Jnmg35oWP9SDOsc1ceuqaxOsNg33fiPHJQs&host=yahoo.com&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=e915#@appsooner کانال تلگرام 🕊️
 vless://63628a3b-be7a-4eb3-9c83-d5ceeeef1d49@173.249.201.109:44204?path=/@VPNine1&security=tls&encryption=none&host=bapj1qapjk4.0sds0li1bwcz0i76it0gjxv1.workers.dev&fp=chrome&type=ws&sni=bapj1qapjk4.0sds0li1bwcz0i76it0gjxv1.workers.dev&ech=cloudflare-ech.com https://dns.alidns.com/dns-query#🇺🇸US-🚀@VPNine1
@@ -503,3 +502,4 @@ vless://80c01792-7bb5-4818-b531-113c0d6f17a2@23.254.226.60:19351?security=none&e
 vless://8108b2d5-a265-408d-bb9d-b7e5600251b7@65.109.1.138:443?mode=gun&security=reality&encryption=none&authority=speedup&pbk=amn6tV0kGGP_hL2cPt8J1cBj-nVXfLRhVzPCUHM7Ckw&fp=chrome&spx=/sfZB7ixvspFTDq4&type=grpc&serviceName=speedup&sni=speedtest.net&sid=eb71f84110#@V2raySup0🚀
 vless://810b8ba9-3232-42ac-a474-3e921fdc8845@gb7.univesalsrv.com:443?encryption=none&security=tls&sni=gb7.univesalsrv.com&alpn=h2&fp=chrome&type=grpc&authority=&serviceName=mobile.api.Event&mode=gun#مخصوص ایرانسل 🔥
 vless://810b8ba9-3232-42ac-a474-3e921fdc8845@gb7.univesalsrv.com:443?encryption=none&type=grpc&serviceName=mobile.api.Event&security=tls&alpn=h2&fp=chrome&sni=gb7.univesalsrv.com#@v2rayconfigamir 6333
+vless://810b8ba9-3232-42ac-a474-3e921fdc8845@gb7.univesalsrv.com:443?mode=gun&security=tls&alpn=h2&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=mobile.api.Event&allowInsecure=0&sni=gb7.univesalsrv.com#@Soul737

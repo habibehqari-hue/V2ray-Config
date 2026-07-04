@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-trojan://PI36027154@pumped-eft.rooster465.autos:443#%F0%9F%8F%A046@NetFlowTools
-vless://5454343b-541b-4c96-8c2a-52e81079d124@51.44.16.107:31413?security=reality&encryption=none&pbk=nMlxwhP34_5wFPscbso_hOfRDmsj9DonMpDSXUrnJR8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=ead3d6f82a9d#%F0%9D%97%A7%F0%9D%97%B2%F0%9D%97%B9%20%3D%20%40%F0%9D%97%A6%F0%9D%97%B4%F0%9D%98%832%F0%9D%97%BF%F0%9D%97%AE%F0%9D%98%86
-vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@85.155.98.34:443?encryption=none&fp=firefox&host=vpn47.cc.cd&path=%2Ffp%3Dchrome&security=tls&sni=vpn47.cc.cd&type=ws#%F0%9F%8F%A049@NetFlowTools
 vless://c1842b1d-433d-4576-ab60-7603fd3dcc55@blog.webex.com:443?encryption=none&fp=chrome&host=blog.webex.com.yxls.eu.cc&path=%2Fau-do&security=tls&sni=blog.webex.com.yxls.eu.cc&type=ws#%F0%9F%8F%A052@NetFlowTools
 vless://8ad6f598-cd8d-4fca-848e-05fc9be15ff3@love.ns.cloudflare.com:443?encryption=none&fp=chrome&host=deicl.redstone-vex.sbs&path=%2Fsea&security=tls&sni=deicl.redstone-vex.sbs&type=ws#%F0%9F%8F%A055@NetFlowTools
 vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@165.232.81.187:2053?encryption=none&fp=chrome&host=vpn47.cc.cd&path=%2F&security=tls&sni=vpn47.cc.cd&type=ws#%F0%9F%8F%A056@NetFlowTools

@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://46aeacfa-0b4a-4e35-9a0f-6db76e92d4c6@html.iranpood.com:2086?mode=auto&path=/?ed=2082&security=none&encryption=none&host=hh.cafearen.ir&type=xhttp#🇨🇦@V2rayng_Fast
 vless://46aeacfa-0b4a-4e35-9a0f-6db76e92d4c6@html.iranpood.com:2086?mode=auto&path=/?ed=2082&security=none&encryption=none&host=hh.cafearen.ir&type=xhttp#🇨🇦@irconfiig
 vless://46aeacfa-0b4a-4e35-9a0f-6db76e92d4c6@ns2.zabidat.ir:2086?mode=auto&path=/?ed=2082&security=none&encryption=none&host=aa.cafearen.ir&type=xhttp#🇨🇦@FreakConfig
 vless://46aeacfa-0b4a-4e35-9a0f-6db76e92d4c6@ns2.zabidat.ir:2086?mode=auto&path=/?ed=2082&security=none&encryption=none&host=aa.cafearen.ir&type=xhttp#🇨🇦@V2rayng_Fast
@@ -503,3 +502,4 @@ vless://628ee09e-2700-49d4-dbde-2e1c17a9901f@s1.zynavo.ir:2087?mode=auto&path=/B
 vless://628ee09e-2700-49d4-dbde-2e1c17a9901f@s1.zynavo.ir:2087?mode=auto&path=/BetForward&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=1&host=sub.zynavo.ir&fp=chrome&type=xhttp&allowInsecure=1&sni=sub.zynavo.ir#🔵@chillguy_vpn
 vless://62a1c62a-99bf-466e-8270-0aa37fb74be0@104.247.189.230:8443?security=reality&encryption=none&pbk=DGsei9cK5PqALlHa6zaFx82PWRvEK_9-D9TtyiDeNRs&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=chrome&spx=/&type=tcp&sni=www.microsoft.com#https://t.me/v2rayNplus |🇹🇷
 vless://62b430d5-c08e-4c0b-820a-e0c3466be01a@check.hafezsportclub.ir:2052?path=/api-v1?ed=2560&security=&encryption=none&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&type=ws#Proxy_Se7en
+vless://6324d103-f5a4-4e27-a1f2-4fe9cb0ab5bf@belnn.appleseraj.ir:2053?path=/?ed=2048&security=tls&encryption=none&insecure=0&host=chez-zzn.appleseraj.ir&fp=chrome&type=ws&allowInsecure=0&sni=chez-zzn.appleseraj.ir#Telegram : @V2ynpv

@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://810b8ba9-3232-42ac-a474-3e921fdc8845@gb7.univesalsrv.com:443?mode=gun&security=tls&alpn=h2&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=mobile.api.Event&allowInsecure=0&sni=gb7.univesalsrv.com#@Soul737
 vless://810b8ba9-3232-42ac-a474-3e921fdc8845@gb7.univesalsrv.com:443?mode=gun&security=tls&alpn=h2&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=mobile.api.Event&allowInsecure=0&sni=gb7.univesalsrv.com#Proxy_Se7en
 vless://810b8ba9-3232-42ac-a474-3e921fdc8845@gb7.univesalsrv.com:443?mode=gun&security=tls&alpn=h2&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=mobile.api.Event&allowInsecure=0&sni=gb7.univesalsrv.com#برای اتصال دائمی جوین شو🍘 TelegramID ⌲Express_freevpn 🪩
 vless://810b8ba9-3232-42ac-a474-3e921fdc8845@gb7.univesalsrv.com:443?mode=gun&security=tls&alpn=h2&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=mobile.api.Event&allowInsecure=0&sni=gb7.univesalsrv.com#🇬🇧@V2rayng_Fast
@@ -503,3 +502,4 @@ vless://954ee007-ed27-42cc-bfa8-7e104a2a4279@45.131.6.203:2053?encryption=none&s
 vless://954ee007-ed27-42cc-bfa8-7e104a2a4279@45.131.6.203:2053?path=/ws?ed=2560&security=tls&encryption=none&insecure=0&host=airb.pcapps.ir&type=ws&allowInsecure=0&sni=airb.pcapps.ir#➎ 🇩🇪 𝐷𝑒 ‌‌‌‌‌| @v2raybaaz
 vless://954ee007-ed27-42cc-bfa8-7e104a2a4279@bio.ilooo.ir:8443?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&type=tcp&headerType=none#Tel: @Daily_Configs
 vless://954ee007-ed27-42cc-bfa8-7e104a2a4279@bio.ilooo.ir:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=6ba85179e30d4fc2#➏ 🇫🇮 𝐹𝑖 ‌| @v2raybaaz
+vless://954ee007-ed27-42cc-bfa8-7e104a2a4279@cd3.videobazi.com:2053?path=/ws?ed=2560&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=aira.app9.ir&type=ws&allowInsecure=0&sni=aira.app9.ir#➍ 🇩🇪 ‌𝐷𝑒 ‌| @v2raybaaz

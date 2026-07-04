@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://954ee007-ed27-42cc-bfa8-7e104a2a4279@cd3.videobazi.com:2053?path=/ws?ed=2560&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=aira.app9.ir&type=ws&allowInsecure=0&sni=aira.app9.ir#➍ 🇩🇪 ‌𝐷𝑒 ‌| @v2raybaaz
 vless://954ee007-ed27-42cc-bfa8-7e104a2a4279@dl1.solidnet.fun:8080?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#➊ 🇩🇪 𝐷𝑒 | @v2raybaaz
 vless://954ee007-ed27-42cc-bfa8-7e104a2a4279@dl2.app11.ir:8080?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com#Tel: @Daily_Configs
 vless://954ee007-ed27-42cc-bfa8-7e104a2a4279@dl2.app11.ir:8080?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#❷ 🇫🇮 𝐹𝑖 | @v2raybaaz
@@ -503,3 +502,4 @@ vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?path=/LiL?ed&securi
 vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?path=/LiL?ed&security=tls&alpn=h3&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=kingcloud.biack.ir#@erfanandroid
 vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?path=/LiL?ed&security=tls&alpn=h3&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=kingcloud.biack.ir#@hi_proxy_iran :👈کانال تلگرام
 vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?path=/LiL?ed&security=tls&alpn=h3&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=kingcloud.biack.ir#@icv2ray
+vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?path=/LiL?ed&security=tls&alpn=h3&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=kingcloud.biack.ir#@mehrosaboran
