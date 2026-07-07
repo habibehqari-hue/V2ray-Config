@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://24c2a873-4584-4c53-8679-61029682d0bb@172.67.209.127:8880?encryption=none&security=none&type=ws&host=soft-thunder-bc22.111-f59.workers.dev&path=/pyip=ProxyIP.US.CMLiussss.net#t.me/ConfigFori  -  Config 88276
+vless://24d49ddd-67c1-4821-b5b9-f12107366978@104.19.250.20:443?encryption=none&security=tls&sni=bahari.kiamobilepart.com&fp=chrome&alpn=h2,http/1.1&insecure=0&allowInsecure=0&type=ws&host=bahari.kiamobilepart.com&path=/api#canfingV2rayNG-129
+vless://253ded96-665e-420d-86fb-16d4b6701155@stockholm.wizard1.info:2045?mode=gun&security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=chrome&type=grpc&serviceName=xyz&sni=yahoo.com#@Soul737
 vless://2547fcff-03a0-453d-bc20-acd66ef75611@fans2.mahoshid.ir:9560?path=Telegram-@V2ynpv-Telegram-@V2ynpv-Telegram-@V2ynpv-Telegram-@V2ynpv-Telegram-@V2ynpv-&security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#Telegram : @V2ynpv
 vless://254bd66e-d366-46b6-8cc7-c323b1ac666a@143.198.112.154:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=PGqPWFjP9em2F6JEEyOkqkXaFV89_8GE0YZNIh1XIUA&security=reality&sid=175177647b0a54&sni=www.aws.amazon.com&type=tcp#♦️86@NetFlowTools
 vless://254bd66e-d366-46b6-8cc7-c323b1ac666a@143.198.112.154:443?security=reality&encryption=none&pbk=PGqPWFjP9em2F6JEEyOkqkXaFV89_8GE0YZNIh1XIUA&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.aws.amazon.com&sid=175177647b0a54#🇺🇸@FreakConfig
@@ -500,6 +503,3 @@ vless://48198295-b7ba-4b5c-8d85-085d55a6c869@194.76.18.189:443?security=tls&sni=
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@198.62.62.165:443?security=tls&sni=xe.ylks.xyz&type=ws&path=/?proxyip#@Hope_Net-join-us-on-Telegram
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@45.67.215.41:443?security=tls&sni=xe.ylks.xyz&type=ws&path=/?proxyip#@Hope_Net-join-us-on-Telegram
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@63.141.128.219:443?security=tls&sni=xe.ylks.xyz&type=ws&path=/?proxyip#@Hope_Net-join-us-on-Telegram
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@69.84.182.127:443?security=tls&sni=xe.ylks.xyz&type=ws&path=/?proxyip#@Hope_Net-join-us-on-Telegram
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@69.84.182.15:443?security=tls&sni=xe.ylks.xyz&type=ws&path=/blue#@Hope_Net-join-us-on-Telegram
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@69.84.182.94:443?path=/blue&security=tls&encryption=none&type=ws&sni=xe.ylks.xyz#@Hope_Net-join-us-on-Telegram
