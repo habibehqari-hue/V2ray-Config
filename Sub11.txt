@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?encryption=none&security=none&type=tcp&headerType=http#hope of freedom - @anotherme_night
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?encryption=none&type=tcp&headerType=http&host=fn.fifapes.monster#@configprxy
 vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?encryption=none&type=tcp&headerType=http&host=fn.fifapes.monster#@meliproxyy
 vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?security=&encryption=none&headerType=http&type=tcp#@FarazV2ray
 vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?security=&encryption=none&headerType=http&type=tcp#@V2raySaman
@@ -501,5 +503,3 @@ vless://fa937ff5-89cc-49a4-9bf9-da2b7285070d@suolar.yellowsky.ir:2053?mode=auto&
 vless://fabadb83-dcb1-c984-c5fc-117085dea4fd@tmesubgift.up.railway.app:443?encryption=none&security=tls&sni=tmesubgift.up.railway.app&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=tmesubgift.up.railway.app&path=/ws/fabadb83-dcb1-c984-c5fc-117085dea4fd#106
 vless://facefd1f-903b-411d-b0a2-286c9a76e471@63.141.128.91:2096?path=/H334WIRLtBW6tTqG?ed&security=tls&encryption=none&fp=chrome&type=ws&sni=us.XiAoeR.us.Kg#@Hope_Net-join-us-on-Telegram
 vless://facefd1f-903b-411d-b0a2-286c9a76e471@63.141.128.91:2096?security=tls&sni=us.XiAoeR.us.Kg&type=ws&path=/H334WIRLtBW6tTqG?ed&fp=chrome#@Hope_Net-join-us-on-Telegram
-vless://facefd1f-903b-411d-b0a2-286c9a76e471@63.141.128.91:8443?path=/uwHRX9vRmfxJ2eDm?ed&security=tls&encryption=none&fp=chrome&type=ws&sni=US.xiAOEr.uS.kG#@Hope_Net-join-us-on-Telegram
-vless://fb37aadd-b957-4462-8738-80c55d77a52d@91.107.252.109:8080?security=&encryption=none&headerType=&type=tcp#@Soul737

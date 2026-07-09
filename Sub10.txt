@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://c2f41712-c452-402f-9592-c78a83b92ba7@45.130.125.207:2086?mode=auto&path=/?ed=2082&security=none&encryption=none&host=jjjJ.cafearen.ir&type=xhttp#telegram @mtmvpn
+vless://c2f41712-c452-402f-9592-c78a83b92ba7@forallpanel.srtongston.ir:8880?encryption=none&type=httpupgrade&path=/?ed=2082&host=dDD.postshup.ir#@configprxy
 vless://c2f41712-c452-402f-9592-c78a83b92ba7@forallpanel.srtongston.ir:8880?encryption=none&type=httpupgrade&path=/?ed=2082&host=dDD.postshup.ir#@meliproxyy
 vless://c2f41712-c452-402f-9592-c78a83b92ba7@forallpanel.srtongston.ir:8880?path=/?ed=2082&security=none&encryption=none&host=dDD.postshup.ir&type=httpupgrade#@vmesskhodam
 vless://c3117cc5-9528-4177-ac05-73b5e8ebcd23@panel.dibaux.ir:80?encryption=none&host=panel.dibaux.ir&path=/stream&security=none&type=ws#onnevpn-@onnevpn_bot-1.00TB📊-31D⏳  اینم لینک ساب کا نگید دروغ❤😂👇 https:
@@ -501,5 +503,3 @@ vless://eab915bc-d2df-73d1-47d0-6eb240497055@104.252.30.223:8882?encryption=none
 vless://eab915bc-d2df-73d1-47d0-6eb240497055@104.252.30.70:8882?encryption=none&security=none&type=tcp&headerType=http#hope of freedom - @anotherme_night
 vless://eab915bc-d2df-73d1-47d0-6eb240497055@31.57.108.161:8882?encryption=none&security=none&type=tcp&headerType=http#hope of freedom - @anotherme_night
 vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?encryption=none&security=none&type=tcp&headerType=http#@Daily_Configs
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?encryption=none&security=none&type=tcp&headerType=http#hope of freedom - @anotherme_night
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?encryption=none&type=tcp&headerType=http&host=fn.fifapes.monster#@configprxy
