@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://TELEGRAM_MARAMBASHI@80.93.202.2:443?path=/sg-amz#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=support.zoom.us.yxls.eu.cc#@MARAMBASHI 🫂
 vless://Tel-HqV2rayNG-HqV2rayNG@hqhqhq.trmas-qo.ir:80?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#کانفیگ رایگان نت ملی . @fastkanfig
 vless://Telegram : free_conf_iran@135.125.136.238:46989?security=none&encryption=none&headerType=none&type=tcp#Telegram : free_conf_iran 🇩🇪
 vless://Telegram-id-badangellll@169.40.32.218:2053?path=/TEL--Badangellll----TEL--Badangellll----TEL--Badangellll----TEL--Badangellll----TEL--Badangellll----TEL--Badangellll----TEL--Badangellll----TEL--Badangellll----TEL--Badangellll----TEL--Badangellll----TEL--Badangellll----TEL--Badangellll----TEL--Badangellll----TEL--Badangellll----TEL--Badangellll----TEL--Badangellll----TEL--Badangellll----TEL--Badangellll----TEL--Badangellll----TEL--Badangellll----TEL--Badangellll----TEL--Badangellll----TEL--Badangellll----TEL--Badangellll----TEL--Badangellll----TEL--Badangellll----TEL--Badangellll----&security=none&encryption=none&host=169.40.32.218&type=ws#Tel-@ProxyMtAlpha🕸️ 5
@@ -502,4 +503,3 @@ vless://bcce095a-9f98-4e23-a68c-8bbecb785dcd@104.19.140.106:443?path=/213.35.100
 vless://bcce095a-9f98-4e23-a68c-8bbecb785dcd@104.19.140.106:443?path=/213.35.100.31=47112&security=tls&encryption=none&insecure=1&host=afrcloud1.c01.kr&type=ws&allowInsecure=1&sni=afrcloud1.c01.kr#Arshiavpn12
 vless://bcce095a-9f98-4e23-a68c-8bbecb785dcd@104.19.141.129:443?path=/213.35.100.31=47112&security=tls&encryption=none&insecure=1&host=afrcloud1.c01.kr&type=ws&allowInsecure=1&sni=afrcloud1.c01.kr#Arshiavpn12
 vless://bcce095a-9f98-4e23-a68c-8bbecb785dcd@104.19.141.3:443?path=/213.35.100.31=47112&security=tls&encryption=none&insecure=1&host=afrcloud1.c01.kr&type=ws&allowInsecure=1&sni=afrcloud1.c01.kr#@CUSTOMVPNSERVER
-vless://bcce095a-9f98-4e23-a68c-8bbecb785dcd@104.19.141.3:443?path=/213.35.100.31=47112&security=tls&encryption=none&insecure=1&host=afrcloud1.c01.kr&type=ws&allowInsecure=1&sni=afrcloud1.c01.kr#Arshiavpn12

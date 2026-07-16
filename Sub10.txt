@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://deee4a60-e8c3-456f-846f-aa2c2b7fae24@www.visa.com.sg:8880?path=/pyip&security=none&encryption=none&host=broad-bush-c2c8.37-9a0.workers.dev&type=ws#@v2raybaaz ²
 vless://df0e61f6-dd51-49d6-bee7-6d5ff06ae44b@cdn1.portalcode.ir:8443?encryption=none&security=tls&type=xhttp&headerType=none&path=/&host=434df2a384e0a10f.rainzone.ir&mode=auto&sni=434df2a384e0a10f.rainzone.ir&fp=chrome&alpn=h2,http/1.1#✨ @NamiraConfigs | ❤️ وصل شدی جوین شو | 🚀 | 🇧🇪
 vless://df0e61f6-dd51-49d6-bee7-6d5ff06ae44b@cdn1.portalcode.ir:8443?encryption=none&security=tls&type=xhttp&headerType=none&path=/&host=434df2a384e0a10f.rainzone.ir&mode=auto&sni=434df2a384e0a10f.rainzone.ir&fp=chrome&alpn=h2,http/1.1#🇫🇷 ⟡ ⬆️ ʜᴛᴛᴘᴜᴘɢʀᴀᴅᴇ
 vless://df0e61f6-dd51-49d6-bee7-6d5ff06ae44b@cdn1.portalcode.ir:8443?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=434df2a384e0a10f.rainzone.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=434df2a384e0a10f.rainzone.ir#✨ @NamiraConfigs | ❤️ وصل شدی جوین شو | 🚀 | 🇧🇪
@@ -502,4 +503,3 @@ vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.149.209:443?path=/&security=
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.149.209:443?path=/&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#@TEHRANARGO کانالمون 🙃
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.149.209:443?path=/&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#@configprxy کانالمون 🙃
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.150.130:443?allowInsecure=1&encryption=none&host=t1s1.rittbo.kdns.fr&path=/&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#🇺🇸 Join+Telegram:@Farah_VPN 🇺🇸
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.150.130:443?encryption=none&type=ws&security=tls&path=/&host=t1s1.rittbo.kdns.fr&sni=t1s1.rittbo.kdns.fr&insecure=1&allowInsecure=1#🇸🇬 Join+Telegram:@Farah_VPN 🇸🇬

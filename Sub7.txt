@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://88e5e9f3-4929-4383-9ab8-20e3144ae5fe@194.146.68.70:8088?security=reality&encryption=none&pbk=cIWl2OMPg0y8eSBBAi6V3iltlvTueW0wnQvi4A_XIlk&headerType=none&fp=chrome&spx=/GgIhhSpbYW1GzH0&type=tcp&sni=dl2.soft98.ir&sid=4411e5b0b9ee#🕊 @Fear_Config
 vless://89049f79-320b-48a0-b1cf-110165cae30c@37.156.44.6:2083?encryption=none&type=tcp&security=reality&sni=www.yahoo.com&fp=chrome&insecure=1&allowInsecure=1&pbk=l1Ekgk-8T5rB-yolp5OIpc0XZTcd2gBeqmIR2bytKXY&sid=4e590fdc&spx=/&flow=xtls-rprx-vision#@vpng3 [11]
 vless://8910cbb3-33b1-4266-a243-ac780ac63394@pq-albania1.09vpn.com:80?path=/vless/&security=&encryption=none&type=ws#🇦🇱@FreakConfig
 vless://891710f4-45f3-41b1-99a6-6f1510f83c10@1.tls.fastly.veraspeed.ir:443?path=/TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER?ed&security=tls&encryption=none&insecure=0&host=pan21.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#@FarazV2ray
@@ -502,4 +503,3 @@ vless://OwLimbow@nl.bozbozghandi.dpdns.org:8880?security=reality&encryption=none
 vless://RayNetTun@65.109.187.245:443?encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&fp=chrome&host=&mode=auto&path=/&pbk=UeeKSzMnVrDLbeeTRCoaoi-ravGnFXmdY_hy49fUNwI&security=reality&sid=2d783442&sni=www.amazonaws-china.com&spx=/9BoD14jekNBRw86&type=xhttp&x_padding_bytes=100-1000#-@RayNetTun
 vless://SoonTeam@sexi.carderrr.com:443?path=@SylphNet&security=none&encryption=none&host=anten.ir&type=ws#@SylphNet | 2026-06-27 04:22
 vless://TELEGRAM-NUFiLTER@fast.cd-tur4.ir:443?path=/TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER?ed=2053&security=tls&encryption=none&insecure=0&host=nesfeshzksab.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=default.ssl.fastly.net#@NUFiLTER(ViP)🇳🇱
-vless://TELEGRAM_MARAMBASHI@80.93.202.2:443?path=/sg-amz#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=support.zoom.us.yxls.eu.cc#@MARAMBASHI 🫂
