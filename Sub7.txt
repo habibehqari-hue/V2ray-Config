@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.18.42.163:2095?path=/&security=&encryption=none&host=download.pusytroller.gq&type=ws#@Generalconfiig
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.18.42.163:2095?path=/&security=none&encryption=none&host=download.pusytroller.gq&type=ws#@FarazV2ray
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.18.42.163:2095?path=/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=none&encryption=none&host=download.pusytroller.gq&type=ws#@MARAMBASHI 💎
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.24.197.20:2095?path=/&security=&encryption=none&host=cnmfangbinxing.cnmfangbinxing-q.workers.dev&type=ws#⚪t.me/iProxyChannel 5
@@ -503,3 +502,4 @@ vless://@MAconnectt@crossover.proxy.rlwy.net:19037?mode=auto&path=/&security=rea
 vless://@MAconnectt@crossover.proxy.rlwy.net:19037?mode=auto&path=/&security=reality&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&pbk=rpKxhngw9eTonYIzXHi6tqknO7UXmjNOLDs9zDl2jTE&fp=chrome&spx=/&type=xhttp&sni=is1-ssl.mzstatic.com&sid=99318e5f#🔵@chillguy_vpn
 vless://@MAconnectt@crossover.proxy.rlwy.net:35222?mode=auto&path=/&security=reality&encryption=none&extra={"xPaddingBytes":"100-1000","mode":"auto","scMaxEachPostBytes":"1000000"}&pbk=ftTKCtDxYIJloaVJiZb1HNLQTQuqzVfVVdZRat7oBwk&fp=chrome&spx=/&type=xhttp&sni=is1-ssl.mzstatic.com&sid=ade2d2ba#@MACONNECTT_Netherlands
 vless://@MAconnectt@hayabusa.proxy.rlwy.net:13278?mode=auto&path=/&security=reality&encryption=none&extra={"xPaddingBytes":"100-1000","mode":"auto","scMaxEachPostBytes":"1000000"}&pbk=0cyRtbvDd4BoS6dRnQKOeTB2cjKm3_YqvxntBqBsFSo&fp=chrome&spx=/&type=xhttp&sni=is1-ssl.mzstatic.com&sid=b2ce16#@MACONNECTT_Netherlands
+vless://@MAconnectt@hayabusa.proxy.rlwy.net:55876?mode=auto&path=/&security=reality&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&pbk=CHkCRZqoKzt2offyf6IUl05dV3titoj5oe2mGnFwkwQ&fp=chrome&spx=/&type=xhttp&sni=is1-ssl.mzstatic.com&sid=b687#@MAconnectt🇳🇱2
