@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://7b84db8b-65cd-4072-9c57-dadae303feec@104.17.74.206:8443?path=/&security=tls&encryption=none&insecure=0&host=free.isurux.dpdns.org&fp=chrome&type=ws&allowInsecure=0&sni=free.isurux.dpdns.org#🔵t.me/iProxyChannel 16
 vless://7b8ff2bf-29c0-4a4f-8925-9f9ef6e486f5@104.24.152.211:8880?path=/pyip=ProxyIP.US.CMLiussss.net&security=&encryption=none&host=long-math-be5a.233-98b.workers.dev&type=ws#🔵t.me/iProxyChannel 3
 vless://7ba17ba6-8d1d-4968-882b-f5a3b43eb51d@icy-morning-df86.alisooltaniiii2024ali.workers.dev:443?path=/&security=tls&encryption=none&insecure=0&host=icy-morning-df86.alisooltaniiii2024ali.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=icy-morning-df86.alisooltaniiii2024ali.workers.dev#🟡t.me/iProxyChannel 3
 vless://7bb6d2aa-6238-48a6-abe2-c7deb083b08e@velsanto.online:8443?security=reality&encryption=none&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=04bf0403f96e5b4b#TEL;Father_vpn
@@ -503,3 +502,4 @@ vless://880318d9-db5d-46f4-8ea1-a81df79f872a@zeus-panel-5kd9xf.peekconfigtelegra
 vless://88203f09-90ad-4e89-8707-cc26cf2a1591@173.245.58.214:2053?path=/&security=tls&encryption=none&insecure=0&host=snowy-waterfall-1901.ali1112.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=snowy-waterfall-1901.ali1112.workers.dev#kurdconfig
 vless://88203f09-90ad-4e89-8707-cc26cf2a1591@173.245.58.214:2053?path=/&security=tls&encryption=none&insecure=0&host=snowy-waterfall-1901.ali1112.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=snowy-waterfall-1901.ali1112.workers.dev#🇨🇦@FreakConfig
 vless://882516d7-aa11-4dbd-962c-e72cd3c49c0b@167.82.101.210:443?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=none&extra={"scMaxEachPostBytes":1000000,"scMaxConcurrentPosts":100,"scMinPostsIntervalMs":30,"xPaddingBytes":"100-1000","noGRPCHeader":false}&host=farangis.global.ssl.fastly.neT.&fp=chrome&type=xhttp&sni=global.fastly.coM.#✅  @vistav2ray  👈👈کانال ما ✅
+vless://882516d7-aa11-4dbd-962c-e72cd3c49c0b@yamal.sav-savteam.ir:6985?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#@icv2ray

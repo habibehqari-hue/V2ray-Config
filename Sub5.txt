@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://578c8541-16a0-40b7-bf72-9508d547f856@185.185.142.98:8443?mode=auto&path=/video&security=reality&encryption=none&pbk=NozDA4apA_XQ_wzcJCZx7VXAD285J_HSs4w_GvBfJHA&fp=chrome&spx=/&type=xhttp&sni=cdn.jsdelivr.net&sid=63903c2e#🇷🇺@V2rayng_Fast
 vless://57d22829-187c-4f83-b757-d6e367ca6de8@162.159.38.119:443?path=/au-mt&security=tls&encryption=none&insecure=0&host=blog.webex.com.yxls.eu.cc&type=ws&allowInsecure=0&sni=blog.webex.com.yxls.eu.cc#kurdconfig
 vless://57d22829-187c-4f83-b757-d6e367ca6de8@162.159.38.119:443?path=/au-mt&security=tls&encryption=none&insecure=0&host=blog.webex.com.yxls.eu.cc&type=ws&allowInsecure=0&sni=blog.webex.com.yxls.eu.cc#🇺🇸@FreakConfig
 vless://57d22829-187c-4f83-b757-d6e367ca6de8@162.159.38.119:443?path=/au-mt&security=tls&encryption=none&insecure=0&host=blog.webex.com.yxls.eu.cc&type=ws&allowInsecure=0&sni=blog.webex.com.yxls.eu.cc#🇺🇸@V2rayng_Fast
@@ -503,3 +502,4 @@ vless://7b327922-0f96-4c5e-96c9-e3df0431623c@45.130.125.198:443?alpn=h3,h2,http/
 vless://7b4b7d4e-7a53-4c0c-bd8e-9f3b1b2c7f21@51.91.158.180:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=wwH_L9FmhJ7AyOBKm9J8YGKdVo1G-QlDEuw5-s3eGEM&security=reality&sid=9a4c7d2f8e1b6a3c&sni=www.speedtest.net&type=tcp#⚽12@oneclickvpnkeys
 vless://7b53860a-3856-4cb7-b2a0-8b5d6f586abf@khar290.snappshp.com:443?security=tls&allowInsecure=0&encryption=none&type=httpupgrade&sni=khar290.snappshp.com&fp=chrome&alpn=h2,http/1.1#2993 | @Wetaconfig
 vless://7b81a350-89c3-47da-a3a9-5f2b65313d03@snapp.ir:2052?path=/api/auth&security=none&encryption=none&host=api5.iraniandex.ir&type=httpupgrade#TEL;Father_vpn
+vless://7b84db8b-65cd-4072-9c57-dadae303feec@104.17.74.206:8443?path=/&security=tls&encryption=none&insecure=0&host=free.isurux.dpdns.org&fp=chrome&type=ws&allowInsecure=0&sni=free.isurux.dpdns.org#🔵t.me/iProxyChannel 16

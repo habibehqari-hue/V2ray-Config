@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://f0e57ffd-7896-4f18-8346-c6564bfb8f20@farnce.aliyostd.com:2096?mode=gun&security=reality&encryption=none&pbk=r-7MEg2UtIiQrzZP16EXHjIUDqkKzzRqf7XlYxPbHB8&fp=chrome&spx=/&type=grpc&sni=www.icloud.com&sid=fbb8a1c698a0f918#🇫🇷116198 | ⚡️Telegram = t.me/SOSkeyNET
 vless://f0e57ffd-7896-4f18-8346-c6564bfb8f20@farnce.aliyostd.com:2096?mode=gun&security=reality&encryption=none&pbk=r-7MEg2UtIiQrzZP16EXHjIUDqkKzzRqf7XlYxPbHB8&fp=chrome&spx=/&type=grpc&sni=www.icloud.com&sid=fbb8a1c698a0f918#🇫🇷FR-🚀@VPNine1
 vless://f0e57ffd-7896-4f18-8346-c6564bfb8f20@german.aliyostd.com:2096?mode=gun&security=reality&encryption=none&pbk=r-7MEg2UtIiQrzZP16EXHjIUDqkKzzRqf7XlYxPbHB8&fp=chrome&spx=/&type=grpc&sni=www.icloud.com&sid=fbb8a1c698a0f918#🇩🇪116194 | ⚡️Telegram = t.me/SOSkeyNET
 vless://f0e57ffd-7896-4f18-8346-c6564bfb8f20@german.aliyostd.com:2096?mode=gun&security=reality&encryption=none&pbk=r-7MEg2UtIiQrzZP16EXHjIUDqkKzzRqf7XlYxPbHB8&fp=chrome&spx=/&type=grpc&sni=www.icloud.com&sid=fbb8a1c698a0f918#🇩🇪DE-🚀@VPNine1
@@ -503,3 +502,4 @@ trojan://NQ26071394@square-gnat.rooster465.autos:443?allowInsecure=1&sni=square-
 trojan://NQ26071394@sharing-porpoise.rooster465.autos:443?allowInsecure=0&sni=sharing-porpoise.rooster465.autos#%3E%3E%40v2nodes%3A%3AUS
 trojan://NQ26071394@renewed-phoenix.rooster465.autos:443?fp=chrome#%3E%3E%40oneclickvpnkeys%3A%3ANL
 trojan://NQ26071394@thankful-piranha.rooster465.autos:443?allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3AIE
+trojan://NQ26071394@square-pheasant.rooster465.autos:443?fp=chrome#%3E%3E%40oneclickvpnkeys%3A%3ADE

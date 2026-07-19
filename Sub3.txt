@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://03fcc618-b93d-6796-6aed-8a38c975d581@186.190.211.188:443?security=tls&encryption=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp&sni=186.190.211.188#✅  @vistav2ray  👈👈کانال ما ✅
 vless://03fcc618-b93d-6796-6aed-8a38c975d581@186.190.211.188:443?security=tls&encryption=none&insecure=1&host=/?&headerType=none&type=tcp&allowInsecure=1&sni=186.190.211.188#🔵t.me/iProxyChannel 10
 vless://03fcc618-b93d-6796-6aed-8a38c975d581@186.190.211.188:443?security=tls&encryption=none&insecure=1&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp&allowInsecure=1&sni=186.190.211.188#@FarazV2ray
 vless://03fcc618-b93d-6796-6aed-8a38c975d581@186.190.211.188:443?security=tls&encryption=none&insecure=1&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp&allowInsecure=1&sni=186.190.211.188#@MARAMBASHI 🇮🇹
@@ -503,3 +502,4 @@ vless://31354d95-b88c-4a41-a454-1d6fe80c8c2c@k9l29.pastilbastani.ir:443?security
 vless://31354d95-b88c-4a41-a454-1d6fe80c8c2c@k9l29.pastilbastani.ir:443?security=none&encryption=none&host=play.google.com/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#@irconfiig 🐺
 vless://31354d95-b88c-4a41-a454-1d6fe80c8c2c@soskeynets.pastilbastani.ir:443?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com#🇳🇱116140 | ⚡️Telegram = t.me/SOSkeyNET
 vless://31649657-6c78-4c2c-b25b-5cd574b082b5@at03.tunnely.ru:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=at03.tunnely.ru&security=reality&pbk=pPGE5Uacj1AGAB_WLOXB_UUnVBOmuJGH0vTSfmRBKzM&sid=2e40144ddc07e8e1#channel→@networld_vpn
+vless://31649657-6c78-4c2c-b25b-5cd574b082b5@at03.tunnely.ru:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=pPGE5Uacj1AGAB_WLOXB_UUnVBOmuJGH0vTSfmRBKzM&security=reality&sid=2e40144ddc07e8e1&sni=at03.tunnely.ru&type=tcp#⚽70@oneclickvpnkeys

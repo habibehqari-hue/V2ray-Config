@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://ecad47b0-249e-0014-adff-e3c8f02b1897@185.93.33.7:443?security=reality&encryption=none&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=auto.quattro-tech.ru&sid=43dcff53849b81e6#@FarazV2ray
 vless://ecad47b0-249e-0014-adff-e3c8f02b1897@185.93.33.7:443?security=reality&encryption=none&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=auto.quattro-tech.ru&sid=43dcff53849b81e6#@erfanandroid
 vless://ecad47b0-249e-0014-adff-e3c8f02b1897@185.93.33.7:443?security=reality&encryption=none&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=auto.quattro-tech.ru&sid=43dcff53849b81e6#@icv2ray
 vless://ecad47b0-249e-0014-adff-e3c8f02b1897@185.93.33.7:443?security=reality&encryption=none&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=auto.quattro-tech.ru&sid=43dcff53849b81e6#@MARAMBASHI 🇩🇪
@@ -503,3 +502,4 @@ vless://f0e57ffd-7896-4f18-8346-c6564bfb8f20@eng.aliyostd.com:9443?security=real
 vless://f0e57ffd-7896-4f18-8346-c6564bfb8f20@eng.aliyostd.com:9443?security=reality&encryption=none&pbk=F2YMP337wdfSQlkq8kbeqs0e19HEhV9JdxYf4Om_sS8&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=14ac481b178e6dd8#🇬🇧116197 | ⚡️Telegram = t.me/SOSkeyNET
 vless://f0e57ffd-7896-4f18-8346-c6564bfb8f20@eng.aliyostd.com:9443?security=reality&encryption=none&pbk=F2YMP337wdfSQlkq8kbeqs0e19HEhV9JdxYf4Om_sS8&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=14ac481b178e6dd8#🇬🇧GB-🚀@VPNine1
 vless://f0e57ffd-7896-4f18-8346-c6564bfb8f20@eng.aliyostd.com:9443?security=reality&encryption=none&pbk=F2YMP337wdfSQlkq8kbeqs0e19HEhV9JdxYf4Om_sS8&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=14ac481b178e6dd8#🔵@chillguy_vpn
+vless://f0e57ffd-7896-4f18-8346-c6564bfb8f20@farnce.aliyostd.com:2096?mode=gun&security=reality&encryption=none&pbk=r-7MEg2UtIiQrzZP16EXHjIUDqkKzzRqf7XlYxPbHB8&fp=chrome&spx=/&type=grpc&sni=www.icloud.com&sid=fbb8a1c698a0f918#🇫🇷116198 | ⚡️Telegram = t.me/SOSkeyNET
