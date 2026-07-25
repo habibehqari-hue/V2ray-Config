@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://b203dc7e-52be-4d36-86d8-8dfb86f03cbd@185.146.173.52:8880?security=none&type=httpupgrade&host=splUs.Ir.DigIcYBer.CLIck.&path=/nazan/pedar/sag#@Hope_Net-join-us-on-Telegram
 vless://b203dc7e-52be-4d36-86d8-8dfb86f03cbd@185.146.173.52:8880?security=none&type=httpupgrade&host=splUs.Ir.DigIcYBer.CLIck.&path=/nazan/pedar/sag#@v2ray_configs_pools-join-us-on-Telegram
 vless://b203dc7e-52be-4d36-86d8-8dfb86f03cbd@185.146.173.52:8880?security=none&type=httpupgrade&host=splUs.Ir.DigIcYBer.CLIck.&path=/nazan/pedar/sag#🇸🇪122092 | ⚡️Telegram = t.me/SOSkeyNET
 vless://b203dc7e-52be-4d36-86d8-8dfb86f03cbd@185.146.173.52:8880?security=none&type=httpupgrade&host=splUs.Ir.DigIcYBer.CLIck.&path=/nazan/pedar/sag#🇸🇪SE-🚀@VPNine1
@@ -503,3 +502,4 @@ vless://d15cce83-9de9-4e37-98bc-ea5a8882f213@199.232.78.159:443?path=/&security=
 vless://d1b9e7e9-9dc6-46b1-a1fb-85832cb23437@www.team-pluss.ir:10000?mode=auto&path=/events/user/dashboard&security=&encryption=none&extra={"xPaddingBytes":"100-1000","xPaddingObfsMode":true,"uplinkHTTPMethod":"POST"}&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&type=xhttp#Proxy_Se7en
 vless://d1c624fc-d0b0-49c7-8afa-e15a5949bc17@st.onnstreaming.ru:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=st.onnstreaming.ru&security=reality&pbk=1c7TsslPz_gsvzX4ENkEa36Pp3gm-M3SRLhvqtGaAz4&sid=e8e019c424ccb765#channel→@networld_vpn
 vless://d1c624fc-d0b0-49c7-8afa-e15a5949bc17@st.onnstreaming.ru:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=1c7TsslPz_gsvzX4ENkEa36Pp3gm-M3SRLhvqtGaAz4&security=reality&sid=e8e019c424ccb765&sni=st.onnstreaming.ru&type=tcp#🎀26@oneclickvpnkeys
+vless://d223a3b5-d048-4c7f-83ea-8c1466bc28f2@q7sv9.pastilbastani.ir:443?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#kurdconfig
