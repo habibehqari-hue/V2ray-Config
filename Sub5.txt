@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://45ab962c-0e61-464b-ddc6-5fdd7338398f@dqf21.sdssd1.sadqwdw1.carvan1.mimkiscx.ir:8443?mode=auto&path=/TELEGRAMBYACHANEL@FreeOnlineVPN&security=tls&encryption=none&host=jokerv.membergolabi.ir.&fp=chrome&type=xhttp&sni=jokerv.membergolabi.ir.&note=@FreeOnlineVPN#🇳🇱 - NL - @FreeOnlineVPN
-vless://45ab962c-0e61-464b-ddc6-5fdd7338398f@ip-data.turkserver.ir:8443?mode=auto&path=/TELEGRAMBYACHANEL@FreeOnlineVPN&security=tls&encryption=none&host=jokerv.membergolabi.ir.&fp=chrome&type=xhttp&sni=jokerv.membergolabi.ir.&note=@FreeOnlineVPN#🇩🇪 - DE - @FreeOnlineVPN
 vless://45bc124e-f990-f9db-75d9-5bf200000000@soskeynets.zeus-gmozp0.workers.dev:443?path=/sync&security=tls&encryption=none&insecure=0&host=troll_hastam_nanaf.zeus-gmozp0.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=troll_hastam_nanaf.zeus-gmozp0.workers.dev#🇨🇦123136 | ⚡️Telegram = t.me/SOSkeyNET
 vless://45bc124e-f990-f9db-75d9-5bf200000000@troll_hastam_nanaf.zeus-gmozp0.workers.dev:443?path=/sync&security=tls&encryption=none&insecure=0&host=troll_hastam_nanaf.zeus-gmozp0.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=troll_hastam_nanaf.zeus-gmozp0.workers.dev#🇨🇦123136 | ⚡️Telegram = t.me/SOSkeyNET
 vless://45bc124e-f990-f9db-75d9-5bf200000000@troll_hastam_nanaf.zeus-gmozp0.workers.dev:443?path=/sync&security=tls&encryption=none&insecure=0&host=troll_hastam_nanaf.zeus-gmozp0.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=troll_hastam_nanaf.zeus-gmozp0.workers.dev#🚀@VPNine1
@@ -503,3 +501,5 @@ vless://7968c546-02dc-4f8c-b791-934591a94cb2@cf.levikogjgfdd.ir:443?path=/cbasur
 vless://7968c546-02dc-4f8c-b791-934591a94cb2@one-for-all.levikogjgfdd.ir:443?encryption=none&security=tls&sni=hhvl.hhapp.kdns.fr&insecure=0&allowInsecure=0&type=ws&host=hhvl.hhapp.kdns.fr&path=/cbasur#@Daily_Configs
 vless://7968c546-02dc-4f8c-b791-934591a94cb2@one-for-all.levikogjgfdd.ir:443?encryption=none&security=tls&sni=hhvl.hhapp.kdns.fr&insecure=0&allowInsecure=0&type=ws&host=hhvl.hhapp.kdns.fr&path=/cbasur#@M4Dvpn
 vless://7968c546-02dc-4f8c-b791-934591a94cb2@one-for-all.levikogjgfdd.ir:443?encryption=none&security=tls&sni=hhvl.hhapp.kdns.fr&insecure=0&allowInsecure=0&type=ws&host=hhvl.hhapp.kdns.fr&path=/cbasur#@meliproxyy
+vless://7968c546-02dc-4f8c-b791-934591a94cb2@one-for-all.levikogjgfdd.ir:443?encryption=none&security=tls&sni=hhvl.hhapp.kdns.fr&insecure=0&allowInsecure=0&type=ws&host=hhvl.hhapp.kdns.fr&path=/cbasur#Channel : @Daily_Configs
+vless://7968c546-02dc-4f8c-b791-934591a94cb2@one-for-all.levikogjgfdd.ir:443?encryption=none&type=ws&security=tls&path=/cbasur&host=hhvl.hhapp.kdns.fr&sni=hhvl.hhapp.kdns.fr&insecure=0&allowInsecure=0#@meliproxyy

@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://8e378a41-d5e1-427a-aaf8-30190d4be0a0@Spd-mynames.global.ssl.fastly.net:80?mode=auto&path=/&security=none&encryption=none&host=Spd-mynames.global.ssl.fastly.net&type=xhttp#@KAFING_2
-vless://8e9cbf76-b74a-46b3-8270-9453e281e613@199.232.237.245:443?mode=auto&path=/@Alfred_Config/@Alfred_Config/@Alfred_Config&security=tls&alpn=h2&encryption=none&insecure=0&host=alfred-13.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=0&sni=global.fastly.com#@Alfred_Config
 vless://8efe38df-eb31-45b9-9a09-78a31562bae0@[2a0b:8800:580::12d]:8585?mode=gun&security=reality&encryption=none&pbk=a20AW-pKrDkwITkp3eZ6WC809AYkNqoW1rs4AfLs73Y&fp=chrome&spx=/353add2ce7a3241&type=grpc&sni=mena-images.shop.samsung.com&sid=9632f7ba3390c8#@B2vasl
 vless://8f0560ec-ba22-4431-a6a7-318dc59d5233@185.209.15.91:443?fp=chrome&pbk=tSxNp48AuTUzqggANCWsR6v7bqlguCoVWk_YOUs36Ug&sni=gedolam-vawset.ru&sid=5e3ab3ab228625&type=tcp&headerType=none&encryption=none&security=reality&flow=xtls-rprx-vision#🦉@FreeConfigForYou
 vless://8f0560ec-ba22-4431-a6a7-318dc59d5233@185.209.15.91:443?security=reality&encryption=none&pbk=tSxNp48AuTUzqggANCWsR6v7bqlguCoVWk_YOUs36Ug&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=gedolam-vawset.ru&sid=5e3ab3ab228625#@prrofile_purple  ♥️👈 تلگرام
@@ -503,3 +501,5 @@ vless://b5057540-580a-45f3-ba5f-769540a80b55@Tu3.Pokerpings.com:35485?security=&
 vless://b5316e4d-e060-4ee2-c37b-23e8f3951eda@69.46.46.92:443?path=/ws/b5316e4d-e060-4ee2-c37b-23e8f3951eda&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=x4g-production-f4fe.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=x4g-production-f4fe.up.railway.app#𝐕𝟐𝐗𝐍𝐄𝐓
 vless://b531f305-9bea-4bc6-999b-c61ef94161d9@188.130.207.200:39243?security=reality&encryption=none&pbk=-kQkQ6yJYij4zBazKhYTqLNeyCSloVNv4T_Kj3PDrh8&headerType=none&fp=chrome&spx=/2f897dca79085fd&type=tcp&sni=www.yahoo.com&sid=6a8a02a98b743e#@erfanandroid
 vless://b585dc5e-55bf-4a8b-913a-27c9ccac05c3@149.202.58.99:443?path=/vws/&security=tls&encryption=none&insecure=0&host=bab-6.site&fp=chrome&type=ws&allowInsecure=0&sni=bab-6.site#@hopev2ray🩷
+vless://b5df4261-66dc-481c-864c-7671e538fd8b@94.182.134.36:43070?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#@KAFING_2
+vless://b5f0b820-7f31-9e69-16af-aa2030d38bca@rvg-production-cae2.up.railway.app:443?path=/ws/b5f0b820-7f31-9e69-16af-aa2030d38bca&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&fp=chrome&type=ws&allowInsecure=0&sni=rvg-production-cae2.up.railway.app#Proxy_Se7en
