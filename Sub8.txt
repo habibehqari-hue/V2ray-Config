@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.69:8443?security=tls&encryption=none&insecure=0&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cdn7-39.vk-cdnvideo.com#@hopev2ray🖤
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.178:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cdn7-09.vk-cdnvideo.com#چنل عضو شو @v2ra_config
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@95.133.245.110:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cdn3-87.vk-cdnvideo.com#@hopev2ray🤍
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn7-39.vk-cdnvideo.com:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0#@Ai_DueT🌐
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn7-39.vk-cdnvideo.com:8443?security=tls&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1#🔥 @free_conf_iran 🔥 4
@@ -501,5 +503,3 @@ vless://b559decc-2e48-47c3-827f-a48cdfd7388d@fr.veraxideas.ir:20000?security=rea
 vless://b559decc-2e48-47c3-827f-a48cdfd7388d@fr.veraxideas.ir:20000?security=reality&encryption=none&pbk=jyMIhueDirXlz-JiLj1ff5zayv6TjRKUSGfp-gxR6iQ&headerType=none&fp=chrome&spx=/ZESolO5ZLEBgCJi&type=tcp&sni=yahoo.com&sid=79546ef3cf6f#@meliproxyy
 vless://b559decc-2e48-47c3-827f-a48cdfd7388d@fr.veraxideas.ir:20000?spx=/ZESolO5ZLEBgCJi&headerType=none&encryption=none&pbk=jyMIhueDirXlz-JiLj1ff5zayv6TjRKUSGfp-gxR6iQ&security=reality&sni=yahoo.com&fp=chrome&sid=79546ef3cf6f&type=tcp#@Alpha_v2rayIP
 vless://b585dc5e-55bf-4a8b-913a-27c9ccac05c3@149.202.58.99:443?path=/vws/&security=tls&encryption=none&insecure=0&host=bab-6.site&fp=chrome&type=ws&allowInsecure=0&sni=bab-6.site#@hopev2ray🩷
-vless://b59cc443-a762-4e22-aed6-0bdffe979882@3x-ui-production-e1ff.up.railway.app:443?path=/in1&security=tls&encryption=none&insecure=0&host=3x-ui-production-e1ff.up.railway.app&type=ws&allowInsecure=0&sni=3x-ui-production-e1ff.up.railway.app#@M4Dvpn
-vless://b59cc443-a762-4e22-aed6-0bdffe979882@3x-ui-production-e1ff.up.railway.app:443?path=/in1&security=tls&encryption=none&insecure=0&host=3x-ui-production-e1ff.up.railway.app&type=ws&allowInsecure=0&sni=3x-ui-production-e1ff.up.railway.app#@meliproxyy
