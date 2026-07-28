@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@23.94.94.209:2223?security=tls&sni=pages.teasalo.cloudns.org&type=ws&host=pages.teasalo.cloudns.org&path=/?proxyip=proxyip.us.fxxk.dedyn.io&fp=chrome&alpn=h3#@v2ray_configs_pools-join-us-on-Telegram
 vless://1d483092-65d3-464c-8baa-cb1ca5236282@upload.ansooyefilter.ir:8443?security=reality&encryption=none&pbk=9LyZjKAQkh2_FwDS21QVW05gfBRR77KjatFS8EtRyU4&headerType=none&fp=chrome&spx=/fb6a55c0fc4ed6d&type=tcp&sni=search.led.samsung.com&sid=8ed95b#🇩🇪@FreakConfig
 vless://1d798021-6b6e-4bff-8e8c-b7efc51d51b9@alapo.sannest.ir:443?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@prrofile_purple  ♥️👈 تلگرام
 vless://1dd6dab8-4a86-4996-9c3f-84cb9e173993@185.141.217.62.tyr-agentstvo.tech:443?sni=185.141.217.62.tyr-agentstvo.tech&alpn=http/1.1&type=ws&host=185.141.217.62.tyr-agentstvo.tech&path=/websocket?ed=2560fp=chrome&security=tls#🇫🇮124307 | ⚡️Telegram = t.me/SOSkeyNET
@@ -503,3 +502,4 @@ vless://429efff7-16bd-499e-85a5-a6f4b89c2773@172.67.139.85:80?security=none&encr
 vless://429efff7-16bd-499e-85a5-a6f4b89c2773@www.speedtest.net:443?security=tls&encryption=none&type=ws&host=cxrolvpn.vipserver2.workers.dev&path=/Ay0V02ow7rt6P1Ml?ed=2560&sni=cxrolvpn.vipserver2.workers.dev&fp=chrome&alpn=http/1.1#CxrolVPN Free (2)
 vless://429efff7-16bd-499e-85a5-a6f4b89c2773@www.speedtest.net:80?security=none&encryption=none&type=ws&host=cxrolvpn.vipserver2.workers.dev&path=/FkJEHRUYQOp0TIQ5?ed=2560#CxrolVPN Free (1)
 vless://42a1c069-9dc9-4181-86b8-13bf28632851@lala.baguvix.ir:8080?security=&encryption=none&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&headerType=http&type=tcp#Proxy_Se7en
+vless://42b53885-3675-4a8c-cb15-103505d2c78b@172.67.214.21:443?security=tls&sni=www.GozargahVPN.top&type=ws&host=www.GozargahVPN.top&path=/Telegram:,@GozargahVPN,@GozargahVPN,@GozargahVPN,@GozargahVPN,@GozargahVPN,@GozargahVPN,@GozargahVPN,@GozargahVPN,@GozargahVPN,?ed=2048?ed&fp=chrome&alpn=h2,http/1.1#@v2ray_configs_pools-join-us-on-Telegram
