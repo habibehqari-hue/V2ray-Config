@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://a52b446a-2bb2-477f-bf45-2bac6d5b686b@geo-1.biscuitnazari.ir:9443?security=reality&encryption=none&pbk=aJw9xFr6q48MQ2EAl0DeJunqw0X5hob0qUEMPeX-7k0&fp=chrome&spx=/9d918fbb86a5964&type=grpc&sni=play.google.com&sid=c72f2d50af#@icv2ray
 vless://a5e746f7-328f-4b65-a65f-e2e2a4a5b1a9@212.34.142.191:8443?security=reality&encryption=none&pbk=wNcFqVd4_PkgJbfgJJeouSU6Pn_Swuce4q4Chw5T0hY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=f7aa9e61197d3ac6#🇳🇱TM (@AZARBAYJAB1)
 vless://a5e746f7-328f-4b65-a65f-e2e2a4a5b1a9@midorinote.ru:8443?security=reality&encryption=none&pbk=wNcFqVd4_PkgJbfgJJeouSU6Pn_Swuce4q4Chw5T0hY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=f7aa9e61197d3ac6#🇳🇱TM (@AZARBAYJAB1)
 vless://a5eb4618-c4b5-458b-aafb-e74558d9592d@uae-user-naran.chamehdan.ir:8080?encryption=none&security=none&type=tcp&headerType=none#کانال تلگرام : Free_VPN_CH@
@@ -503,3 +502,4 @@ vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@173.245.59.1:443?path=/GOrbEh&secur
 vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@188.114.97.4:443?path=/GOrbEh&security=tls&encryption=none&insecure=0&host=rubifen.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#🕊 @Fear_Config
 vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@198.202.211.1:443?encryption=none&security=tls&sni=rubifen.adaspoloandco.com&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=rubifen.adaspoloandco.com&path=/GOrbEh#🇺🇸US-🚀@VPNine1
 vless://cf75e4d5-21f0-426b-bebb-1fa7c5d52343@108.162.192.206:443?path=/In_Panel_Rayeghan_Ast_Va_Gheyre_Ghabele_Foroosh&security=tls&encryption=none&insecure=0&host=zeus-panel-4tzfj3.zeus-d3z3w8.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=zeus-panel-4tzfj3.zeus-d3z3w8.workers.dev#kurdconfig
+vless://cf75e4d5-21f0-426b-bebb-1fa7c5d52343@108.162.192.206:443?path=/In_Panel_Rayeghan_Ast_Va_Gheyre_Ghabele_Foroosh&security=tls&encryption=none&insecure=0&host=zeus-panel-4tzfj3.zeus-d3z3w8.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=zeus-panel-4tzfj3.zeus-d3z3w8.workers.dev#🇨🇦@FreakConfig

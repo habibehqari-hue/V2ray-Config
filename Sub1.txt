@@ -18,7 +18,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.155:8
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.179:443#%40V2raysCollector%20%F0%9F%92%99
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@141.98.101.179:443#t.me/OutlineVpnOfficial | Free | 3242 | United Kingdom
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.176:8080#United+Kingdom
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.179:443#[
 hy2://9abff4cd-ac3b-40ce-a3e7-f71f445d670f@5.183.102.113:443/?mport=50000-53000&insecure=1&sni=iosapps.itunes.apple.com#🇬🇧英国
 hy2://9abff4cd-ac3b-40ce-a3e7-f71f445d670f@82.47.32.31:443/?mport=50000-53000&insecure=1&sni=iosapps.itunes.apple.com#🇭🇰香港
 hy2://LzMWgm6LaNWCm11bFTbynDPq2TqQj03t@5.255.102.165:443/?insecure=1&sni=www.microsoft.com#🇳🇱
@@ -503,3 +502,4 @@ ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVANjMuMTc3LjI1Mi40NDo0NDM=#DE
 ss://YWVzLTI1Ni1nY206MjgwMzM2MWQ2YzE5NmFmOA@50.114.177.134:20111#@filembad
 ss://YWVzLTI1Ni1nY206MzJjMGVhNmU4MjMzNDFhMg@185.22.154.254:6018#美国 NewYork PAC
 ss://YWVzLTI1Ni1nY206MzJjMGVhNmU4MjMzNDFhMg@46.29.163.30:30129#美国
+ss://YWVzLTI1Ni1nY206Qm9pWDEwMjkyNA==@107.173.192.238:9875#@v2ray_configs_pools

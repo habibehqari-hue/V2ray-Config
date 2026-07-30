@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://876e81f0-6961-43b4-bd64-7dc602e823ca@95.181.160.240:8433?encryption=none&fp=chrome&host=wjwkhoaftdgrt8qus.mp8pmwdgwf3sdapasouszjobjr57nrxxgtx9n.workers.dev&path=/@Marisa_kristi&security=tls&sni=wjwkhoaftdgrt8qus.mp8pmwdgwf3sdapasouszjobjr57nrxxgtx9n.workers.dev&type=ws#🇩🇪127559 | ⚡️Telegram = t.me/SOSkeyNET
 vless://876e81f0-6961-43b4-bd64-7dc602e823ca@95.181.160.240:8433?encryption=none&fp=chrome&host=wjwkhoaftdgrt8qus.mp8pmwdgwf3sdapasouszjobjr57nrxxgtx9n.workers.dev&path=/@soskeynets&security=tls&sni=wjwkhoaftdgrt8qus.mp8pmwdgwf3sdapasouszjobjr57nrxxgtx9n.workers.dev&type=ws#🇩🇪127559 | ⚡️Telegram = t.me/SOSkeyNET
 vless://878dd962-027b-4bd3-a1f8-66be68a03c4d@deepl.com:8880?path=/pyip=ProxyIP.SG.CMLiussss.net&security=none&encryption=none&host=young-wind-3c58.240-2ce.workers.dev&type=ws#@hex_proxy ¹
 vless://87d803c7-f879-478e-e1f2-738d804de98e@zula.ir:80?path=/2FF4sNFEEm2rBDKp42yuiT3j1BVZCca79h2wzV&security=none&encryption=none&host=DIGI-029-bdz43GbSz5VB1B5oGzqNYu3E.BEsTholDHypErionblog-100.ORG&type=ws#@Hope_Net-join-us-on-Telegram
@@ -503,3 +502,4 @@ vless://a490e46d-e450-4c73-631f-920da539186c@s2.zynavo.ir:2087?mode=auto&path=/B
 vless://a490e46d-e450-4c73-631f-920da539186c@s2.zynavo.ir:2087?mode=auto&path=/BetForward&security=tls&alpn=h3,h2,http/1.1&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&insecure=1&host=cdn.zynavo.ir&fp=chrome&type=xhttp&allowInsecure=1&sni=cdn.zynavo.ir#🇩🇪@FreakConfig
 vless://a490e46d-e450-4c73-631f-920da539186c@s2.zynavo.ir:2087?mode=auto&path=/BetForward&security=tls&alpn=h3,h2,http/1.1&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&insecure=1&host=cdn.zynavo.ir&fp=chrome&type=xhttp&allowInsecure=1&sni=cdn.zynavo.ir#🇩🇪@V2rayng_Fast
 vless://a51d8a82-faec-44f4-8882-441a2e7f0ce4@172.66.200.130:8880?encryption=none&host=spring-math-5c8c.434.workers.dev&path=/pyip=ProxyIP.KR.CMLiussss.net&security=none&type=ws#🇨🇦127519 | ⚡️Telegram = t.me/SOSkeyNET
+vless://a52b446a-2bb2-477f-bf45-2bac6d5b686b@geo-1.biscuitnazari.ir:9443?security=reality&encryption=none&pbk=aJw9xFr6q48MQ2EAl0DeJunqw0X5hob0qUEMPeX-7k0&fp=chrome&spx=/9d918fbb86a5964&type=grpc&sni=play.google.com&sid=c72f2d50af#@icv2ray

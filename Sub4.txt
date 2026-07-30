@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://21c25bef-eb3b-44a8-9b26-fa7f674e5bfc@51.195.116.82:443?security=reality&encryption=none&pbk=RWE5ORdQ2SzuFWX8DlaRP415wbhee9ynJkqC7yFPgQw&host=TELEGRAM?&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speedtest.net&sid=d13ddfca12760d03#@tootffarangi🍓-13
 vless://21c25bef-eb3b-44a8-9b26-fa7f674e5bfc@51.195.116.82:443?security=reality&encryption=none&pbk=RWE5ORdQ2SzuFWX8DlaRP415wbhee9ynJkqC7yFPgQw&host=TELEGRAM?&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speedtest.net&sid=d13ddfca12760d03#برای اتصال دائمی جوین شو💤 TelegramID ⌲Express_freevpn
 vless://21c25bef-eb3b-44a8-9b26-fa7f674e5bfc@51.195.116.82:443?security=reality&encryption=none&pbk=RWE5ORdQ2SzuFWX8DlaRP415wbhee9ynJkqC7yFPgQw&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speedtest.net&sid=d13ddfca12760d03#@icv2ray
 vless://21c25bef-eb3b-44a8-9b26-fa7f674e5bfc@51.195.116.82:443?security=reality&encryption=none&pbk=RWE5ORdQ2SzuFWX8DlaRP415wbhee9ynJkqC7yFPgQw&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speedtest.net&sid=d13ddfca12760d03#@meliproxyy
@@ -503,3 +502,4 @@ vless://41e55ec5-ef82-4787-b9c6-9acb9f680843@92.246.138.69:898?security=none&enc
 vless://41e55ec5-ef82-4787-b9c6-9acb9f680843@92.246.138.69:898?security=none&encryption=none&headerType=none&type=tcp#🇦🇲AM-🚀@VPNine1
 vless://41e55ec5-ef82-4787-b9c6-9acb9f680843@92.246.138.69:898?security=none&encryption=none&headerType=none&type=tcp#🔵@chillguy_vpn
 vless://41f37ced-2021-4111-93a8-82d57ff2eb5b@fx3033.game2lizard.com:2083?path=/?ed=2560&security=tls&encryption=none&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=mzaxmc0.lizard2shop.com#@tanhanet
+vless://4206a00d-e790-8566-ef63-c20f8eaeed36@69.46.46.6:443?path=/ws/4206a00d-e790-8566-ef63-c20f8eaeed36&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=x4g-production-4973.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=x4g-production-4973.up.railway.app#@Capoit

@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://cf75e4d5-21f0-426b-bebb-1fa7c5d52343@108.162.192.206:443?path=/In_Panel_Rayeghan_Ast_Va_Gheyre_Ghabele_Foroosh&security=tls&encryption=none&insecure=0&host=zeus-panel-4tzfj3.zeus-d3z3w8.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=zeus-panel-4tzfj3.zeus-d3z3w8.workers.dev#🇨🇦@FreakConfig
 vless://cf75e4d5-21f0-426b-bebb-1fa7c5d52343@172.67.128.147:443?path=/In_Panel_Rayeghan_Ast_Va_Gheyre_Ghabele_Foroosh&security=tls&encryption=none&insecure=0&host=zeus-panel-4tzfj3.zeus-d3z3w8.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=zeus-panel-4tzfj3.zeus-d3z3w8.workers.dev#kurdconfig
 vless://cf75e4d5-21f0-426b-bebb-1fa7c5d52343@172.67.128.147:443?path=/In_Panel_Rayeghan_Ast_Va_Gheyre_Ghabele_Foroosh&security=tls&encryption=none&insecure=0&host=zeus-panel-4tzfj3.zeus-d3z3w8.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=zeus-panel-4tzfj3.zeus-d3z3w8.workers.dev#🇨🇦@FreakConfig
 vless://cf75e4d5-21f0-426b-bebb-1fa7c5d52343@172.67.139.95:443?path=/In_Panel_Rayeghan_Ast_Va_Gheyre_Ghabele_Foroosh&security=tls&encryption=none&insecure=0&host=zeus-panel-4tzfj3.zeus-d3z3w8.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=zeus-panel-4tzfj3.zeus-d3z3w8.workers.dev#kurdconfig
@@ -503,3 +502,4 @@ vless://e7af22d8-dee7-2af7-e515-c27800000013@172.64.147.1:2053?path=/sync&securi
 vless://e7b178da-65e8-45ad-8550-de40eb0a7835@162.159.62.1:80?path=/&security=none&encryption=none&host=sahanwickramasinghevip.shop&type=ws#@meliproxyy
 vless://e80398bb-aecb-4686-a75c-dfe4cd8ce242@178.17.53.177:34150?security=reality&encryption=none&pbk=nlEvGwt7WTuobjUSOK9ITQ8LF5VIC-SrWPMTH9FqTk4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sid=84abf04b#@filembad
 vless://e80398bb-aecb-4686-a75c-dfe4cd8ce242@178.17.53.177:34150?security=reality&encryption=none&pbk=nlEvGwt7WTuobjUSOK9ITQ8LF5VIC-SrWPMTH9FqTk4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sid=84abf04b#@icv2ray
+vless://e80398bb-aecb-4686-a75c-dfe4cd8ce242@178.17.53.177:34150?security=reality&encryption=none&pbk=nlEvGwt7WTuobjUSOK9ITQ8LF5VIC-SrWPMTH9FqTk4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sid=84abf04b#Channel id: @ShadowProxy66 🇫🇮
