@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@russia.com:443?sni=misaka.cndyw.ggff.net&type=ws&host=misaka.cndyw.ggff.net&path=/?ed=2560fp=chrome&security=tls#🇨🇦 Join+Telegram:@Farah_VPN 🇨🇦
-vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@www.4chan.org:443?sni=misaka.cndyw.ggff.net&type=ws&host=misaka.cndyw.ggff.net&path=/?ed=2560fp=chrome&security=tls#🇸🇬 Join+Telegram:@Farah_VPN 🇸🇬
-vless://04c9681a-277f-4d97-8922-1bc64bc1cc07@edge.aiteamplus.ir:10007?security=none&encryption=none&headerType=http&type=tcp&note=@FreeOnlineVPN#🇩🇪 - DE - @FreeOnlineVPN
 vless://04e0bafa-156e-47fd-84b2-d14621998d16@38.54.105.247:443?mode=auto&path=/JgisifHwvjY&security=reality&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&pbk=Yj4jRAWjaDwWV3eTOtMu0VWgkImjWQB97jEJMn4UDi8&fp=chrome&spx=/bx2kEzOW52flStc&type=xhttp&sni=mail.google.com&sid=2d41f6d2#configprxy
 vless://04e0bafa-156e-47fd-84b2-d14621998d16@38.54.105.247:443?mode=auto&path=/JgisifHwvjY&security=reality&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&pbk=Yj4jRAWjaDwWV3eTOtMu0VWgkImjWQB97jEJMn4UDi8&fp=chrome&spx=/bx2kEzOW52flStc&type=xhttp&sni=mail.google.com&sid=2d41f6d2#telegram-@mtmvpn 37
 vless://0525f54a-568b-4f0b-89e5-c2666e800d83@188.114.99.160:8443?path=/downloader&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=matoride.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=matoride.adaspoloandco.com#@KAFING_2
@@ -503,3 +500,6 @@ vless://29ca503d-e6b8-4509-b666-48133f450857@108.162.192.161:443?encryption=none
 vless://29ca503d-e6b8-4509-b666-48133f450857@108.162.192.161:443?path=/fdip&security=tls&encryption=none&insecure=0&host=learn00.evany.de5.net&type=ws&allowInsecure=0&sni=learn00.evany.de5.net#@IRan_V2ray1 | VIP1
 vless://29ca503d-e6b8-4509-b666-48133f450857@108.162.192.161:443?path=/fdip&security=tls&encryption=none&insecure=0&host=learn00.evany.de5.net&type=ws&allowInsecure=0&sni=learn00.evany.de5.net#@bored_vpn
 vless://29ca503d-e6b8-4509-b666-48133f450857@108.162.192.161:443?path=/fdip&security=tls&encryption=none&insecure=0&host=learn00.evany.de5.net&type=ws&allowInsecure=0&sni=learn00.evany.de5.net#@confiig_hub
+vless://29ca503d-e6b8-4509-b666-48133f450857@108.162.192.161:443?path=/fdip&security=tls&encryption=none&insecure=0&host=learn00.evany.de5.net&type=ws&allowInsecure=0&sni=learn00.evany.de5.net#@hex_proxy ⁸
+vless://29ca503d-e6b8-4509-b666-48133f450857@108.162.192.161:443?path=/fdip&security=tls&encryption=none&insecure=0&host=learn00.evany.de5.net&type=ws&allowInsecure=0&sni=learn00.evany.de5.net#@meliproxyy
+vless://29ca503d-e6b8-4509-b666-48133f450857@108.162.192.161:443?path=/fdip&security=tls&encryption=none&insecure=0&host=learn00.evany.de5.net&type=ws&allowInsecure=0&sni=learn00.evany.de5.net#V2ray_Alpha💈 11
