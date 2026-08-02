@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.178:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cdn7-09.vk-cdnvideo.com#چنل عضو شو @v2ra_config
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn7-39.vk-cdnvideo.com:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0#@Ai_DueT🌐
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn7-39.vk-cdnvideo.com:8443?security=tls&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1#🔥 @free_conf_iran 🔥 4
 vless://93a7dcd7-9bba-4594-8de8-cc67726f877c@fbi.gov:443?path=/&security=tls&alpn=h3,h2,http/1.1&encryption=none&fp=chrome&type=ws&sni=hamrah.dgclix.ir#@bird_angry (mci)
 vless://93d776af-931d-c8dd-6f8d-5fc8006c5fa6@69.46.46.120:443?encryption=none&security=tls&sni=rvg-production-ug4nj.up.railway.app&alpn=http/1.1&fp=chrome&type=ws&host=rvg-production-ug4nj.up.railway.app&path=/ws/93d776af-931d-c8dd-6f8d-5fc8006c5fa6#@meliproxyy
@@ -501,5 +503,3 @@ vless://b4bc10bf-80f9-40c9-b4e5-29817c2f0992@83.228.197.195:8082?security=realit
 vless://b4bc10bf-80f9-40c9-b4e5-29817c2f0992@83.228.197.246:8082?mode=gun&security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=chrome&type=grpc&serviceName=vless-grpc-reality&sni=id.vk.com#[11237] - Telegram : @V2All
 vless://b4bc10bf-80f9-40c9-b4e5-29817c2f0992@83.228.197.246:8082?mode=gun&security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=chrome&type=grpc&serviceName=vless-grpc-reality&sni=id.vk.com#🇨🇭131160 | ⚡️Telegram = t.me/SOSkeyNET
 vless://b4bc10bf-80f9-40c9-b4e5-29817c2f0992@83.228.197.246:8082?mode=gun&security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=chrome&type=grpc&serviceName=vless-grpc-reality&sni=id.vk.com#🇨🇭CH-🚀@VPNine1
-vless://b4bc10bf-80f9-40c9-b4e5-29817c2f0992@l90909l.vip:8082?mode=gun&security=reality&encryption=none&authority=&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=chrome&allowinsecure=0&type=grpc&serviceName=vless-grpc-reality&sni=id.vk.com#🇨🇭 Join+Telegram:@Farah_VPN 🇨🇭
-vless://b5316e4d-e060-4ee2-c37b-23e8f3951eda@69.46.46.92:443?path=/ws/b5316e4d-e060-4ee2-c37b-23e8f3951eda&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=x4g-production-f4fe.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=x4g-production-f4fe.up.railway.app#𝐕𝟐𝐗𝐍𝐄𝐓
