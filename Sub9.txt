@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://@MAconnectt@hayabusa.proxy.rlwy.net:19994?mode=auto&path=/&security=reality&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&pbk=KSs5xH2lliNENAJnTE6E49vkgidvp9Mdw65pC9AEHTg&fp=chrome&spx=/&type=xhttp&sni=is1-ssl.mzstatic.com&sid=2089#@MAconnectt
+vless://@MAconnectt@hayabusa.proxy.rlwy.net:25243?mode=auto&path=/&security=reality&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&pbk=Mg0kT4t2bIOYW7OFRLXUPyeJ53sBaco_LfR_5YTgqS8&fp=chrome&spx=/&type=xhttp&sni=is1-ssl.mzstatic.com&sid=b96c0990ab#@MAconnectt
 vless://@MAconnectt@hayabusa.proxy.rlwy.net:32757?mode=auto&path=/&security=reality&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&pbk=eVy0GcH4F9J54vmqRw5sfhjD030DRIEtPryZz57qw0w&fp=chrome&spx=/&type=xhttp&sni=is1-ssl.mzstatic.com&sid=1039#@MAconnectt
 vless://@MAconnectt@hayabusa.proxy.rlwy.net:41360?mode=auto&path=/&security=reality&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&pbk=nH8VydEs_0ZBO7MlEey_ev09mAJy0nr3mTcXgiw76Xw&fp=chrome&spx=/&type=xhttp&sni=is1-ssl.mzstatic.com&sid=2318#@MAconnectt
 vless://@MAconnectt@reseau.proxy.rlwy.net:16993?mode=auto&path=/&security=reality&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&pbk=-AXZ-btrW3C4E9YEn1haHIPszoskPP9YdxahtJxXmQY&fp=chrome&spx=/&type=xhttp&sni=is1-ssl.mzstatic.com&sid=4f3c#@MAconnectt
@@ -501,5 +503,3 @@ vless://b1d206b2-83b8-4756-aa3d-838242451c8d@144.31.157.202:110?security=none&en
 vless://b1d206b2-83b8-4756-aa3d-838242451c8d@144.31.157.202:110?security=none&encryption=none&headerType=none&type=tcp#@Iran_v2ray1
 vless://b1d206b2-83b8-4756-aa3d-838242451c8d@144.31.157.202:110?security=none&encryption=none&headerType=none&type=tcp#@V2rayng_Fast
 vless://b1d206b2-83b8-4756-aa3d-838242451c8d@144.31.157.202:110?security=none&encryption=none&headerType=none&type=tcp#@outline_ir
-vless://b1d206b2-83b8-4756-aa3d-838242451c8d@144.31.157.202:110?security=none&encryption=none&headerType=none&type=tcp#@vmess_ir
-vless://b1d206b2-83b8-4756-aa3d-838242451c8d@144.31.157.202:110?security=none&encryption=none&headerType=none&type=tcp#✅ t.me/bigAVPN ایران آزاد 👑
