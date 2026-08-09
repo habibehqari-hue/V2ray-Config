@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://02082a02-50f6-4bae-ac34-5c8ab413c427@cdn.akbarvpn.dpdns.org:48756?security=reality&encryption=none&pbk=5gZ1L8V29DcZ3iGutNil8NzxuKzln_Se7cODgQqcTGY&headerType=none&fp=chrome&spx=/d399b7090c2849d&type=tcp&sni=google.com&sid=41c8#♾️𝗝𝗼𝗶𝗻➠🆔️@ATLAS_V2VPN🆓️🛜🔷️496🌐🆕️
 vless://026149af-ee7c-2044-944e-34d522fd6f7e@tmesubgift.up.railway.app:443?encryption=none&security=tls&sni=tmesubgift.up.railway.app&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=tmesubgift.up.railway.app&path=/ws/026149af-ee7c-2044-944e-34d522fd6f7e#109
 vless://02f74ad5-487e-4809-a5b9-d4a05e9a7e57@70.39.178.250:443?security=reality&encryption=none&pbk=fZ_KWK62j51ZCqS5P6QdPdeLoO2cLkQUI_YrExbK6AQ&headerType=none&fp=chrome&spx=/&type=tcp&sni=berkararotel.com.tm&sid=417739fc12#@Begoo_VPN ²⁵⁸
 vless://03464802-b517-404b-b15c-7750ffc5e78f@111.88.143.139:51940?mode=gun&security=reality&encryption=none&authority=&pbk=uPHvFb_vZ3DKL-8Et_e9OliZskdSV5U1NZ66tHfC-2Y&fp=chrome&spx=/&type=grpc&serviceName=&sni=yahoo.com&sid=fd7f#@filembad
@@ -503,3 +502,4 @@ vless://1ee1f28d-4975-4d7c-95c7-76172c20eed5@185.143.234.238:2086?path=/&securit
 vless://1ee1f28d-4975-4d7c-95c7-76172c20eed5@185.143.234.238:2086?path=/&security=none&encryption=none&host=parsi.parsi.sbs&type=ws#🇩🇪@FreakConfig
 vless://1ee46997-c514-4ab0-a6d3-ad0492adab15@arc.montago-shop.ir:443?encryption=none&security=reality&sni=play.google.com&fp=chrome&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&sid=cbe2503ffd040d&type=tcp&headerType=none#@Daily_Configs
 vless://1ee46997-c514-4ab0-a6d3-ad0492adab15@arc.montago-shop.ir:443?encryption=none&security=reality&sni=play.google.com&fp=chrome&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&sid=cbe2503ffd040d&type=tcp&headerType=none#@freenettir
+vless://1ee46997-c514-4ab0-a6d3-ad0492adab15@arc.montago-shop.ir:443?encryption=none&security=reality&sni=play.google.com&fp=chrome&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&sid=cbe2503ffd040d&type=tcp&headerType=none#@meliproxyy
