@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://05000d14-abf6-45e0-b51a-16469cdea06a@104.238.71.10:443?ed=2048&eh=Sec-WebSocket-Protocol&encryption=none&host=feijige.rujiao.icu&path=/?Telegram-WangCai2&security=tls&sni=feijige.rujiao.icu&type=ws#🇺🇸US-🚀@VPNine1
 vless://05000d14-abf6-45e0-b51a-16469cdea06a@108.165.216.10:443?ed=2048&eh=Sec-WebSocket-Protocol&encryption=none&host=feijige.rujiao.icu&path=/?Telegram-WangCai2&security=tls&sni=feijige.rujiao.icu&type=ws#🇺🇸US-🚀@VPNine1
 vless://05000d14-abf6-45e0-b51a-16469cdea06a@109.176.239.10:443?ed=2048&eh=Sec-WebSocket-Protocol&encryption=none&host=feijige.rujiao.icu&path=/?Telegram-WangCai2&security=tls&sni=feijige.rujiao.icu&type=ws#🇬🇧GB-🚀@VPNine1
 vless://05000d14-abf6-45e0-b51a-16469cdea06a@135.84.73.10:443?ed=2048&eh=Sec-WebSocket-Protocol&encryption=none&host=feijige.rujiao.icu&path=/?Telegram-WangCai2&security=tls&sni=feijige.rujiao.icu&type=ws#🇺🇸US-🚀@VPNine1
@@ -503,3 +502,4 @@ vless://1853d1d2-1ccf-48e6-ae05-0c0bb285a8c4@104.24.189.102:80?encryption=none&s
 vless://185d47af-5988-489a-a370-b8e4bbaadc2f@138.124.90.40:34038?encryption=none&security=reality&sni=www.nvidia.com&fp=chrome&pbk=llKcvNPI-m0-p5st7b0l4CajkOdrmwSQTWu--s9vKm8&sid=74cd&spx=/&type=tcp&headerType=none#@filembad
 vless://185d47af-5988-489a-a370-b8e4bbaadc2f@138.124.90.40:34038?encryption=none&security=reality&sni=www.nvidia.com&fp=chrome&pbk=llKcvNPI-m0-p5st7b0l4CajkOdrmwSQTWu--s9vKm8&sid=74cd&spx=/&type=tcp&headerType=none#🇦🇹139708 | ⚡️Telegram = t.me/SOSkeyNET
 vless://185d47af-5988-489a-a370-b8e4bbaadc2f@138.124.90.40:34038?encryption=none&security=reality&sni=www.nvidia.com&fp=chrome&pbk=llKcvNPI-m0-p5st7b0l4CajkOdrmwSQTWu--s9vKm8&sid=74cd&spx=/&type=tcp&headerType=none#🎀𝑀𝐸𝐻𝒟𝐼🎀
+vless://1877533b-91d5-a66d-51de-2c709b277b13@x4g-production-79c8.up.railway.app:443?path=/ws/1877533b-91d5-a66d-51de-2c709b277b13&security=tls&alpn=http%2…#🌐

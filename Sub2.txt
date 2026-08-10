@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@158.173.20.208:443#@freenettir
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@158.173.20.208:443#@meliproxyy
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@158.173.20.208:443#Denmar
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@158.173.20.208:443#V2RayyNGvpn 🇳🇱NL2
@@ -503,3 +502,4 @@ vless://05000d14-abf6-45e0-b51a-16469cdea06a@104.129.165.10:443?ed=2048&eh=Sec-W
 vless://05000d14-abf6-45e0-b51a-16469cdea06a@104.234.239.10:443?ed=2048&eh=Sec-WebSocket-Protocol&encryption=none&host=feijige.rujiao.icu&path=/?Telegram-WangCai2&security=tls&sni=feijige.rujiao.icu&type=ws#🇨🇦CA-🚀@VPNine1
 vless://05000d14-abf6-45e0-b51a-16469cdea06a@104.238.68.10:443?ed=2048&eh=Sec-WebSocket-Protocol&encryption=none&host=feijige.rujiao.icu&path=/?Telegram-WangCai2&security=tls&sni=feijige.rujiao.icu&type=ws#🇺🇸US-🚀@VPNine1
 vless://05000d14-abf6-45e0-b51a-16469cdea06a@104.238.70.10:443?ed=2048&eh=Sec-WebSocket-Protocol&encryption=none&host=feijige.rujiao.icu&path=/?Telegram-WangCai2&security=tls&sni=feijige.rujiao.icu&type=ws#🇺🇸US-🚀@VPNine1
+vless://05000d14-abf6-45e0-b51a-16469cdea06a@104.238.71.10:443?ed=2048&eh=Sec-WebSocket-Protocol&encryption=none&host=feijige.rujiao.icu&path=/?Telegram-WangCai2&security=tls&sni=feijige.rujiao.icu&type=ws#🇺🇸US-🚀@VPNine1
