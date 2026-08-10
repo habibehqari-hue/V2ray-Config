@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://2209803c-f438-4b37-a60e-cfa213c5edd2@193.233.133.152:44634?encryption=none&security=reality&sni=www.sony.com&fp=chrome&pbk=kLFWkJfLnH5OaU12D2sRotdgRcgOwX7HKljlV6A4jUw&sid=82590eda&spx=/&type=xhttp&path=/&mode=auto&extra={"xPaddingBytes":"100-1000"}#🇫🇷FR-🚀@VPNine1
+vless://2209803c-f438-4b37-a60e-cfa213c5edd2@193.233.133.152:44634?encryption=none&security=reality&sni=www.sony.com&fp=chrome&pbk=kLFWkJfLnH5OaU12D2sRotdgRcgOwX7HKljlV6A4jUw&sid=82590eda&spx=/&type=xhttp&path=/&mode=auto&extra={"xPaddingBytes":"100-1000"}#🎀𝑀𝐸𝐻𝒟𝐼🎀
 vless://2209803c-f438-4b37-a60e-cfa213c5edd2@193.233.133.152:44634?mode=auto&path=/&security=reality&encryption=none&extra={"xPaddingBytes":"100-1000"}&pbk=kLFWkJfLnH5OaU12D2sRotdgRcgOwX7HKljlV6A4jUw&fp=chrome&spx=/&type=xhttp&sni=www.sony.com&sid=82590eda#@ | 𝗙𝗮𝗦𝗧 💚
 vless://2209803c-f438-4b37-a60e-cfa213c5edd2@193.233.133.152:44634?mode=auto&path=/&security=reality&encryption=none&extra={"xPaddingBytes":"100-1000"}&pbk=kLFWkJfLnH5OaU12D2sRotdgRcgOwX7HKljlV6A4jUw&fp=chrome&spx=/&type=xhttp&sni=www.sony.com&sid=82590eda#@prrofile_purple | 𝗙𝗮𝗦𝗧 💚
 vless://2209803c-f438-4b37-a60e-cfa213c5edd2@193.233.133.152:44634?mode=auto&path=/&security=reality&encryption=none&extra={"xPaddingBytes":"100-1000"}&pbk=kLFWkJfLnH5OaU12D2sRotdgRcgOwX7HKljlV6A4jUw&fp=chrome&spx=/&type=xhttp&sni=www.sony.com&sid=82590eda#✅  @vistav2ray  👈👈کانال ما ✅
@@ -501,5 +503,3 @@ vless://3fd3909b-238f-42c4-9170-38d10014b1d8@135.125.184.182:50559?path=/&securi
 vless://4038f946-bd95-5505-a111-196c05d6d92f@92.42.96.240:443?path=/&security=tls&encryption=none&insecure=0&host=mAhaNrEaliteAm.MaHkHan.iR&fp=chrome&type=ws&allowInsecure=0&sni=mAhaNrEaliteAm.MaHkHan.iR#@meliproxyy
 vless://4038f946-bd95-5505-a111-196c05d6d92f@92.42.96.240:443?path=/&security=tls&encryption=none&insecure=0&host=mAhaNrEaliteAm.MaHkHan.iR&fp=chrome&type=ws&allowInsecure=0&sni=mAhaNrEaliteAm.MaHkHan.iR#🇩🇪@FreakConfig
 vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@104.16.7.70:443?mode=stream-one&path=/de&security=tls&encryption=none&fp=chrome&type=xhttp&sni=de.xn--q9jyb4c.online#floor 555
-vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@104.16.7.70:443?mode=stream-one&path=/de&security=tls&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=de.xn--q9jyb4c.online#@free_conf_iran 👈 کانفیگ بیشتر
-vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@104.16.7.70:443?mode=stream-one&path=/de&security=tls&encryption=none&insecure=0&host=de.xn--q9jyb4c.online&fp=chrome&type=xhttp&allowInsecure=0&sni=de.xn--q9jyb4c.online#@brayirani •☕ | عضو شید قطع نشید.
