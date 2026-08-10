@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.173:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#@tootffarangi🍓-13
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.173:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#@v2ray_phoenix
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.173:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#[🏁]t.me/ConfigsHub
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.179:443?encryption=none&type=tcp&security=reality&headerType=none&sni=yahoo.com&fp=chrome&insecure=1&allowInsecure=1&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&sid=c39cc7310a&flow=xtls-rprx-vision#@MDvpnSEC-New⁸
@@ -503,3 +502,4 @@ vless://e911c552-3a98-41e0-b5fb-0dd3879887b7@162.159.38.119:443?path=/api/v1/irc
 vless://e912f8d6-f59a-48b1-b5ad-bbe548d7ebf3@Animall-Zooke.fardaty.ir:8080?mode=packet-up&path=/&security=reality&encryption=none&pbk=bkj8m8COBtgcxZZ0ankB6vbxWRwnnreXjDTZA5CUVB0&fp=chrome&type=xhttp&sni=www.yahoo.com&sid=4da5c8a61cc588e8#@prrofile_purple  ♥️👈 تلگرام
 vless://e912f8d6-f59a-48b1-b5ad-bbe548d7ebf3@animall-zooke.fardaty.ir:8080?mode=packet-up&path=/&security=reality&encryption=none&pbk=bkj8m8COBtgcxZZ0ankB6vbxWRwnnreXjDTZA5CUVB0&fp=chrome&type=xhttp&sni=www.yahoo.com&sid=4da5c8a61cc588e8#𝗡𝗲𝗧𝗠𝗲𝗹𝗶⚡️-@prrofile_purple
 vless://e9503cee-ae7d-4abe-b6ed-5795458073a4@104.18.16.56:2083?path=/?ed=2048&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=prNkjleyvh.olAmpiavaRz.ir&fp=chrome&type=ws&allowInsecure=0&sni=vddhasdasdh.olampiavarz.ir#@v2rayngzendegimamad🕊️
+vless://e994e1a7-5d8b-5520-b9ed-6c05b83e4660@95.164.34.105:2052?path=/vless#Telegram@V2ray_Alpha/?ed=2560&security=none&encryption=none&type=ws#@V2rayi_net
