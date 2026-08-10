@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://c85a6219-5105-4786-bfb4-92f57f8c32e0@mahdipok.paydar.site:80?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@mehrosaboran
 vless://c875b3c0-3896-496a-a355-ab878595d7c2@poland.vpnserverhub.com:443?security=reality&encryption=none&pbk=5vNAgd2gzZUUJAU-njR7Sz542IJHdLdea9TtgwBttl4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com#@Ap_Ir6
 vless://c877d001-de9f-43d4-87c0-b7474a662424@179.237.76.191:2020?security=reality&encryption=none&pbk=qhizbkaunsBTS7KH4ctsyxQBapZ3Qj5Y7Jr6J2r0HAU&headerType=none&fp=chrome&type=tcp&sni=g.co&sid=b9fbd4c6#@erfanandroid
 vless://c896406b-ccc4-4c37-8b8c-15964f32a9a2@65.109.208.236:26795?encryption=none&packetEncoding=xudp#• 🇫🇮 | 𝗙𝗶𝗻𝗹𝗮𝗻𝗱 - @HesarWeb
@@ -503,3 +502,4 @@ vless://e0f1b9fc-9ef6-45f2-a97e-328d4826ee26@smart.rozaneh.xyz:443?path=/ws&secu
 vless://e1a5c7fd-d1c7-49a3-b772-9e2935d420db@199.232.78.159:443?encryption=none&type=ws&security=tls&path=/&host=SvnTeamChannel.global.ssl.fastly.net&sni=ssl.fastly.com&insecure=0&allowInsecure=0#@freenettir
 vless://e1a5c7fd-d1c7-49a3-b772-9e2935d420db@199.232.78.159:443?encryption=none&type=ws&security=tls&path=/&host=SvnTeamChannel.global.ssl.fastly.net&sni=ssl.fastly.com&insecure=0&allowInsecure=0#@meliproxyy
 vless://e1c84131-eaca-4a67-8bf1-365f254d2ef9@172.67.171.59:443?security=tls&sni=fr2.vless.site&type=ws&host=fr2.vless.site&path=/vless#@Hope_Net-join-us-on-Telegram
+vless://e1c84131-eaca-4a67-8bf1-365f254d2ef9@172.67.171.59:443?security=tls&sni=fr2.vless.site&type=ws&host=fr2.vless.site&path=/vless#🇨🇦139184 | ⚡️Telegram = t.me/SOSkeyNET
