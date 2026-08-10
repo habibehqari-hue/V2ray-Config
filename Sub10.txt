@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://c28ee61d-0d43-4e69-8e6a-6397ed0ffc03@45.143.201.8:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=hasty-dolphin.cdn.cachefleet.com&fp=chrome&pbk=SHDdd617KLHHb0qlQFOHepeHFl_Ch2i-K7o891uyo2M&type=tcp&headerType=none&host=/?#@Daily_Configs
+vless://c28ee61d-0d43-4e69-8e6a-6397ed0ffc03@45.143.201.8:443?encryption=none&flow=xtls-rprx-vision&type=raw&security=reality&sni=hasty-dolphin.cdn.cachefleet.com&fp=chrome&pbk=SHDdd617KLHHb0qlQFOHepeHFl_Ch2i-K7o891uyo2M&spx=/HesarWeb#• 🇳🇱 | 𝗡𝗲𝘁𝗵𝗲𝗿𝗹𝗮𝗻𝗱𝘀 - @HesarWeb
 vless://c28ee61d-0d43-4e69-8e6a-6397ed0ffc03@45.143.201.8:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=hasty-dolphin.cdn.cachefleet.com&pbk=SHDdd617KLHHb0qlQFOHepeHFl_Ch2i-K7o891uyo2M#@V2RAYNG_IP VIP⚡️
 vless://c28ee61d-0d43-4e69-8e6a-6397ed0ffc03@45.143.201.8:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&sni=hasty-dolphin.cdn.cachefleet.com&security=reality&fp=chrome&host=/?BIA_TELEGRAM@TOOTFFARANGI_TOOTFFARANGI_TOOTFFARANGI&pbk=SHDdd617KLHHb0qlQFOHepeHFl_Ch2i-K7o891uyo2M#@Napsternetvirani
 vless://c28ee61d-0d43-4e69-8e6a-6397ed0ffc03@45.143.201.8:443?encryption=none&type=tcp&security=reality&headerType=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&sni=hasty-dolphin.cdn.cachefleet.com&fp=chrome&insecure=1&allowInsecure=1&pbk=SHDdd617KLHHb0qlQFOHepeHFl_Ch2i-K7o891uyo2M&spx=/HesarWeb&flow=xtls-rprx-vision#@meliproxyy
@@ -501,5 +503,3 @@ vless://d8329e7b-9317-462f-8b7c-22bbeab0ae26@download.cdkshop.ir:443?encryption=
 vless://d840e1ca-5432-425a-40e6-4f8791b6474d@Uk.khabarvarzesh3.com:443?security=reality&encryption=none&pbk=7gzxsxnqwoh1HEfp02BQpEmMaIFHqz4RL8h68hZqsjc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdn-apple.com&sid=6ea3daaac3d6bede#@appsooner کانال تلگرام 🕊️
 vless://d840e1ca-5432-425a-40e6-4f8791b6474d@pars.khabarvarzesh3.com:443?security=reality&encryption=none&pbk=7gzxsxnqwoh1HEfp02BQpEmMaIFHqz4RL8h68hZqsjc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=6ea3daaac3d6bede#@appsooner کانال تلگرام 🕊️
 vless://d84c0e47-7575-44cb-bc05-b55de8b51ca0@188.114.98.0:2053?path=/latest?ed=2560&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=hz.badomzamini.uk#Arshiavpn12
-vless://d85ea913-7dfa-44b0-bd66-33414e897991@104.26.14.21:443?encryption=none&security=tls&sni=afrcloud22.mmv.kr&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=afrcloud22.mmv.kr&path=/#کانال تلگرام : Free_VPN_CH@
-vless://d85ea913-7dfa-44b0-bd66-33414e897991@172.67.73.14:443?path=/35.230.79.26=443#Join@v2rayngzendegimamad&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&fp=chrome&type=ws&allowInsecure=0&sni=afrcloud22.mmv.kr#@v2rayngzendegimamad🕊️

@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://592bac53-90ec-44b5-811b-01f6adf28f41@104.24.140.39:80?encryption=none&security=none&type=ws&host=wild-glade-236b-ppal03.xawego3471.workers.dev&path=/?ed=2560#🥸Tel: @pPal03🥸جوین بدید گوگولیا🥸
+vless://594f6aef-16f8-4a86-8e2e-a217344a96aa@pro-ru-bridge.emrata.top:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=pro-ru-bridge.emrata.top&fp=chrome&security=reality&pbk=F8tqvcuJUSVbxv_i9ZsVOef3EPwULzzDqgvmj3vWNlA&sid=#俄罗斯
 vless://59525c39-e731-4c27-bc9e-6d8cef67572c@72.56.247.70:2200?path=/v1&security=none&encryption=none&host=rzd.ru&type=ws#@erfanandroid
 vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@visa.cn:443?path=/?ed=2560&security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&fp=chrome&type=ws&sni=5-55sfjslf.ifenxiang.cfd#@V2rayi_net
 vless://598b0cf3-caae-4a40-8662-598dc0e33e8f@@Black_Raven_ir:1020?security=reality&encryption=none&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=9b60d3#🔥🇩🇪ایرانسل @Black_Raven_ir
@@ -501,5 +503,3 @@ vless://7ee0cedb-1f06-4be9-8444-51f289a4bf12@172.64.86.167:80?encryption=none&se
 vless://7f34b2d2-f06c-4c9d-8a40-40aab0f80976@apiapi.gold-temas.com:52632?path=/&security=none&encryption=none&host=www.icloud.com&type=httpupgrade#@NETMelliAnti
 vless://7f3c3105-bc39-47fa-812d-1833b3709a9f@free.soundfiy.ir:4554?security=reality&encryption=none&pbk=v-ydSy2Eb-YyiWYd3WyFoJc4Bjs9QPGRTsVac6SyO14&headerType=none&fp=chrome&spx=/79b18347b0a623a&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=e3#@V2ray_Alpha🧞 6
 vless://7f3c3105-bc39-47fa-812d-1833b3709a9f@free.soundfiy.ir:4554?security=reality&encryption=none&pbk=v-ydSy2Eb-YyiWYd3WyFoJc4Bjs9QPGRTsVac6SyO14&headerType=none&fp=chrome&spx=/79b18347b0a623a&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=e3#@tootffarangi🍓-11
-vless://7f3c3105-bc39-47fa-812d-1833b3709a9f@free.soundfiy.ir:4554?security=reality&encryption=none&pbk=v-ydSy2Eb-YyiWYd3WyFoJc4Bjs9QPGRTsVac6SyO14&headerType=none&fp=chrome&spx=/79b18347b0a623a&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=e3#@v2raybaaz ⁴
-vless://7f3c3105-bc39-47fa-812d-1833b3709a9f@free.soundfiy.ir:4554?security=reality&encryption=none&pbk=v-ydSy2Eb-YyiWYd3WyFoJc4Bjs9QPGRTsVac6SyO14&headerType=none&fp=chrome&spx=/79b18347b0a623a&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=e3#@vpnbaz ⭐
