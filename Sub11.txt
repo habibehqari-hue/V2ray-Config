@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://c47883ae-a40a-434d-b7d0-4b5d1f57922c@193.39.9.241:2095?mode=auto&path=/&security=reality&encryption=none&extra={"scMaxEachPostBytes":"1000000","xPaddingBytes":"100-1000"}&pbk=lt6uIlD0t8s4eYkLvlFkDK4U20jJZHt-ftuhwPO8KiM&fp=chrome&spx=/xeCuEkJ7ERtgNRj&type=xhttp&sni=www.nvidia.com&sid=c59dc48e#@FarazV2ray
+vless://c47883ae-a40a-434d-b7d0-4b5d1f57922c@193.39.9.241:2095?mode=auto&path=/&security=reality&encryption=none&extra={"scMaxEachPostBytes":"1000000","xPaddingBytes":"100-1000"}&pbk=lt6uIlD0t8s4eYkLvlFkDK4U20jJZHt-ftuhwPO8KiM&fp=chrome&spx=/xeCuEkJ7ERtgNRj&type=xhttp&sni=www.nvidia.com&sid=c59dc48e#@v2rayng_Fast
 vless://c47883ae-a40a-434d-b7d0-4b5d1f57922c@193.39.9.241:8443?security=reality&encryption=none&pbk=gQ0Wb1JGVAthgCRHp71qxmUDKe6rrBSk_YwSIcHv8kE&headerType=none&fp=chrome&spx=/z11iVdzHCExb0ve&type=tcp&sni=www.intel.com&sid=7e3065b281#@FarazV2ray
 vless://c47883ae-a40a-434d-b7d0-4b5d1f57922c@193.39.9.241:8443?security=reality&encryption=none&pbk=gQ0Wb1JGVAthgCRHp71qxmUDKe6rrBSk_YwSIcHv8kE&headerType=none&fp=chrome&spx=/z11iVdzHCExb0ve&type=tcp&sni=www.intel.com&sid=7e3065b281#@v2rayng_Fast
 vless://c47b7032-5184-4034-9a81-346c35c61fc5@ulk.lorqina.ir:40813?security=&encryption=none&headerType=none&type=tcp#‎🛰️ @TEHRANARGO 2
@@ -501,5 +503,3 @@ vless://de27291c-15a9-4256-9ba7-ad517569877e@18.239.134.69:80/?type=ws&encryptio
 vless://de27291c-15a9-4256-9ba7-ad517569877e@18.239.134.69:80/?type=ws&encryption=none&flow=&host=d2e1v87ko56lyw.cloudfront.net:assets.opensignal.com&path=/&packetEncoding=xudp#泰国
 vless://de27291c-15a9-4256-9ba7-ad517569877e@18.239.134.69:80?path=/&security=none&encryption=none&host=d2e1v87ko56lyw.cloudfront.net:assets.opensignal.com&type=ws#برای اتصال دائمی جوین شو🥏 TelegramID ⌲Express_freevpn 🪩
 vless://de5dcb9e-6a72-45a2-8d3d-de00e5431426@46.225.220.111:1234?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@bored_vpn
-vless://de64aaa6-a0ea-48d0-853b-1c3cbc7fb42c@141.98.118.70:443/?type=tcp&encryption=none&flow=&sni=www.google.com&alpn=channel@networld_vpn-channel@networld_vpn-channel@networld_vpn-channel@networld_vpn-channel@networld_vpn-channel@networld_vpn-channel@networld_vpn-channel@networld_vpnـ&security=reality&pbk=LjEQR0FEtsOs5eQoVsZgJX5ZI0yeadUKTCLoGD641RQ&sid=44#تو کانال نتورلد نباشید قطع میشن@networld_vpn
-vless://de64aaa6-a0ea-48d0-853b-1c3cbc7fb42c@141.98.118.70:443?mode=auto&path=/&security=reality&encryption=none&pbk=LjEQR0FEtsOs5eQoVsZgJX5ZI0yeadUKTCLoGD641RQ&fp=chrome&spx=/&type=xhttp&sni=www.google.com&sid=44#@EXPRESSVPN_420  👈🏻 کانال تلگرام

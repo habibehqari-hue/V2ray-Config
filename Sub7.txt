@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://68b4b16e-2759-47a4-8a69-33118edf5ce6@185.65.202.156:443?security=reality&encryption=none&pbk=gtKMi9Q9ZMYxe-ZvzmbpPI-uE6YcFM84xYSw7bpKF3w&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ger.leontunel.ru&sid=52c579ed2ce06c26#@bored_vpn
+vless://68b4b16e-2759-47a4-8a69-33118edf5ce6@185.65.202.156:443?security=reality&encryption=none&pbk=gtKMi9Q9ZMYxe-ZvzmbpPI-uE6YcFM84xYSw7bpKF3w&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ger.leontunel.ru&sid=52c579ed2ce06c26#@mehrosaboran
 vless://68b4b16e-2759-47a4-8a69-33118edf5ce6@194.104.10.68:443?security=reality&encryption=none&pbk=z3U2vV7PRNvOraeAs6RnjM8aQbkOFdyp82ogXdS40mI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ned.leontunel.ru&sid=f64c0c7635cbddf5#@Arvand_soul❤️🧑‍💻 کانفیگ ملی در #14
 vless://68b4b16e-2759-47a4-8a69-33118edf5ce6@194.147.35.83:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ang.leontunel.ru&fp=chrome&pbk=5RK9ivB7UF_89vkywwpZjW3jAJqsEGskRSS7c0OUOXM&sid=2f4761809cf9fbfb&type=tcp&headerType=none#@Daily_Configs : کانال تلگرام
 vless://68b4b16e-2759-47a4-8a69-33118edf5ce6@ang.leontunel.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ang.leontunel.ru&fp=chrome&pbk=5RK9ivB7UF_89vkywwpZjW3jAJqsEGskRSS7c0OUOXM&sid=2f4761809cf9fbfb&type=tcp&headerType=none#@Daily_Configs : کانال تلگرام
@@ -501,5 +503,3 @@ vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.66.44.97:443?path=musiclovers85
 vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.66.44.97:443?path=musiclovers85_musiclovers85?ed=512&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#@musiclovers85🔥✅️
 vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@josni.hoyes.cloudns.ch:2053/?type=ws&encryption=none&flow=&host=josni.hoyes.cloudns.ch&path=/&security=tls&sni=josni.hoyes.cloudns.ch#channel_@networld_vpn
 vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@josni.hoyes.cloudns.ch:2053/?type=ws&encryption=none&flow=&path=/&security=tls#channel_@networld_vpn
-vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@josni.hoyes.cloudns.ch:2053?encryption=none&host=josni.hoyes.cloudns.ch&path=/&security=tls&sni=josni.hoyes.cloudns.ch&type=ws#🧬56@SHAHSERVER1
-vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@millionaire.levikogjgfdd.ir:443/?type=ws&encryption=none&flow=&host=josni.hoyes.cloudns.ch&path=/sg-melbi&security=tls&sni=josni.hoyes.cloudns.ch#channel_@networld_vpn

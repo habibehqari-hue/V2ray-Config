@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://adce7c2a-3191-49ae-b61c-9b8258ea1b0e@89.208.113.16:443?security=none&encryption=none&headerType=none&type=tcp#☑➜چنلمون: Express_freevpn@
+vless://adda46c3-eab1-40bc-b88d-6b92c1e8c558@172.66.140.62:8880?path=/pyip=ProxyIP.JP.CMLiussss.net&security=&encryption=none&host=delicate-base-12ed.287-133.workers.dev&type=ws#🚀t.me/iProxyChannel
 vless://adf1fac3-cf57-ff40-574c-cf514457eb3f@62.233.39.6:443?encryption=none&type=xhttp&security=reality&path=/&mode=auto&sni=download.nvidia.com&fp=chrome&insecure=1&allowInsecure=1&pbk=lDi6FDdd5qUFMjjR1JDidfUU2qE_U1L90VjNTzPyQhs#@freenettir
 vless://adf1fac3-cf57-ff40-574c-cf514457eb3f@62.233.39.6:443?encryption=none&type=xhttp&security=reality&path=/&mode=auto&sni=download.nvidia.com&fp=chrome&insecure=1&allowInsecure=1&pbk=lDi6FDdd5qUFMjjR1JDidfUU2qE_U1L90VjNTzPyQhs#@meliproxyy
 vless://adf1fac3-cf57-ff40-574c-cf514457eb3f@62.233.39.6:443?encryption=none&type=xhttp&security=reality&path=/&mode=auto&sni=download.nvidia.com&fp=chrome&insecure=1&allowInsecure=1&pbk=lDi6FDdd5qUFMjjR1JDidfUU2qE_U1L90VjNTzPyQhs#🔵@chillguy_vpn
@@ -501,5 +503,3 @@ vless://c46e2605-be24-4555-b7db-0fc6773ad004@45.149.147.155:30160?encryption=non
 vless://c4745383-5e50-4482-8980-8a57a098f58f@web-production-6ffd7.up.railway.app:443?encryption=none&security=tls&sni=web-production-6ffd7.up.railway.app&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=web-production-6ffd7.up.railway.app&path=/ws/c4745383-5e50-4482-8980-8a57a098f58f#@hollowcon
 vless://c47883ae-a40a-434d-b7d0-4b5d1f57922c@193.39.9.241:2087?security=none&encryption=none&headerType=none&type=tcp#@FarazV2ray
 vless://c47883ae-a40a-434d-b7d0-4b5d1f57922c@193.39.9.241:2087?security=none&encryption=none&headerType=none&type=tcp#@v2rayng_Fast
-vless://c47883ae-a40a-434d-b7d0-4b5d1f57922c@193.39.9.241:2095?mode=auto&path=/&security=reality&encryption=none&extra={"scMaxEachPostBytes":"1000000","xPaddingBytes":"100-1000"}&pbk=lt6uIlD0t8s4eYkLvlFkDK4U20jJZHt-ftuhwPO8KiM&fp=chrome&spx=/xeCuEkJ7ERtgNRj&type=xhttp&sni=www.nvidia.com&sid=c59dc48e#@FarazV2ray
-vless://c47883ae-a40a-434d-b7d0-4b5d1f57922c@193.39.9.241:2095?mode=auto&path=/&security=reality&encryption=none&extra={"scMaxEachPostBytes":"1000000","xPaddingBytes":"100-1000"}&pbk=lt6uIlD0t8s4eYkLvlFkDK4U20jJZHt-ftuhwPO8KiM&fp=chrome&spx=/xeCuEkJ7ERtgNRj&type=xhttp&sni=www.nvidia.com&sid=c59dc48e#@v2rayng_Fast
