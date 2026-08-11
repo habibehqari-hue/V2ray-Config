@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@143.47.188.151:62145?security=none&encryption=none&headerType=none&type=tcp#@v2raybaaz
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@144.21.35.209:62145/?type=tcp&encryption=none&flow=#channel_@networld_vpn
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.162.116:62145?type=tcp&headerType=none&encryption=none&security=none#@Napsternetvirani
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.166.237:62145?security=none&encryption=none&headerType=none&type=tcp#@erfanandroid
@@ -502,4 +503,3 @@ vless://a2626d27-e0f8-490d-b23c-c9ca0dea4ea9@dnss.iraniranshopdashnoard.ir:2086?
 vless://a2626d27-e0f8-490d-b23c-c9ca0dea4ea9@dnss.iraniranshopdashnoard.ir:2086?encryption=none&security=none&type=httpupgrade&host=bio.mehrsazi.ir&path=/?ed=2080#کانال تلگرام : Free_VPN_CH@
 vless://a26bbed7-a286-4840-84bc-dc102c526777@speedtest.net:80?mode=auto&path=/category/music&security=none&encryption=none&host=iran.boltboost.gg&type=xhttp#@KAFING_2
 vless://a2aa7759-ddac-4d02-bf9d-de62cbff9481@104.171.132.232:2200?path=/v1&security=none&encryption=none&type=ws#@FarazV2ray
-vless://a2aa7759-ddac-4d02-bf9d-de62cbff9481@104.171.132.232:2200?path=/v1&security=none&encryption=none&type=ws#@irconfiig
