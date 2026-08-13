@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://564082ff-cf3c-48db-9e10-8ad2312847b4@soskeynets.mxvpn.dev:443?security=reality&encryption=none&pbk=TlpXTLz1Y-v8B6q9MX55U6eypjfL0LCSNE5zQP4yRHw&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=node15.mxvpn.dev&sid=bbc68cec8bb8d2e3#🇫🇮139854 | ⚡️Telegram = t.me/SOSkeyNET
+vless://564082ff-cf3c-48db-9e10-8ad2312847b4@soskeynets.mxvpn.dev:443?security=reality&encryption=none&pbk=TlpXTLz1Y-v8B6q9MX55U6eypjfL0LCSNE5zQP4yRHw&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=node16.mxvpn.dev&sid=bbc68cec8bb8d2e3#🇫🇮139853 | ⚡️Telegram = t.me/SOSkeyNET
+vless://5691739d-4043-4d79-afe4-79ead9d32f67@193.233.133.152:12808?security=reality&encryption=none&pbk=biddvYO6drF3jNx00mcy5PmlXVpWMoXKuejF8kM6cFM&headerType=none&fp=chrome&spx=/&type=tcp&sni=www.apple.com&sid=93b12adb#@prrofile_purple | 𝗙𝗮𝗦𝗧 💚
+vless://56a182fc-c306-4701-8eef-6f8e08be3d1a@188.114.98.47:443?path=/&security=tls&encryption=none&insecure=0&host=icy-dust-3024.shirokhorshid1212.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=icy-dust-3024.shirokhorshid1212.workers.dev#🇨🇦@FreakConfig
 vless://56a210bb-8c6b-4148-80bc-2fec5099cb98@c27.prodnsspeed10.ir:2083?encryption=none&security=tls&sni=so.sodogodping.ir&fp=chrome&type=grpc&authority=&serviceName=Love&mode=multi#کانال تلگرام : Free_VPN_CH@
 vless://56e409a0-0042-4f50-92cd-741f78bfc8d0@185.136.12.28:8443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=g.co&fp=chrome&pbk=AJaF22KofrLCIR4CTB1vtLk-jFOD2uZXbuUh2cKT4Bk&sid=8f5ed0&spx=/U70oF9OsnzuRflI&allowinsecure=0&type=tcp&headerType=none#🇩🇪All⁹ | @BigSmoke_Config
 vless://56e409a0-0042-4f50-92cd-741f78bfc8d0@185.136.12.28:8443?security=reality&encryption=none&pbk=AJaF22KofrLCIR4CTB1vtLk-jFOD2uZXbuUh2cKT4Bk&headerType=none&fp=chrome&spx=/U70oF9OsnzuRflI&type=tcp&flow=xtls-rprx-vision&sni=g.co&sid=8f5ed0#@V2ray_Alpha🐆 5
@@ -499,7 +503,3 @@ vless://7d74eae4-8a06-4306-a923-ad686f30bf26@OV-Germany1.09vpn.com:80?path=/vles
 vless://7d74eae4-8a06-4306-a923-ad686f30bf26@OV-Germany1.09vpn.com:80?path=/vless/&security=&encryption=none&type=ws#🇩🇪DE-🚀@VPNine1
 vless://7d74eae4-8a06-4306-a923-ad686f30bf26@ov-germany1.09vpn.com:80?encryption=none&host=OV-Germany1.09vpn.com&path=/vless/&security=none&type=ws#🇩🇪 Join+Telegram:@Farah_VPN 🇩🇪
 vless://7d8584e3-410b-4667-a9b3-9a6465d4f999@91.107.255.167:24391?security=none&encryption=none&headerType=none&type=tcp#TEL;Father_vpn
-vless://7d938228-0ee2-4758-9f33-1a6c6592b791@72.56.65.210:40443?security=reality&encryption=none&pbk=a1UMmt4ytNFwDizX92056cCle6dG1ASF46vf4awNXTk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=d46b#⚫ 48 • @spotfyhits ❤
-vless://7dbd891c-7053-45aa-a2a6-ef1e73985c93@3.96.31.222:15215?path=/&security=none&encryption=none&host=anten.ir&type=ws#@v2raybaaz²
-vless://7dfdbb4b-5bf7-4503-b2c0-4ef05922dcb9@psf-1.zdshop.ir:80?security=none&encryption=none&host=khodroshop.ir&type=ws#@EXPRESSVPN_420
-vless://7dfdbb4b-5bf7-4503-b2c0-4ef05922dcb9@psf-1.zdshop.ir:80?security=none&encryption=none&host=khodroshop.ir&type=ws#⭐️@v2rayngsupbot
