@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@172.64.150.28:443?path=/fp&security=tls&encryption=none&insecure=0&host=hhlfy.twiladaphne.ndjp.net&fp=chrome&type=ws&allowInsecure=0&sni=hhlfy.twiladaphne.ndjp.net#@meliproxyy
 vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@172.64.150.28:443?path=/fp&security=tls&encryption=none&insecure=0&host=hhlfy.twiladaphne.ndjp.net&fp=chrome&type=ws&allowInsecure=0&sni=hhlfy.twiladaphne.ndjp.net#configprxy
 vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@172.64.150.28:443?path=/fp&security=tls&encryption=none&insecure=0&host=hhlfy.twiladaphne.ndjp.net&fp=chrome&type=ws&allowInsecure=0&sni=hhlfy.twiladaphne.ndjp.net#🚀t.me/iProxyChannel
 vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@chat.openai.com:443?path=/fp&security=tls&encryption=none&insecure=0&host=hhlfy.twiladaphne.ndjp.net&type=ws&allowInsecure=0&sni=hhlfy.twiladaphne.ndjp.net#🚀t.me/iProxyChannel
@@ -503,3 +502,4 @@ vless://ff1b0b50-70dc-4bae-866e-55cff86f4d6d@185.189.46.78:443?security=reality&
 vless://ff1b0b50-70dc-4bae-866e-55cff86f4d6d@185.189.46.78:443?security=reality&encryption=none&pbk=qR4AuNiWRXOMdzZY-v3KJwpS27LU3T62UhDjxhVqfH0&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=sweden.nosok-top.com&sid=9c2378562188c3cb#[22044] - Telegram : @V2All
 vless://ff1b0b50-70dc-4bae-866e-55cff86f4d6d@188.225.83.179:443?security=reality&encryption=none&pbk=sbvKAdRy_0h33iRxgGwHAD1HC62WGwlkWwj0S5ptJEU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ru.falsemirrov.com&sid=9c2378562188c3cb#@FarazV2ray
 vless://ff1b0b50-70dc-4bae-866e-55cff86f4d6d@188.225.83.179:443?security=reality&encryption=none&pbk=sbvKAdRy_0h33iRxgGwHAD1HC62WGwlkWwj0S5ptJEU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ru.falsemirrov.com&sid=9c2378562188c3cb#@V2rayng_Fast
+vless://ff1b0b50-70dc-4bae-866e-55cff86f4d6d@38.49.208.29:443?security=reality&encryption=none&pbk=N1KH15LltY-On3flp6KhR0VOouBqNrcFNktOnptsOTs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fqub.falsemirrov.com&sid=9c2378562188c3cb#@meliproxyy
