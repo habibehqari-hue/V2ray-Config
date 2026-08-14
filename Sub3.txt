@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://000f16e8-cc68-4951-b336-acd81996efde@45.155.71.170:50443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=hp9ht_jsxocTnQEbChb1G3JoDF50x-xDT8UYr66D1TQ&security=reality&sni=www.icloud.com&type=tcp#🛗81@oneclickvpnkeys
-vless://000f16e8-cc68-4951-b336-acd81996efde@89.208.113.54:50443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=hp9ht_jsxocTnQEbChb1G3JoDF50x-xDT8UYr66D1TQ&security=reality&sni=www.icloud.com&type=tcp#🛗83@oneclickvpnkeys
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@pishdad.org:8080?path=/&security=none&encryption=none&host=tr-cd.sublink-vip2.com&type=ws#@VpnCostumer+|+بیا+تو+وصل+باش+💙
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@pishdad.org:8080?path=/&security=none&encryption=none&host=tr-cd.sublink-vip2.com&type=ws#TEL;Father_vpn
 vless://007a5c24-cdbe-4adc-a79f-ca2768fef8bb@edge.aiteamplus.ir:10007?security=none&encryption=none&headerType=http&type=tcp#@KAFING_2
@@ -503,3 +501,5 @@ vless://1f29762d-3f23-4207-9e39-f774de5d49ba@95.85.228.161:8443?encryption=none&
 vless://1f347596-193a-baf6-a33b-4eeb1bbb548b@69.46.46.17:443?encryption=none&type=ws&security=tls&path=/ws/1f347596-193a-baf6-a33b-4eeb1bbb548b&host=rvg-production-cc31.up.railway.app&sni=rvg-production-cc31.up.railway.app&alpn=http/1.1&fp=chrome&insecure=0&allowInsecure=0#@meliproxyy
 vless://1f347596-193a-baf6-a33b-4eeb1bbb548b@69.46.46.17:443?path=/ws/1f347596-193a-baf6-a33b-4eeb1bbb548b&security=tls&alpn=http/1.1&encryption=none&host=rvg-production-cc31.up.railway.app&fp=chrome&type=ws&sni=rvg-production-cc31.up.railway.app#All Operators @MaSTeRSeRVeR1
 vless://1f347596-193a-baf6-a33b-4eeb1bbb548b@69.46.46.17:443?path=/ws/1f347596-193a-baf6-a33b-4eeb1bbb548b&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=rvg-production-cc31.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=rvg-production-cc31.up.railway.app#@meliproxyy
+vless://1f9d104e-ca0e-4202-ba4b-a0afb969c747@45.130.125.76:443?encryption=none&type=xhttp&security=tls&path=/assignment&host=www.multiplydose.cc.cd&mode=stream-one&sni=www.multiplydose.cc.cd&alpn=h2,http/1.1&fp=chrome&allowInsecure=0#canfingV2rayNG-117
+vless://2001e98b-e06e-4244-910f-7ff640746eda@168.222.202.15:4100?path=/v1&security=none&encryption=none&type=ws#@FarazV2ray
