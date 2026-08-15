@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://218fd696-e3a2-4c33-b397-a5f13a82969e@152.53.142.39:443/?type=tcp&encryption=none&flow=&sni=media2.tcpdoor.net&fp=chrome&security=reality&pbk=whjFaQUOWE6n1r89kfjPVeJtut_b_YD3YnfRtpC4QEU&sid=0782f882#德国
+vless://218fd696-e3a2-4c33-b397-a5f13a82969e@162.35.231.6:443?security=reality&encryption=none&pbk=O4of5fbG7Ns3fBdBF0bDU8Fa8q-mdk7YLgOgvAWPeF8&headerType=none&type=tcp&sni=media2.tcpdoor.net&sid=f85aebea#🚀t.me/iProxyChannel
 vless://218fd696-e3a2-4c33-b397-a5f13a82969e@194.93.0.28:443?security=reality&encryption=none&pbk=vxhkDXfYpz1OLqZ-_9QVoQr3_UJLtJFheb5bD5YH7z8&fp=chrome&type=grpc&serviceName=grpc&sni=media2.tcpdoor.net&sid=3303c7a5#🇷🇺|RU|@wxgqlfx|10
 vless://218fd696-e3a2-4c33-b397-a5f13a82969e@94.156.155.27:443?security=reality&type=tcp&fp=chrome&sni=www.telekom.de&pbk=bY0-zlTOPCaEWDMw_BTzuzJW513tl6Hc61n4Z-q1cHE&sid=8f892fa1&spx=/#🇩🇪 Join+Telegram:@Farah_VPN 🇩🇪
 vless://2209803c-f438-4b37-a60e-cfa213c5edd2@193.233.133.152:44634?mode=auto&path=/&security=reality&encryption=none&extra={"xPaddingBytes":"100-1000"}&pbk=kLFWkJfLnH5OaU12D2sRotdgRcgOwX7HKljlV6A4jUw&fp=chrome&spx=/&type=xhttp&sni=www.sony.com&sid=82590eda#@prrofile_purple | 𝗙𝗮𝗦𝗧 💚
@@ -501,5 +503,3 @@ vless://4411e63c-9d5f-403f-b8b4-89ea29fbde2a@176.65.151.64:443?security=reality&
 vless://4411e63c-9d5f-403f-b8b4-89ea29fbde2a@176.65.151.64:443?security=reality&encryption=none&pbk=vrCKcD_CfJ3HnoBh8WVGXXPxhCyjXjSVnFDfi14w53s&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&spx=/a32433ebeac8e8c&type=tcp&flow=xtls-rprx-vision&sni=home.amazon.com&sid=71c764#@MARAMBASHI 🇹🇷
 vless://44289654-8618-403b-a573-a79a849100ce@rose5.lhpuniversity.online:54338?security=none&encryption=none&host=divarcdn.com&headerType=http&type=tcp&note=@FreeOnlineVPN#🇩🇪 - DE - @FreeOnlineVPN
 vless://442e1d8f-d2d3-422c-b03a-00b13098fb9a@185.226.92.175:36980?encryption=none&packetEncoding=xudp#• 🇹🇷 | 𝗧𝘂𝗿𝗸𝗲𝘆 - @HesarWeb
-vless://442e1d8f-d2d3-422c-b03a-00b13098fb9a@185.226.92.175:36980?security=none&encryption=none&headerType=none&type=tcp#@configprxy
-vless://444f3779-cc79-4289-b22b-f75bc84be25e@d7e209882c98f0ecd7e209882c98f0ec.ssdhdd.org:443?security=reality&encryption=none&pbk=pvY1bX3eh_RHA2foDr82nB-0UgXu1uO7xjtYKRSFuCs&headerType=none&fp=chrome&type=tcp&sni=tasnimnews.ir&sid=3b225391611b29e5#چنل عضو شو @v2ra_config
