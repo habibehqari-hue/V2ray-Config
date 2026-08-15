@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://ba9ddd0d-5ffd-4d40-b76d-df32ecb092a1@109.120.177.84:443?security=tls&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=decdn7.suio.me#⚡Telegram =@CUSTOMVPNSERVER
 vless://bacbb776-dacf-40b7-aa5b-b06ce37e4ab4@31.56.222.59:19869?encryption=none&type=tcp&headerType=none&security=none#@Capoit
 vless://bae2fd3a-55fb-4094-99f6-c94e25d7d15d@141.98.6.113:603?mode=gun&security=reality&encryption=none&pbk=lWJaKBaMPs0NYHGCbfsrmn64R4juEQEvfmHNnL741Ek&fp=chrome&type=grpc&sni=www.amd.com#🔥 @free_conf_iran 🔥 5
 vless://bb3f7d41-a044-4937-bf6f-4a3d1a70db06@104.19.64.105:8443?path=/RoBeRt&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=interim.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=interim.adaspoloandco.com#@Tanhanet
@@ -503,3 +502,4 @@ vless://d65cc14c-f53f-4fe2-b262-97856601319c@us3.levikogjgfdd.ir:443?security=re
 vless://d662d09d-61e8-42ba-bc17-a40121589b26@mtn-iTV2RAY.ddns.net:2083?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@iTV2RAY&sni=tm.iTV2RAY.fun#@iTV2RAY+/+MTN
 vless://d67af820-f54c-48ab-862c-19086357f276@node5.get-tres.ru:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=reality&encryption=none&pbk=dhLgVSqPBDrdbhyTS2j60LWZDGEZh-smkcjUNSic-WI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=telegraf.lv&sid=e5f67890#@GozargahAzad|🇫🇷
 vless://d67af820-f54c-48ab-862c-19086357f276@node5.get-tres.ru:443?encryption=none&type=tcp&security=reality&headerType=none&sni=telegraf.lv&fp=chrome&insecure=1&allowInsecure=1&pbk=dhLgVSqPBDrdbhyTS2j60LWZDGEZh-smkcjUNSic-WI&sid=e5f67890&flow=xtls-rprx-vision#@irconfiig
+vless://d67af820-f54c-48ab-862c-19086357f276@node5.get-tres.ru:443?encryption=none&type=tcp&security=reality&headerType=none&sni=telegraf.lv&fp=chrome&insecure=1&allowInsecure=1&pbk=dhLgVSqPBDrdbhyTS2j60LWZDGEZh-smkcjUNSic-WI&sid=e5f67890&flow=xtls-rprx-vision#@meliproxyy
