@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://ab5a2531-acc1-4a54-b16c-e14665dc88a5@direct.freelauner.ir:443?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@NETMelliAnti
 vless://abc4c4d2-3760-4003-8cb7-322f8ec1a9c5@213.178.155.239:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&type=grpc&security=reality&sni=max.ru&fp=chrome&pbk=dg-XAKwtCTyYz0HN94sbNCM8xLwY4lBHkUa883nTFn8&sid=0d0440286388a044&serviceName=bridge-akenai-grpc-max#@GozargahAzad|🇷🇺
 vless://abc4c4d2-3760-4003-8cb7-322f8ec1a9c5@213.178.155.239:443?type=grpc&security=reality&sni=max.ru&fp=chrome&pbk=dg-XAKwtCTyYz0HN94sbNCM8xLwY4lBHkUa883nTFn8&sid=0d0440286388a044&serviceName=bridge-akenai-grpc-max#[🇷🇺]t.me/ConfigsHub
 vless://abc4c4d2-3760-4003-8cb7-322f8ec1a9c5@213.178.155.239:443?type=grpc&security=reality&sni=max.ru&fp=chrome&pbk=dg-XAKwtCTyYz0HN94sbNCM8xLwY4lBHkUa883nTFn8&sid=0d0440286388a044&serviceName=bridge-akenai-grpc-max#🇷🇺144503 | ⚡️Telegram = t.me/SOSkeyNET
@@ -502,4 +503,3 @@ vless://cd60668d-28d0-4070-8179-47ad0d151dd5@82.202.247.181:443?security=reality
 vless://cd60668d-28d0-4070-8179-47ad0d151dd5@82.202.247.181:443?security=reality&encryption=none&pbk=vZ22ThhkpXUd5-tY-v5TTrouLHjgYYmeQgqeLt7HRz0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yandex.ru#برای اتصال دائمی جوین شو💱 TelegramID ⌲Express_freevpn 🪩
 vless://cd60668d-28d0-4070-8179-47ad0d151dd5@82.202.247.181:443?security=reality&encryption=none&pbk=vZ22ThhkpXUd5-tY-v5TTrouLHjgYYmeQgqeLt7HRz0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yandex.ru#🚀t.me/iProxyChannel
 vless://cd60668d-28d0-4070-8179-47ad0d151dd5@82.202.247.181:443?security=reality&encryption=none&pbk=vZ22ThhkpXUd5-tY-v5TTrouLHjgYYmeQgqeLt7HRz0&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yandex.ru#@MARAMBASHI 🇮🇹
-vless://cd60668d-28d0-4070-8179-47ad0d151dd5@82.202.247.181:443?security=reality&encryption=none&pbk=vZ22ThhkpXUd5-tY-v5TTrouLHjgYYmeQgqeLt7HRz0&host=/?BIA_TELEGRAM@TOOTFARANGI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yandex.ru#@tootffarangi🍓-9
