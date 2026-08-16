@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://02acdd30-e785-4405-8f7f-bd97bc36ad84@95.182.98.178:8443?security=reality&encryption=none&pbk=0nCXyW0cHSDJTYLcE09mmXz95NzKAb0hV8hQF49UHWw&headerType=none&fp=chrome&spx=/cf76431daa3e473&type=tcp&sni=www.cloudflare.com&sid=e75e76be4d9c#@meliproxyy
-vless://02acdd30-e785-4405-8f7f-bd97bc36ad84@iraniran.localip.ir:8443?security=reality&encryption=none&pbk=0nCXyW0cHSDJTYLcE09mmXz95NzKAb0hV8hQF49UHWw&headerType=none&fp=chrome&spx=/cf76431daa3e473&type=tcp&sni=timeline.www.cloudflare.com&sid=c8b3d749#@V2ray_Alpha💀 5
 vless://02acdd30-e785-4405-8f7f-bd97bc36ad84@iraniran.localip.ir:8443?security=reality&encryption=none&pbk=0nCXyW0cHSDJTYLcE09mmXz95NzKAb0hV8hQF49UHWw&headerType=none&fp=chrome&spx=/cf76431daa3e473&type=tcp&sni=timeline.www.cloudflare.com&sid=c8b3d749#@meliproxyy
 vless://02e2d68f-9982-4467-ad47-00cbeeae30e6@109.73.195.8:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ru7.cdn-global.pro&fp=chrome&security=reality&pbk=h18Rbgv9RV558p-9Pl4g_--jJjXlTZL0-jHqNK5M_n4&sid=2b8c3e90e14740d2#西班牙
 vless://02e2d68f-9982-4467-ad47-00cbeeae30e6@185.238.191.171:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=bg_o5_i-5MSy-t3CB3iyqIeI8Uqyy_wTP2kheJCXngg&security=reality&sid=f7d0420b8ab26060&sni=de-cdn.ru&type=tcp#🇩🇪139844 | ⚡️Telegram = t.me/SOSkeyNET
@@ -503,3 +501,5 @@ vless://20f44487-3735-4b4a-8954-aba28837fddc@104.21.78.194:2087?path=/trialbox&s
 vless://213426db-afb7-48d1-ae51-5093317212df@104.18.26.90:2087?security=tls&type=ws&headerType=&path=/&host=iopl90nn.bingnet.online&sni=iopl90nn.bingnet.online&fp=&allowInsecure=1&note=@FreeOnlineVPN#🇩🇪 - DE - @FreeOnlineVPN
 vless://213426db-afb7-48d1-ae51-5093317212df@104.21.55.47:2087?security=tls&type=ws&headerType=&path=/&host=iopl90nn.bingnet.online&sni=iopl90nn.bingnet.online&fp=&allowInsecure=1&note=@FreeOnlineVPN#🇩🇪 - DE - @FreeOnlineVPN
 vless://213426db-afb7-48d1-ae51-5093317212df@104.21.55.47:2095?security=none&type=httpupgrade&headerType=&path=/?ed=2096&host=aza002.vaslbash.site&note=@FreeOnlineVPN#🇩🇪 - DE - @FreeOnlineVPN
+vless://213426db-afb7-48d1-ae51-5093317212df@172.64.152.23:2087?security=tls&type=ws&headerType=&path=/&host=iopl90nn.bingnet.online&sni=iopl90nn.bingnet.online&fp=chrome&note=@FreeOnlineVPN#🇩🇪 - DE - @FreeOnlineVPN
+vless://213b2aa9-JebheAlNosrah@167.82.231.255:443?path=/F_ckUAsh0le?ed=2048&security=tls&alpn=h2&encryption=none&host=www.ip.gs&fp=chrome&type=ws#@V2rayi_net
