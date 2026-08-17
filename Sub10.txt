@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://c49a0981-6d37-4ec0-9a01-1b63ccc07e4f@time.is:2096?path=/eyJqdW5rIjoiZHlCcVpqeEYiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyYTAyOjg5ODoxNDY6NjQ6Ol0iLCJbMjYwMjpmYzU5OjExOjY0OjpdIiwiWzI2MDI6ZmM1OTpiMDo2NDo6XSJdfQ==?ed=2560&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=peekconfig.hamrahfree1.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=pEeKcOnFig.haMRaHfREe1.wOrKerS.DEv#🇺🇲
-vless://c4bf72d1-a74d-4ffc-8c81-a0f8b2047f2e@104.24.32.2:443?mode=auto&path=/api&security=tls&alpn=h3,h2,http/1.1&encryption=none&extra={"xPaddingBytes":"100-1000","xmux":{"cMaxReuseTimes":0,"hKeepAlivePeriod":0,"hMaxRequestTimes":"600-900","hMaxReusableSecs":"1800-3000","maxConnections":6}}&host=sub1.sub017.dpdns.org&fp=chrome&type=xhttp&sni=sub1.sub017.dpdns.org#@v2ray_phoenix
 vless://c52064f6-67f3-43cd-ada7-29d3cc1623cd@k5.adamak.top:11035?encryption=none&security=none&type=tcp&headerType=http&host=telewebion.com#کانال تلگرام : Free_VPN_CH@
 vless://c532eb8f-0ee6-4b9b-b258-3cc22dfd7130@165.245.255.43:43376?encryption=none&security=reality&sni=www.m.amazon.com&fp=chrome&pbk=wao7fuBMCR6po9PtLR1eRQjH7McA17SHoh95JudXaUI&sid=0937ffd874d1&spx=/9aeb9f49f7ea9c3&type=tcp&headerType=none#@Ap_Ir6
 vless://c532eb8f-0ee6-4b9b-b258-3cc22dfd7130@165.245.255.43:43376?security=reality&encryption=none&pbk=wao7fuBMCR6po9PtLR1eRQjH7McA17SHoh95JudXaUI&headerType=none&fp=chrome&spx=/9aeb9f49f7ea9c3&type=tcp&sni=www.m.amazon.com&sid=0937ffd874d1#⚡️ 𝗡𝗲𝗧𝗠𝗲𝗹𝗶 ⚡️ | @prrofile_purple
@@ -503,3 +501,5 @@ vless://d9aa9ea3-9388-483f-a58d-a754f33ec505@54.37.6.119:2053?security=reality&e
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.185.140:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#@Hope_Net-join-us-on-Telegram
 vless://d9f4bcb7-d0cf-49e9-9009-f275852df5ee@62.60.223.109:9090?encryption=none&security=none&type=tcp#🇮🇷139735 | ⚡️Telegram = t.me/SOSkeyNET
 vless://da0bf72f-445c-45df-8fef-e472f8840f82@104.25.15.14:2082?encryption=none&security=none&type=httpupgrade&host=safechannel.samisaf.shop&path=/#@Ap_Ir6
+vless://da1e9656-21fb-43d1-a1ab-0d2627b55758@vip-77.f-sub.cfd:1517?encryption=none&security=none&type=tcp&headerType=http&host=testspeed-foreign.tci.ir#کانال تلگرام : Free_VPN_CH@
+vless://da1e9656-21fb-43d1-a1ab-0d2627b55758@vip-81.f-sub.cfd:1517?encryption=none&security=none&type=tcp&headerType=http&host=testspeed-foreign.tci.ir#کانال تلگرام : Free_VPN_CH@

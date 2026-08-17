@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@104.16.72.41:80?path=%2Fhttp&security=none&encryption=none&host=de.vpnbase.net&type=ws#%3E%3E%40EliV2ray%3A%3ADE
-vless://da4747a6-be0d-4c1b-90f4-d82ec3012be2@104.18.1.1:2053?encryption=none&type=ws&security=tls&path=%2F&host=music1000.melobitmusic1.ir&sni=music1000.melobitmusic1.ir&alpn=h3%2Ch2%2Chttp%2F1.1&fp=ios&insecure=0&allowInsecure=0#%3E%3E%40freeland8%3A%3APL
 vless://df301b32-1152-4526-9a63-beedd93d3156@172.67.75.172:80?encryption=none&host=vl.dalazhi.cloudns.biz&path=%2F&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://e0454af2-6fe9-4983-a55d-05e1da202602@199.232.78.159:443?encryption=none&host=lsjaoijji.global.ssl.fastly.neT.&path=%2F&security=tls&sni=ssl.fastly.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ADE
 vless://e43ca713-a646-4406-a4d5-1e7bad20e7da@104.16.106.213:8880?encryption=none&host=autumn-snow-735a.175-9d9.workers.dev&path=%2Fpyip%3DProxyIP.US.CMLiussss.net&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
