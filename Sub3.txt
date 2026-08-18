@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://009de8da-5607-4151-ac57-0d3c3c184abc@dash.sinafc.ir:443?encryption=none&fp=chrome&pbk=uSoNVrVIdQ5Y0YOpDCRkaYK5VAzYG6tCPtTc4cim7Tw&security=reality&sid=8ebe2a89&sni=stg-am-images.shop.samsung.com&spx=/f86bbcff85514c4&type=tcp#🇩🇪145859 | ⚡️Telegram = t.me/SOSkeyNET
 vless://009de8da-5607-4151-ac57-0d3c3c184abc@dash.sinafc.ir:443?encryption=none&fp=chrome&pbk=uSoNVrVIdQ5Y0YOpDCRkaYK5VAzYG6tCPtTc4cim7Tw&security=reality&sid=8ebe2a89&sni=stg-am-images.shop.samsung.com&spx=/f86bbcff85514c4&type=tcp#🇩🇪DE-🚀@VPNine1
 vless://009de8da-5607-4151-ac57-0d3c3c184abc@record.sinafc.ir:2095?encryption=none&fp=chrome&pbk=ODHRr6cqYEtv3OMvjokQe-8EMd5sIQG8Ymx-FZLjWmM&security=reality&sid=30744f54bc14a506&sni=yellowpages.amazon.com&spx=/9ed59b93e667708&type=tcp#🇩🇪145858 | ⚡️Telegram = t.me/SOSkeyNET
 vless://009de8da-5607-4151-ac57-0d3c3c184abc@record.sinafc.ir:2095?encryption=none&fp=chrome&pbk=ODHRr6cqYEtv3OMvjokQe-8EMd5sIQG8Ymx-FZLjWmM&security=reality&sid=30744f54bc14a506&sni=yellowpages.amazon.com&spx=/9ed59b93e667708&type=tcp#🇩🇪DE-🚀@VPNine1
@@ -503,3 +502,4 @@ vless://1d8c331b-616b-72d5-881d-267460b41843@shayrad-production-8c26.up.railway.
 vless://1d8c331b-616b-72d5-881d-267460b41843@shayrad-production-8c26.up.railway.app:443?mode=packet-up&path=/xhttp-siz10/packet-up/1d8c331b-616b-72d5-881d-267460b41843&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=shayrad-production-8c26.up.railway.app&fp=chrome&type=xhttp&allowInsecure=0&sni=shayrad-production-8c26.up.railway.app#MTMVPN 13
 vless://1da18def-6804-44c8-bb6d-83cff995f567@144.124.236.188:443?security=reality&encryption=none&pbk=XZa7f7bABj7lY4HuLopVCBBBYTu-RB7QyIZ96njvYwo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=7bcfc0bc#@FarazV2ray
 vless://1da18def-6804-44c8-bb6d-83cff995f567@144.124.236.188:443?security=reality&encryption=none&pbk=XZa7f7bABj7lY4HuLopVCBBBYTu-RB7QyIZ96njvYwo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=7bcfc0bc#@V2rayng_Fast
+vless://1da18def-6804-44c8-bb6d-83cff995f567@144.124.236.188:443?security=reality&encryption=none&pbk=XZa7f7bABj7lY4HuLopVCBBBYTu-RB7QyIZ96njvYwo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=7bcfc0bc#@erfanandroid
