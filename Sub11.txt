@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://dc7940e0-6bff-45e3-853d-4007561803c3@185.155.97.58:45176?security=reality&encryption=none&pbk=A1Qf_rMG4KDfLzfCK-M5R9qW_0uThfeSosQnv6LBL1M&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.googletagmanager.com&sid=8433cb66b6c3ab6d#@v2rayng3
 vless://dc7940e0-6bff-45e3-853d-4007561803c3@185.155.97.58:45176?security=reality&encryption=none&pbk=A1Qf_rMG4KDfLzfCK-M5R9qW_0uThfeSosQnv6LBL1M&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.googletagmanager.com&sid=8433cb66b6c3ab6d#@appsooner کانال تلگرام 🕊️
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@104.16.72.41:80?path=/http&security=&encryption=none&host=de.vpnbase.net&type=ws#🚀t.me/iProxyChannel
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@104.16.72.41:80?path=/http&security=none&encryption=none&host=de.vpnbase.net&type=ws#@hex_proxy ⁶
@@ -503,3 +502,4 @@ vless://ef66f257-2187-48a0-ae46-fbd0519d24ab@104.21.93.245:8443?encryption=none&
 vless://ef770523-8eb5-403f-9e95-06b328719c87@lucky-sunset-d12e.201-98c.workers.dev:8880?path=/pyip=ProxyIP.US.CMLiussss.net&security=none&encryption=none&type=ws#@EXPRESSVPN_420
 vless://efc23e98-f747-17d3-47c5-13717cb4a884@212.87.199.95:443?security=reality&encryption=none&pbk=PBnTKkMwNAC6DtiVg4SYWqaV_3dJWWZPdFb7UQbvvUo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.datadoghq.com#@vmesskhodam
 vless://efc23e98-f747-17d3-47c5-13717cb4a884@212.87.199.95:443?security=reality&encryption=none&pbk=PBnTKkMwNAC6DtiVg4SYWqaV_3dJWWZPdFb7UQbvvUo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.datadoghq.com#🚀t.me/iProxyChannel
+vless://efd11a89-7506-44ce-95b6-6654859f155b@178.128.52.52:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=zoom.us&alpn=h2&allowInsecure=1&fp=chrome&security=reality&pbk=EeLAX-BAjzSdRes-zpUFzVOYsBedmP8lUOHhXXJFXyI&sid=5a42dbd7e26a0415&packetEncoding=xudp#新加坡

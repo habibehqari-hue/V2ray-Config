@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://8b8dcca7-39f6-47ed-90ac-597eb3b206ee@am255.amin5646.ir:2082?type=xhttp&encryption=none&path=/telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY?ed=2560&host=am290.amin5646.ir&mode=auto&security=none#Telegram : @BinexTiFy 🇩🇪
 vless://8b9f63bd-0a73-4ef5-dee0-3d114c4edc0c@www.speedtest.net:8880?path=/@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN?ed=8880&security=none&encryption=none&host=www.lockey-website.ir&type=httpupgrade#🇩🇪@LOCKEY_VPN
 vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.247.253:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=enterprisekitten.com&sid=6ba85179e30d4fc2#@v2rayng3
 vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@94.242.55.42:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=enterprisekitten.com&sid=6ba85179e30d4fc2#🚀t.me/iProxyChannel
@@ -503,3 +502,4 @@ vless://a47c49ec-6eaa-44ce-9108-8427426a1123@162.159.253.41:8443?path=/admin.php
 vless://a5163bd3-5323-92cc-79e4-7b9c79500053@inetchnl-production-9849.up.railway.app:443?encryption=none&security=tls&type=xhttp&mode=stream-up&host=inetchnl-production-9849.up.railway.app&path=/xhttp-siz10/stream-up/a5163bd3-5323-92cc-79e4-7b9c79500053&sni=inetchnl-production-9849.up.railway.app&fp=chrome&alpn=h2,http/1.1#🇳🇱@iNetChnl-XHTTP2
 vless://a5710b23-aab9-4271-91d1-bc8033c09fdb@soskeynets.horlutr.ir:2087?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🇩🇪139826 | ⚡️Telegram = t.me/SOSkeyNET
 vless://a5710b23-aab9-4271-91d1-bc8033c09fdb@soskeynets.horlutr.ir:2087?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🇫🇮139872 | ⚡️Telegram = t.me/SOSkeyNET
+vless://a57223c7-3581-4fec-9bc4-ad5c30900efb@170.114.45.6:80/?type=ws&encryption=none&flow=&host=free-server.techsonic.dev&path=/free-server.techsonic.dev#channel_@networld_vpn

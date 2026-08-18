@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://c7e9c591-2764-423a-afca-efbd010fd396@213.183.61.100:2053?path=/&security=tls&encryption=none&insecure=0&host=forfreeuse.rtqa.ru&fp=chrome&type=ws&allowInsecure=0&sni=forfreeuse.rtqa.ru#@tootffarangi🍓-13WiFi
 vless://c7e9c591-2764-423a-afca-efbd010fd396@213.183.61.100:2053?path=/&security=tls&encryption=none&insecure=0&host=forfreeuse.rtqa.ru&fp=chrome&type=ws&allowInsecure=0&sni=forfreeuse.rtqa.ru#[🏁]t.me/ConfigsHub
 vless://c7e9c591-2764-423a-afca-efbd010fd396@31.133.0.133:2053/?type=ws&encryption=none&flow=&host=forfreeuse.rtqa.ru&path=/&security=tls&sni=forfreeuse.rtqa.ru#channel_@networld_vpn
 vless://c7e9c591-2764-423a-afca-efbd010fd396@31.133.0.133:2053?encryption=none&host=forfreeuse.rtqa.ru&path=/&security=tls&sni=forfreeuse.rtqa.ru&type=ws#🌀82@oneclickvpnkeys
@@ -503,3 +502,4 @@ vless://dbe453d8-112d-4bad-b353-3ccf60044a23@164.90.191.172:47260?security=none&
 vless://dc0d0eda-2293-4001-aa03-bd6c9431ed24@ov-italy1.09vpn.com:8443?path=/vless/&security=tls&encryption=none&insecure=0&host=ov-italy1.09vpn.com&type=ws&allowInsecure=0&sni=ov-italy1.09vpn.com#🇮🇹 Join+Telegram:@Farah_VPN 🇮🇹
 vless://dc4adc81-d35c-4cb7-8a53-39d3458bef9a@82.40.62.103:1234?security=none&spx=&encryption=none&host=play.google.com&headerType=http&type=tcp#@Ap_Ir6
 vless://dc7940e0-6bff-45e3-853d-4007561803c3@185.155.97.58:45176?flow=xtls-rprx-vision&encryption=none&security=reality&sni=www.googletagmanager.com&pbk=A1Qf_rMG4KDfLzfCK-M5R9qW_0uThfeSosQnv6LBL1M&sid=8433cb66b6c3ab6d&type=tcp&headerType=none#𝐂𝐡𝐚𝐧𝐧𝐞𝐥: @ISVvpn
+vless://dc7940e0-6bff-45e3-853d-4007561803c3@185.155.97.58:45176?security=reality&encryption=none&pbk=A1Qf_rMG4KDfLzfCK-M5R9qW_0uThfeSosQnv6LBL1M&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.googletagmanager.com&sid=8433cb66b6c3ab6d#@v2rayng3

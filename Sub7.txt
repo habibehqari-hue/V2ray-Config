@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@104.16.72.41:443?path=/rsedgws&security=tls&encryption=none&insecure=0&host=shegeftihaaa.net&fp=chrome&type=ws&allowInsecure=0&sni=shegeftihaaa.net#@v2rayng3
 vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@104.16.72.41:443?path=/rsedgws&security=tls&encryption=none&insecure=0&host=shegeftihaaa.net&type=ws&allowInsecure=0&sni=shegeftihaaa.net#@EXPRESSVPN_420
 vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@104.26.14.137:443?path=/rsedgws&security=tls&encryption=none&insecure=0&host=shegeftihaaa.net&type=ws&allowInsecure=0&sni=shegeftihaaa.net#کانال تلگرام @fastkanfig
 vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@162.159.38.119:443?path=/rsedgws&security=tls&encryption=none&insecure=0&host=shegeftihaaa.net&fp=chrome&type=ws&allowInsecure=0&sni=shegeftihaaa.net#@Selinc
@@ -503,3 +502,4 @@ vless://8aeda8e3-dd32-4071-bcbb-f793e646eb13@soskeynets.panel11.ru:443?security=
 vless://8b0c48db-c228-47d9-b634-6ea6edf81e22@62.238.63.51:1234?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#@confiig_hub
 vless://8b706aff-ca60-4632-9658-aeb5c0f48561@rusl2-e.ya-proxy.com:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&sid=226509f017e4c36d&encryption=none&fp=chrome&flow=xtls-rprx-vision&type=tcp&security=reality&sni=eda.x5.ru&pbk=EBISh6QAVskJ_nvet-Qio9jS2yqxe9de6GMScYlbjhI&headerType=none#@GozargahAzad|🇷🇺
 vless://8b706aff-ca60-4632-9658-aeb5c0f48561@rusl2-e.ya-proxy.com:443?sid=226509f017e4c36d&encryption=none&fp=chrome&flow=xtls-rprx-vision&type=tcp&security=reality&sni=eda.x5.ru&pbk=EBISh6QAVskJ_nvet-Qio9jS2yqxe9de6GMScYlbjhI&headerType=none#🇷🇺145850 | ⚡️Telegram = t.me/SOSkeyNET
+vless://8b8dcca7-39f6-47ed-90ac-597eb3b206ee@am255.amin5646.ir:2082?type=xhttp&encryption=none&path=/telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY?ed=2560&host=am290.amin5646.ir&mode=auto&security=none#Telegram : @BinexTiFy 🇩🇪
