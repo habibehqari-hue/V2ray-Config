@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://c0f16ee2-a909-4890-ab1c-96489230658a@admin.jikebet.com:443?path=/vless&security=tls&encryption=none&insecure=0&host=admin.jikebet.com&type=ws&allowInsecure=0&sni=admin.jikebet.com#All--@V2rayAlpha--11
+vless://c124a209-d949-4951-8234-e2d918b3e6c0@188.225.33.206:8443?security=reality&encryption=none&pbk=C819rM4M_c473A8glp-eBFh8Fm9O1cmEeXmivDhM1Fc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=max.ru#🇷🇺139913 | ⚡️Telegram = t.me/SOSkeyNET
 vless://c124a209-d949-4951-8234-e2d918b3e6c0@188.225.33.206:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=C819rM4M_c473A8glp-eBFh8Fm9O1cmEeXmivDhM1Fc&sni=max.ru#🇷🇺 Join+Telegram:@Farah_VPN 🇷🇺
 vless://c124a209-d949-4951-8234-e2d918b3e6c0@helsink.vypnet.su:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=helsink.vypnet.su&pbk=C819rM4M_c473A8glp-eBFh8Fm9O1cmEeXmivDhM1Fc&allowinsecure=0&type=tcp&headerType=none#🇩🇪All⁸ | @BigSmoke_Config
 vless://c124a209-d949-4951-8234-e2d918b3e6c0@paris.vypnet.su:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=p.keshevoz.ru&fp=chrome&security=reality&pbk=C819rM4M_c473A8glp-eBFh8Fm9O1cmEeXmivDhM1Fc&sid=#T.me/Vpn_Mafia 🇫🇷
@@ -501,5 +503,3 @@ vless://d6c81f6d-24a8-46d9-a3bf-c38d51fc5fe5@171.97.18.114:8443?security=reality
 vless://d71aecee-ef16-418e-baf5-2b2458122d5a@89.125.124.178:8443?encryption=none&security=tls&sni=gb.wlrus.cfd&fp=chrome&type=tcp&headerType=none#@Daily_Configs
 vless://d71aecee-ef16-418e-baf5-2b2458122d5a@89.125.124.178:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=gb.wlrus.cfd#@hex_proxy ¹
 vless://d749c2c0-4ba4-45fe-f8f4-2f422d689a21@pxqhkkokwtgf.eu-central-1.clawcloudrun.com:43144?encryption=none&flow=xtls-rprx-vision&security=tls&sni=devblogs.microsoft.com&allowInsecure=1&type=tcp&headerType=none#کانال تلگرام : Free_VPN_CH@
-vless://d749c2c0-4ba4-45fe-f8f4-2f422d689a21@pxqhkkokwtgf.eu-central-1.clawcloudrun.com:43144?encryption=none&flow=xtls-rprx-vision&security=tls&sni=devblogs.microsoft.com¬e&allowInsecure=1&type=tcp&headerType=none#کانال تلگرام : Free_VPN_CH@
-vless://d749c2c0-4ba4-45fe-f8f4-2f422d689a21@pxqhkkokwtgf.eu-central-1.clawcloudrun.com:43144?encryption=none&flow=xtls-rprx-vision&security=tls&sni=devblogs.microsoft.com¬e&allowInsecure=1&type=tcp&headerType=none&host=/JOIN---V2rayNG_SPDNet---JOIN---V2rayNG_SPDNet---JOIN---V2rayNG_SPDNet---JOIN---V2rayNG_SPDNet---JOIN---V2rayNG_SPDNet#کانال تلگرام : Free_VPN_CH@
