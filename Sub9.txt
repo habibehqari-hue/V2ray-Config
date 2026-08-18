@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://a6f6d9c9-9d43-4d0e-bf95-4b87cc5bbaac@81.31.210.138:443?security=reality&encryption=none&pbk=rkRBWVPGbMdh1UXAMu0I019NbBFWoBh4W1T856oyl2o&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=nl1.murhost.network&sid=bbab5af2663db00a#@icv2ray
+vless://a6f6d9c9-9d43-4d0e-bf95-4b87cc5bbaac@81.31.210.138:443?security=reality&encryption=none&pbk=rkRBWVPGbMdh1UXAMu0I019NbBFWoBh4W1T856oyl2o&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=nl1.murhost.network&sid=bbab5af2663db00a#@icv2ray
 vless://a6f6d9c9-9d43-4d0e-bf95-4b87cc5bbaac@81.31.210.138:443?security=reality&encryption=none&pbk=rkRBWVPGbMdh1UXAMu0I019NbBFWoBh4W1T856oyl2o&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=nl1.murhost.network&sid=bbab5af2663db00a#@meliproxyy
 vless://a6f6d9c9-9d43-4d0e-bf95-4b87cc5bbaac@81.31.210.138:443?security=reality&encryption=none&pbk=rkRBWVPGbMdh1UXAMu0I019NbBFWoBh4W1T856oyl2o&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=nl1.murhost.network&sid=bbab5af2663db00a#برای اتصال دائمی جوین شو🫟 TelegramID ⌲Express_freevpn
 vless://a6f6d9c9-9d43-4d0e-bf95-4b87cc5bbaac@81.31.210.138:443?security=reality&encryption=none&pbk=rkRBWVPGbMdh1UXAMu0I019NbBFWoBh4W1T856oyl2o&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=nl1.murhost.network&sid=bbab5af2663db00a#☑➜چنلمون: Express_freevpn@
@@ -501,5 +503,3 @@ vless://c7e9c591-2764-423a-afca-efbd010fd396@91.219.236.202:2053/?type=ws&encryp
 vless://c7e9c591-2764-423a-afca-efbd010fd396@91.219.236.202:2053?encryption=none&host=forfreeuse.rtqa.ru&path=/&security=tls&sni=forfreeuse.rtqa.ru&type=ws#🌀86@oneclickvpnkeys
 vless://c805b3d0-086b-44e8-81d0-ed6ad0ca8f8d@193.38.235.129:443?security=reality&encryption=none&pbk=LTnSFpfeU48eRXGHJdArwhxw4S0q-toyNKp4JUsjPhA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=microsoft.net#🚀t.me/iProxyChannel
 vless://c843ed62-34da-44be-87b8-8b4ad34f6deb@f1.springpaatogh8.store:8443?encryption=none&security=tls&sni=digikala.sorza.ir&type=ws&host=takken.sorza.ir&path=/?ed=2560 PuLaFreeBOT PuLaVPN PuLaVPN PuLaVPN#کانال تلگرام : Free_VPN_CH@
-vless://c8541f02-4efd-401d-beb7-dc017b12ee94@151.101.109.223:443?path=/&security=tls&encryption=none&insecure=1&host=pan1.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=default.ssl.fastly.net#TEL;Father_vpn
-vless://c875b3c0-3896-496a-a355-ab878595d7c2@poland.vpnserverhub.com:443?security=reality&encryption=none&pbk=5vNAgd2gzZUUJAU-njR7Sz542IJHdLdea9TtgwBttl4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com#@Ap_Ir6
