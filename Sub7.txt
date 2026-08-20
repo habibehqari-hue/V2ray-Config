@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://818a98bf-e7d0-45d5-800b-24d4058234c6@104.16.40.145:80?encryption=none&security=none&type=ws&host=still-smoke-881e-ppal03.cabit21569.workers.dev&path=/?ed=2560#🤖Ch: @pPal03🤖جوین بدید🤖
 vless://818a98bf-e7d0-45d5-800b-24d4058234c6@104.24.172.153:80?encryption=none&security=none&type=ws&host=still-smoke-881e-ppal03.cabit21569.workers.dev&path=/?ed=2560#🤖Ch: @pPal03🤖جوین بدید🤖
 vless://81a5be1e-aa3c-4c50-83c1-885050d8b880@tapsi-mall.topdigit.ir:34769?security=none&encryption=none&host=Icloud.com&headerType=http&type=tcp#✨ @NamiraConfigs | ❤️ وصل شدی جوین شو | 🚀 | 🇫🇷
 vless://81a5be1e-aa3c-4c50-83c1-885050d8b880@tapsi-mall.topdigit.ir:34769?security=none&encryption=none&host=Icloud.com&headerType=http&type=tcp#🇫🇷148477 | ⚡️Telegram = t.me/SOSkeyNET
@@ -502,4 +503,3 @@ vless://8db764be-f144-4df0-ae5d-21d5f2551290@md.gilangard.ir:11431?security=real
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.120:8880?mode=gun&security=none&encryption=none&type=grpc#🇮🇹 @GozargahVPN
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.134:8880?mode=gun&security=none&encryption=none&type=grpc#TEL;Father_vpn
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.37:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#@ehsawn8
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.43:8880?mode=gun&security=none&encryption=none&type=grpc#TEL;Father_vpn
