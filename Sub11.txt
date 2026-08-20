@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.133:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#🚀t.me/iProxyChannel
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.15:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#@IRAN_V2RAY1
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.15:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#@tootffarangi🍓-4
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.15:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#برای اتصال دائمی جوین شو🥏 TelegramID ⌲Express_freevpn 🪩
@@ -502,4 +503,3 @@ vless://e841c0a7-03bb-4058-95e2-0e811100d02a@69.46.46.123:443?path=/ws/e841c0a7-
 vless://e841c0a7-03bb-4058-95e2-0e811100d02a@69.46.46.123:443?path=/ws/e841c0a7-03bb-4058-95e2-0e811100d02a&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=x4g-production-d65b.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=x4g-production-d65b.up.railway.app#@𝐕𝟐𝐗𝐍𝐄𝐓
 vless://e8b1500b-e9e8-5492-8312-f4eadf7d0767@162.19.10.99:443?flow=xtls-rprx-vision&encryption=none&security=tls&sni=nasnet-162191099-direct.mbghalibaf.com&alpn=h2&fp=chrome&type=tcp&headerType=none#𝐂𝐡𝐚𝐧𝐧𝐞𝐥: @ISVvpn
 vless://e8b1500b-e9e8-5492-8312-f4eadf7d0767@162.19.10.99:443?flow=xtls-rprx-vision&encryption=none&security=tls&sni=nasnet-162191099-direct.mbghalibaf.com&fp=chrome&type=tcp&headerType=none#𝐂𝐡𝐚𝐧𝐧𝐞𝐥: @ISVvpn
-vless://e8b1500b-e9e8-5492-8312-f4eadf7d0767@soskeynets-162191099-direct.mbghalibaf.com:443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=nasnet-162191099-direct.mbghalibaf.com#🇫🇷139779 | ⚡️Telegram = t.me/SOSkeyNET
