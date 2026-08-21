@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://429efff7-16bd-499e-85a5-a6f4b89c2773@www.speedtest.net:443?security=tls&encryption=none&type=ws&host=cxrolvpn.vipserver2.workers.dev&path=/Ay0V02ow7rt6P1Ml?ed=2560&sni=cxrolvpn.vipserver2.workers.dev&fp=chrome&alpn=http/1.1#CxrolVPN Free (2)
 vless://429efff7-16bd-499e-85a5-a6f4b89c2773@www.speedtest.net:80?security=none&encryption=none&type=ws&host=cxrolvpn.vipserver2.workers.dev&path=/FkJEHRUYQOp0TIQ5?ed=2560#CxrolVPN Free (1)
 vless://42f3c6bc-fdc3-4d4e-b95d-f84f9e6bf27f@172.67.196.252:2053?path=/api/vote/number/row/n1&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=ger-full.deepinsane.com&fp=chrome&type=ws&allowInsecure=0&sni=ger-full.deepinsane.com#🚀t.me/iProxyChannel
 vless://431fe973-a43a-4fac-bf83-2a772e0d0625@180.178.60.253:10000?security=none&encryption=none&type=tcp&headerType=none#@v2rayng3
@@ -502,4 +503,3 @@ vless://653aea5e-2157-4a1f-89bf-8b46fb677921@185.178.208.176:443/?type=ws&encryp
 vless://653aea5e-2157-4a1f-89bf-8b46fb677921@185.178.208.176:443?encryption=none&fp=chrome&host=stream.telemetryapi.uk&path=/api/v2/client/session/connect&security=tls&sni=stream.telemetryapi.uk&type=ws#🍥68@oneclickvpnkeys
 vless://653aea5e-2157-4a1f-89bf-8b46fb677921@185.178.208.176:443?path=/api/v2/client/session/connect&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=api.stream.telemetryapi.uk&fp=chrome&type=ws&allowInsecure=0&sni=api.stream.telemetryapi.uk#🇩🇪 Germany
 vless://65500794-99b4-0343-bd18-a12453257a2b@125.77.20.210:13565/?type=ws&encryption=none&flow=&path=/#新加坡
-vless://6562c4bb-4feb-4b23-ae63-53ee4aa473aa@2.144.4.229:9090?security=none&encryption=none&headerType=http&type=tcp#@KAFING_2

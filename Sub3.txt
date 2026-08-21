@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.19.229.21:443?path=/&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=de-new.ariyuz.org#@hex_proxy ⁵
 vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.24.200.94:443?encryption=none&type=ws&path=/&security=tls&sni=de-new-1.ariyuz.org#🇨🇦149143 | ⚡️Telegram = t.me/SOSkeyNET
 vless://03707fb7-0990-440f-88f6-b0e0f7242a38@188.114.97.6:443?encryption=none&security=tls&sni=de-new-1.ariyuz.org&type=ws#[25689] - Telegram : @V2All
 vless://03707fb7-0990-440f-88f6-b0e0f7242a38@45.8.211.57:443?security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=de-new-1.ariyuz.org#🚀t.me/iProxyChannel
@@ -502,4 +503,3 @@ vless://25b34b5b-af04-4132-8ebf-ff3a269e9b7e@for.axiomed.ir:443?encryption=none&
 vless://25be94d3-995e-459a-98af-3a7ddf96acae@sourceforge.net:80?encryption=mlkem768x25519plus.random.0rtt.HdYYG9FCDbmM-wWYng30EG_EqL3MRjCAFrjwTsv833o&security=none&type=httpupgrade&host=Hg.15.postshup.ir&path=/#🇩🇪All⁶ | @BigSmoke_Config
 vless://25e0282e-7bb8-4aeb-be15-b5b610f2235a@www.speedtest.net:443?path=/eyJqdW5rIjoiczlRdnZ2OTdrdWFwQyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJlZml4IiwicGFuZWxJUHMiOlsiWzI2MDI6ZmM1OTpiMDo2NDo6XSJdfQ==?ed=2560&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=jolly-snowflake-951d.apextunnelnumber3.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=jOLLY-snOwFlAKE-951d.apExtunNElnumbEr3.WORkERS.deV#TEL;Father_vpn
 vless://25f3beef-a4b6-40bc-aa74-17a0f89f683c@finite-node.rtxconfigz.com:443?encryption=none&type=ws&security=tls&path=/&host=telegram.us&sni=finite-node.rtxconfigz.com&insecure=0&allowInsecure=0#@MDvpnSEC
-vless://25f3beef-a4b6-40bc-aa74-17a0f89f683c@gr2.levikogjgfdd.ir:443?encryption=none&type=ws&security=tls&path=/&host=telegram.us&sni=finite-node.rtxconfigz.com&insecure=0&allowInsecure=0#🇩🇪 @MDvpnSEC

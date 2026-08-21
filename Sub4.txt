@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://25f3beef-a4b6-40bc-aa74-17a0f89f683c@gr2.levikogjgfdd.ir:443?encryption=none&type=ws&security=tls&path=/&host=telegram.us&sni=finite-node.rtxconfigz.com&insecure=0&allowInsecure=0#🇩🇪 @MDvpnSEC
 vless://25f3beef-a4b6-40bc-aa74-17a0f89f683c@gr2.levikogjgfdd.ir:443?insecure=0&host=telegram.us&allowInsecure=0&type=ws&encryption=none&security=tls&path=/&sni=finite-node.rtxconfigz.com#1 🇩🇪 @V2RAYNG_IP
 vless://25f3beef-a4b6-40bc-aa74-17a0f89f683c@gr2.levikogjgfdd.ir:443?insecure=0&host=telegram.us&allowInsecure=0&type=ws&encryption=none&security=tls&path=/&sni=finite-node.rtxconfigz.com#@meliproxyy
 vless://25f3beef-a4b6-40bc-aa74-17a0f89f683c@gr2.levikogjgfdd.ir:443?insecure=0&host=telegram.us&allowInsecure=0&type=ws&encryption=none&security=tls&path=/&sni=finite-node.rtxconfigz.com#configprxy
@@ -502,4 +503,3 @@ vless://42577c0b-758e-47b0-9080-e60def559168@ooo.zjuli.ir:8080?alpn=h2,http/1.1,
 vless://42577c0b-758e-47b0-9080-e60def559168@ooo.zjuli.ir:8080?alpn=h2,http/1.1,h3&fp=chrome&ech=AF/+DQBbAAAgACC2e6c+7jxMmtT8tyVp2j4iR7EfMEfwl50nPSsrtqfGPAAkAAEAAQABAAIAAQADAAIAAQACAAIAAgADAAMAAQADAAIAAwADAAxvb28uemp1bGkuaXIAAA==&type=xhttp&sni=ooo.zjuli.ir&mode=auto&path=/pdncsd&security=tls&encryption=mlkem768x25519plus.native.0rtt.4QZ6x4T-ky7_2jKhR_Nd1-01YcE_PxExkoY0UzeUHgs&extra={"mode":"auto","xPaddingBytes":"100-1350","xPaddingObfsMode":true}&insecure=0&host=ooo.zjuli.ir&allowInsecure=0#🇱🇻LV-🚀@VPNine1
 vless://429efff7-16bd-499e-85a5-a6f4b89c2773@172.67.139.85:443?security=tls&encryption=none&type=ws&host=cxrolvpn.vipserver2.workers.dev&path=/K2w7vCx3fNcdCrSc?ed=2560&sni=cxrolvpn.vipserver2.workers.dev&fp=chrome&alpn=http/1.1#CxrolVPN Free (3)
 vless://429efff7-16bd-499e-85a5-a6f4b89c2773@172.67.139.85:80?security=none&encryption=none&type=ws&host=cxrolvpn.vipserver2.workers.dev&path=/AWGG17eLHc5QLzJr?ed=2560#CxrolVPN Free (4)
-vless://429efff7-16bd-499e-85a5-a6f4b89c2773@www.speedtest.net:443?security=tls&encryption=none&type=ws&host=cxrolvpn.vipserver2.workers.dev&path=/Ay0V02ow7rt6P1Ml?ed=2560&sni=cxrolvpn.vipserver2.workers.dev&fp=chrome&alpn=http/1.1#CxrolVPN Free (2)
