@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.58.64:22222?security=none&encryption=none&headerType=none&type=tcp#🇫🇷@FreakConfig
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.58.64:22223?security=none&encryption=none&headerType=none&type=tcp#🇫🇷@FreakConfig
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.59.68.6:22222?security=none&encryption=none&headerType=none&type=tcp#@Capoit
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.176.44.159:22222?encryption=none&security=none&type=tcp&headerType=none#@Ap_Ir6
@@ -502,4 +503,3 @@ vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@188.114.97.6:443?path=/tsghdws&secu
 vless://fc9bf9b8-06b5-4244-aea5-75a460ec5066@turboo-server.iranserver-local.ir:80?security=none&encryption=none&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#𝑽𝑬𝑮𝑨𝑨𝑺_𝑽𝑷𝑵🇩🇪
 vless://fcbfb2a6-efa9-4d48-953b-f9bb9c4bd097@ae-google.mobileemdad.top:443?encryption=none&security=reality&type=tcp&headerType=none&sni=token.safebrowsing.apple&fp=chrome&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&sid=08#🇦🇪139781 | ⚡️Telegram = t.me/SOSkeyNET
 vless://fcbfb2a6-efa9-4d48-953b-f9bb9c4bd097@gb-play1.montago-shop.ir:443?encryption=none&security=reality&type=tcp&headerType=none&sni=token.safebrowsing.apple&fp=chrome&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&sid=070a23aed243#🇩🇪139775 | ⚡️Telegram = t.me/SOSkeyNET
-vless://fcbfb2a6-efa9-4d48-953b-f9bb9c4bd097@sv4.nonpath.ir:42542?encryption=none&security=none&type=tcp&headerType=http&path=/&host=token.safebrowsing.apple#🇩🇪139776 | ⚡️Telegram = t.me/SOSkeyNET

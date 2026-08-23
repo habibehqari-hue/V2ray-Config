@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://08ef1d56-08b7-4dc8-9e64-2a0982622752@narcod-ping.numallaf.shop:58978?type=tcp&path=/&host=zula.ir&headerType=http&security=none#-aa7oo2wc
 vless://08f84d53-e262-459c-a15a-26213e7a07c9@113.30.152.6:443?encryption=none&fp=chrome&path=/&security=tls&sni=be2.wba-pn.ru&type=ws#🧮24@oneclickvpnkeys
 vless://08f84d53-e262-459c-a15a-26213e7a07c9@113.30.152.6:443?encryption=none&fp=chrome&path=/&security=tls&sni=be2.wba-pn.ru&type=ws#🫟28@oneclickvpnkeys
 vless://08f84d53-e262-459c-a15a-26213e7a07c9@113.30.152.6:443?encryption=none&security=tls&sni=be2.wba-pn.ru&fp=chrome&allowinsecure=0&type=ws&path=/#@meliproxyy
@@ -502,4 +503,3 @@ vless://2643e48a-898d-bc59-39eb-1da800000005@www.speedtest.net:443?path=/v2box&s
 vless://26524cce-d514-4014-a426-365fb266a14d@152.228.135.96:8443?encryption=none&security=tls&sni=cyuxj212pnq.chinat.indevs.in&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=cyuxj212pnq.chinat.indevs.in&path=/danfeng#کانال تلگرام : Free_VPN_CH@
 vless://275ee16f-9df8-2933-d942-dc71f0ccfd11@69.46.46.200:443?path=/ws/275ee16f-9df8-2933-d942-dc71f0ccfd11&security=tls&alpn=http/1.1&encryption=none&host=rvg-production-c230.up.railway.app&fp=chrome&type=ws&sni=rvg-production-c230.up.railway.app#All Operators @MaSTeRSeRVeR1
 vless://275ee16f-9df8-2933-d942-dc71f0ccfd11@69.46.46.200:443?path=/ws/275ee16f-9df8-2933-d942-dc71f0ccfd11&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=rvg-production-c230.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=rvg-production-c230.up.railway.app#@prrofile_purple | 𝗙𝗮𝗦𝗧 💚
-vless://28148be2-61a7-4f36-8adb-030cc9f82bd0@62.210.24.143:32202?mode=auto&path=/G3EEoH63&security=reality&encryption=none&pbk=bGe_-nAtOq6_w_2mv6pcmD8RzJP65Tti-vyMP2hAwDc&fp=chrome&type=xhttp&sni=www.amazon.com&sid=f57d8f26#@v2ray313 کانالمون 😇
