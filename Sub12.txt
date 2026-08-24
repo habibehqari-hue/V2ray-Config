@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://e206f673-8945-42b6-a1a4-8d9bdc6adb7c@pt-play.mobileemdad.top:443?security=reality&encryption=none&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&headerType=none&fp=chrome&type=tcp&sni=amp-api-edge.apps.apple.com&sid=aefc7f3722#@vmesskhodam
 vless://e206f673-8945-42b6-a1a4-8d9bdc6adb7c@sv1.mobileemdad.top:443?security=reality&encryption=none&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&headerType=none&fp=chrome&type=tcp&sni=amp-api-edge.apps.apple.com&sid=070a23aed243#@vmesskhodam
 vless://e206f673-8945-42b6-a1a4-8d9bdc6adb7c@trs.mobileemdad.top:42538?security=none&encryption=none&host=msedge.b.tlu.dl.delivery.mp.microsoft.com&headerType=http&type=tcp#@vmesskhodam
 vless://e206f673-8945-42b6-a1a4-8d9bdc6adb7c@usq.mobileemdad.top:443?security=reality&encryption=none&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&headerType=none&fp=chrome&type=tcp&sni=amp-api-edge.apps.apple.com&sid=070a23aed243#@vmesskhodam
@@ -503,3 +502,4 @@ vless://f6190ff2-864c-46cf-ac16-93908c069b75@129.121.95.159:443?path=/connect/?T
 vless://f6190ff2-864c-46cf-ac16-93908c069b75@129.121.95.159:443?path=/connect/?TELEGRAM-MARAMBASHI?ed=512&security=tls&encryption=none&insecure=0&host=129.121.95.159&fp=chrome&type=ws&allowInsecure=0&sni=129.121.95.159#🇬🇧151209 | ⚡️Telegram = t.me/SOSkeyNET
 vless://f62a1751-c1e4-4612-90e7-bd5781c1aede@186.246.12.85:2053?encryption=none&type=ws&path=/&host=186.246.12.85&security=tls&sni=bz2.wba-pn.ru&allowInsecure=1#[27669] - Telegram : @V2All
 vless://f62a37f3-f7df-4673-a7c8-06a9fc72c6ea@yt.alba.xanka.best:1337?security=reality&alpn=http/1.1&encryption=none&pbk=0OajRGdqF2S2JJgKYcsq6nIF3K_ypFYCTUzCjR8Wh1o&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yt.alba.xanka.best&sid=c692a719#🇦🇱139891 | ⚡️Telegram = t.me/SOSkeyNET
+vless://f64911e8-6246-f180-0466-0e45e3b7665b@yesoip-production-ca83.up.railway.app:443?mode=stream-up&path=/xhttp-siz10/stream-up/f64911e8-6246-f180-0466-0e45e3b7665b&security=tls&alpn=h2,http/1.1&encryption=none&host=yesoip-production-ca83.up.railway.app&fp=chrome&type=xhttp&sni=yesoip-production-ca83.up.railway.app#✰𝗝𝗼𝗶𝗻 ➠ @v2raymelliii✰
