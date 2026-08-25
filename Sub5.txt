@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://2edfd299-fd54-4056-9d79-3c99f19bdae1@node2.onepanel123.ru:2087?path=/de-vless-ws&security=tls&encryption=none&insecure=0&host=node2.onepanel123.ru&fp=chrome&type=ws&allowInsecure=0&sni=node2.onepanel123.ru#@Nexus_Panell چنل تلگرام
 vless://2f14c4d7-5d16-4914-918c-3a6a54576ccb@sw.crsmaps.com:2053?mode=gun&security=reality&encryption=none&pbk=-jcUzfOTPLc80yQX1ft1liPFOTsTYvzS6IG0QENc9yg&fp=chrome&spx=/&type=grpc&serviceName=sw.crsmaps.com&sni=sw.crsmaps.com&sid=22d4b2747bc9e1#@outline_ir
 vless://2f14c4d7-5d16-4914-918c-3a6a54576ccb@sw.crsmaps.com:2053?mode=gun&security=reality&encryption=none&pbk=-jcUzfOTPLc80yQX1ft1liPFOTsTYvzS6IG0QENc9yg&fp=chrome&spx=/&type=grpc&serviceName=sw.crsmaps.com&sni=sw.crsmaps.com&sid=22d4b2747bc9e1#@vmess_ir
 vless://2f16a514-69cf-4758-8b2d-c918c0bf203a@172.239.26.211:53147?security=&encryption=none&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#@v2ray313 کانالمون 🇫🇷
@@ -502,4 +503,3 @@ vless://4480161e-2c59-4d37-8736-675c9af32bf1@netraidly.ru:40443?security=reality
 vless://44ae52b9-76fc-444d-8e43-186b4384b80a@free-amsterdam-node-1.cloudwidecdn.com:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=PryGoq51ilG0eLUPl9i0xCvmk1xpwkyFSr_tG4GNLlU&security=reality&sid=1d86d17709852910&sni=www.apple.com&type=tcp#🏓59@oneclickvpnkeys
 vless://44b9c809-f7ca-13d8-e004-784b871de0bf@69.46.46.39:443?path=/ws/44b9c809-f7ca-13d8-e004-784b871de0bf&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=tagh-production-kjdbd.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=tagh-production-kjdbd.up.railway.app#@IRAN_V2RAY1
 vless://44b9c809-f7ca-13d8-e004-784b871de0bf@69.46.46.39:443?path=/ws/44b9c809-f7ca-13d8-e004-784b871de0bf&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=tagh-production-kjdbd.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=tagh-production-kjdbd.up.railway.app#@V2ray_Alpha🏠 7
-vless://4525c260-df3c-4f62-b8f1-f4f5f305694b@ipbaz.ping-box.com:443?path=/?ed=2560&security=tls&encryption=none&insecure=0&host=yyzsuabw9e3qd5ud7ihi5dxm96oglnsvr83cjojnm1efncfhr9ucordq.zjde5.de5.net&fp=chrome&type=ws&allowInsecure=0&sni=yyzsuabw9e3qd5ud7ihi5dxm96oglnsvr83cjojnm1efncfhr9ucordq.zjde5.de5.net#@KAFING_2

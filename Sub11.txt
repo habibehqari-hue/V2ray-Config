@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://c7e9c591-2764-423a-afca-efbd010fd396@213.183.61.100:2053?path=/&security=tls&encryption=none&insecure=0&host=forfreeuse.rtqa.ru&fp=chrome&type=ws&allowInsecure=0&sni=forfreeuse.rtqa.ru#کانال ما
 vless://c7e9c591-2764-423a-afca-efbd010fd396@213.183.61.100:2053?path=/&security=tls&encryption=none&insecure=0&host=forfreeuse.rtqa.ru&fp=chrome&type=ws&allowInsecure=0&sni=forfreeuse.rtqa.ru#🇳🇱152465 | ⚡️Telegram = t.me/SOSkeyNET
 vless://c7e9c591-2764-423a-afca-efbd010fd396@31.133.0.133:2053?path=/&security=tls&encryption=none&insecure=0&host=forfreeuse.rtqa.ru&type=ws&allowInsecure=0&sni=forfreeuse.rtqa.ru#@Nexus_Panell چنل تلگرام
 vless://c7e9c591-2764-423a-afca-efbd010fd396@89.110.116.183:2053?path=/&security=tls&encryption=none&insecure=0&host=forfreeuse.rtqa.ru&type=ws&allowInsecure=0&sni=forfreeuse.rtqa.ru#kurdconfig
@@ -502,4 +503,3 @@ vless://da4747a6-be0d-4c1b-90f4-d82ec3012be2@www.speedtest.net:2053?path=/&secur
 vless://da557d0f-dc4e-47b9-bfcb-5d9f0de39eb3@91.98.154.118:41291?path=/&host=play.google.com&encryption=none&security=none&type=ws#@v2rayng3
 vless://da6ece67-aff5-4f94-94f3-08e87ca8cd51@151.101.56.7:443?encryption=none&security=tls&sni=ssl.fastly.com&type=ws&host=7wwwspeedtestnet.global.ssl.fastly.net&path=/#@Daily_Configs
 vless://da6ece67-aff5-4f94-94f3-08e87ca8cd51@151.101.56.7:443?path=/&security=tls&encryption=none&host=7wwwspeedtestnet.global.ssl.fastly.net&type=ws&sni=ssl.fastly.com#✰𝗝𝗼𝗶𝗻 ➠ @v2raymelliii✰
-vless://da6ece67-aff5-4f94-94f3-08e87ca8cd51@151.101.56.7:443?path=/&security=tls&encryption=none&insecure=0&host=7wwwspeedtestnet.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#@Nexus_Panell چنل تلگرام

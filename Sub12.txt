@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://da6ece67-aff5-4f94-94f3-08e87ca8cd51@151.101.56.7:443?path=/&security=tls&encryption=none&insecure=0&host=7wwwspeedtestnet.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#@Nexus_Panell چنل تلگرام
 vless://da6ece67-aff5-4f94-94f3-08e87ca8cd51@151.101.56.7:443?path=/&security=tls&encryption=none&insecure=0&host=7wwwspeedtestnet.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#@V2rayng_Fast
 vless://da6ece67-aff5-4f94-94f3-08e87ca8cd51@199.232.78.159:443?path=/&security=tls&encryption=none&host=7wwwspeedtestnet.global.ssl.fastly.net&type=ws&sni=ssl.fastly.com#✰𝗝𝗼𝗶𝗻 ➠ @v2raymelliii✰
 vless://da6ece67-aff5-4f94-94f3-08e87ca8cd51@199.232.78.159:443?path=/&security=tls&encryption=none&insecure=0&host=7wwwspeedtestnet.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#@Nexus_Panell چنل تلگرام
@@ -502,4 +503,3 @@ vless://efbd6d24-0475-4f2f-a548-f5950ce08214@62.113.210.26:301?security=none&enc
 vless://efbd6d24-0475-4f2f-a548-f5950ce08214@62.113.210.26:301?security=none&encryption=none&headerType=none&type=tcp#🔵@chillguy_vpn
 vless://efc14823-8fc1-4174-8b33-e245ec58ce92@ger.evovpn.pro:443?security=reality&encryption=none&pbk=ZKd5bjQ8ACciPQo_0ol7WEkUYUjGXaK9fMciQkFurF4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.yandex.ru&sid=b4c823#@tootffarangi🍓-8
 vless://efc14823-8fc1-4174-8b33-e245ec58ce92@ger.evovpn.pro:443?security=reality&encryption=none&pbk=ZKd5bjQ8ACciPQo_0ol7WEkUYUjGXaK9fMciQkFurF4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.yandex.ru&sid=b4c823#🇺🇸US-🚀@VPNine1
-vless://efd400cd-98e1-4a9b-a98c-6f4a3b7cce7f@167.104.217.250:443?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=/?JOIN_TELEGRAM@leviconfigs&headerType=none&type=tcp&allowInsecure=0&sni=nl-spec-1.atlanta-api.com#@leviconfigs🪐-11
