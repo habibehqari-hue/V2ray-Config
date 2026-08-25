@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://1b627e4d-4ea4-4dce-8bd8-fc2d3ffbeaba@194.93.61.70:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=cdnjs.com&fp=chrome&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&sid=cbb0a5c1dc905505&allowinsecure=1&type=tcp&headerType=none#🇩🇪All⁷ | @BigSmoke_Config
 vless://1b627e4d-4ea4-4dce-8bd8-fc2d3ffbeaba@194.93.61.70:443?security=reality&encryption=none&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdnjs.com&sid=cbb0a5c1dc905505#@FarazV2ray
 vless://1b627e4d-4ea4-4dce-8bd8-fc2d3ffbeaba@194.93.61.70:443?security=reality&encryption=none&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdnjs.com&sid=cbb0a5c1dc905505#@Napsternetvirani
 vless://1b627e4d-4ea4-4dce-8bd8-fc2d3ffbeaba@194.93.61.70:443?security=reality&encryption=none&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdnjs.com&sid=cbb0a5c1dc905505#@Nexus_Panell چنل تلگرام
@@ -503,3 +502,4 @@ vless://33e1a095-1e25-4198-bfe7-ec312e4f98ee@104.20.1.252:80?path=/?ed&security=
 vless://33e1a095-1e25-4198-bfe7-ec312e4f98ee@nodejs.org:80?path=/?ed&security=none&encryption=none&host=CREDibLe-pLaNt7ddV4jJ7et.OnEeaT.CO.&type=ws&note=@FreeOnlineVPN#🇳🇱 - NL - @FreeOnlineVPN
 vless://34356465-3038-4138-b664-353865316639@37.32.44.67:443?path=/l/w/aXD2QyDdS6vRQpxs?ed=2047&security=tls&encryption=none&allowInsecure=0&pcs=900463d8bde968fc071c4340a805cecca7c61ee343ac6db63d3a868ab7031099&host=dl.namava.ir&sni=dl.namava.ir&type=ws#کانال ما
 vless://34356465-3038-4138-b664-353865316639@37.32.44.67:443?path=/l/w/aXD2QyDdS6vRQpxs?ed=2047&security=tls&encryption=none&allowInsecure=0&pcs=900463d8bde968fc071c4340a805cecca7c61ee343ac6db63d3a868ab7031099&host=dl.namava.ir&sni=dl.namava.ir&type=ws#🇮🇷151687 | ⚡️Telegram = t.me/SOSkeyNET
+vless://34356465-3038-4138-b664-353865316639@37.32.44.67:443?path=/l/w/aXD2QyDdS6vRQpxs?ed=2047&security=tls&encryption=none&allowInsecure=0&pcs=900463d8bde968fc071c4340a805cecca7c61ee343ac6db63d3a868ab7031099&host=dl.namava.ir&sni=dl.namava.ir&type=ws#🇮🇷IR-🚀@VPNine1

@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiSU9vaTVUdUltRzJLY2N4VjctamNBN0Nleit2dW4tY19F@104.156.233.234:27116#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A6%F0%9F%87%BA
 ss://2022-blake3-chacha20-poly1305:C1U/t2iR/+R2DqqWk+e6cFFEhaAdGJfGBR+GeNrkoME=@144.24.160.250:59924#🏓4@oneclickvpnkeys
 ss://2022-blake3-chacha20-poly1305:Cem5PpJ66yTcbs+EKD4C2cDlCjGW5YSQCWkjhY8T/MY=@130.61.118.77:59924#🏓3@oneclickvpnkeys
 ss://2022-blake3-chacha20-poly1305:TWbDvdQktmGst6N2Yc2/L5IC9e3+kttzFJOv6doxsPw=@130.61.113.169:59924#🫟93@oneclickvpnkeys
