@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://ac7fb60f-0b7a-465d-a002-05160ec04ed6@wok1.api3-max.ru:443?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=wok1.api3-max.ru#@Nexus_Panell چنل تلگرام
 vless://ac7fb60f-0b7a-465d-a002-05160ec04ed6@wok1.api3-max.ru:443?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=wok1.api3-max.ru#@V2ray_Alpha🏠 1
 vless://ac7fb60f-0b7a-465d-a002-05160ec04ed6@wok1.api3-max.ru:443?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=wok1.api3-max.ru#@V2ray_Alpha🐱 1
 vless://ac7fb60f-0b7a-465d-a002-05160ec04ed6@wok1.api3-max.ru:443?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=wok1.api3-max.ru#bisto_service
@@ -502,4 +503,3 @@ vless://c9fd0fb1-8251-4106-b09a-f4b426736f67@137.184.218.169:36925?security=real
 vless://ca523327-52a2-4249-bab8-54fef58ba899@fbi.gov:443?path=/&security=tls&alpn=h3,h2,http/1.1&encryption=none&fp=chrome&type=ws&sni=mci.dgclix.ir#@bird_angry (mci)
 vless://ca523327-52a2-4249-bab8-54fef58ba899@fbi.gov:80?path=/&security=none&alpn=h3,h2,http/1.1&encryption=none&host=mtn.dgclix.ir&fp=chrome&type=ws#@bird_angry (mtn)
 vless://ca89921a-c01d-4a96-961e-fdeb52ed6513@root.configforvpn.fun:443?path=/cdn&security=tls&encryption=none&alpn=h2,http/1.1&host=root.configforvpn.fun&fp=chrome&type=ws&sni=root.configforvpn.fun#@ConfigforVPN
-vless://cabbaca-abac-baca-dbca-aabbaccaccbb@127.0.0.1:2080?security=tls&type=tcp#@meliproxyy
