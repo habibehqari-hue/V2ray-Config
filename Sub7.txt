@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://5be7fb02-b6a5-450f-b041-3243b98e8420@72.56.41.33:40443?security=reality&encryption=none&pbk=Uvj5H9pDJP0HX2bN7NN7sCQwVCrC5N2NbKf-yuy1ikE&host=/?TELEGRAM--MARAMBASHI--MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=ee33#@MARAMBASHI 🇫🇮
+vless://5bfc6650-8b56-0012-b0e9-b98fc6367c0d@82.40.62.229:443?security=reality&encryption=none&pbk=NBjOloEUgyAHoLqvcGo_t3jTY8Jya77j5dsNB1VJ8Bo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=auto.api-yandex.net&sid=0f4dacffd272e65f#@prrofile_purple | 𝗙𝗮𝗦𝗧 💚
 vless://5c3929a3-996a-43e4-fb33-02a52dd2450a@69.46.46.25:443?path=/ws/5c3929a3-996a-43e4-fb33-02a52dd2450a&security=tls&alpn=http/1.1&encryption=none&host=violet-compass-ef07-production.up.railway.app&fp=chrome&type=ws&sni=violet-compass-ef07-production.up.railway.app#🇩🇪 @V2ngFast
 vless://5c4e540b-c430-486e-2ec7-84e4ab62efef@69.46.46.32:443?path=/ws/5c4e540b-c430-486e-2ec7-84e4ab62efef&security=tls&alpn=http/1.1&encryption=none&host=coral-heron-fc28-production.up.railway.app&fp=chrome&type=ws&sni=coral-heron-fc28-production.up.railway.app#2 🇳🇱 @V2ngNet
 vless://5cb1dfeb-4d93-4a96-89ca-47cf1699f813@sakura.proxy.rlwy.net:43756?path=/&security=none&encryption=none&type=ws#@appsooner کانال تلگرام 🕊️
@@ -501,5 +503,3 @@ vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@104.19.214.97:2053?path=/&security=
 vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@104.19.215.97:2053?path=/&security=tls&encryption=none&insecure=0&host=faxf32gkfzoxqv.fx6hsv0.ccwu.cc&fp=chrome&type=ws&allowInsecure=0&sni=faxf32gkfzoxqv.fx6hsv0.ccwu.cc#🇸🇬 Join+Telegram:@Farah_VPN 🇸🇬
 vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@104.25.248.101:2087?security=tls&type=ws&path=/&host=faxf32gkfzoxqv.fx6hsv0.ccwu.cc&packetEncoding=xudp&sni=faxf32gkfzoxqv.fx6hsv0.ccwu.cc&fp=chrome#🇨🇦 Join+Telegram:@Farah_VPN 🇨🇦
 vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@172.64.145.202:2087?security=tls&type=ws&path=/&host=faxf32gkfzoxqv.fx6hsv0.ccwu.cc&sni=faxf32gkfzoxqv.fx6hsv0.ccwu.cc&fp=chrome&encryption=none#@Alpha_V2rayip
-vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@172.64.145.93:2083?security=tls&type=ws&path=/&host=fx3h2kf8xn.fx6hsv0.ccwu.cc&sni=fx3h2kf8xn.fx6hsv0.ccwu.cc&fp=chrome&encryption=none#@Alpha_V2rayip
-vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@172.64.145.93:2087?encryption=none&security=tls&sni=fx3h2kf8xn.fx6hsv0.ccwu.cc&fp=chrome&allowInsecure=0&type=ws&host=fx3h2kf8xn.fx6hsv0.ccwu.cc&path=/#@Alpha_V2rayip

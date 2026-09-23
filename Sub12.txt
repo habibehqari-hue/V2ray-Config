@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://d2042070-c247-4226-a3ac-15337923e00d@45.196.208.84:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&security=reality&sid=28047c78b3f5ee2c&sni=storage.yandex.net&type=tcp#🇪🇸139848 | ⚡️Telegram = t.me/SOSkeyNET
+vless://d2339910-85d7-42b2-ad3a-919ed5829d08@dl-cf.f8r.ir:80?encryption=mlkem768x25519plus.native.0rtt.DHnJWxTmgF8ZPET081QQQzgOOW_jVgRJ6n-iEEWKmjo&flow=xtls-rprx-vision&security=none&type=xhttp&host=dlv2.f8r.ir&path=/dl&mode=auto&extra={"xPaddingBytes":"10-1000","xPaddingObfsMode":true}#Tel: @Daily_Configs
 vless://d2733ae6-44e7-4b14-8c2d-3f5bef74cdec@144.31.157.104:20017?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@leviconfigs🪐-13
 vless://d2733ae6-44e7-4b14-8c2d-3f5bef74cdec@144.31.157.104:20017?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@prrofile_purple | 𝗙𝗮𝗦𝗧 💚
 vless://d2733ae6-44e7-4b14-8c2d-3f5bef74cdec@144.31.157.104:20017?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#A
@@ -501,5 +503,3 @@ vless://e0fc8dbc-d564-459f-b565-33074732c102@185.126.67.202:443?security=reality
 vless://e0fc8dbc-d564-459f-b565-33074732c102@185.126.67.204:443?security=reality&encryption=none&pbk=_p24twNlnUIdoSiWlNoxSlu95PfQAoLIrxKQU4IBsU4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=asd-cur5.voxicheck.com&sid=1122334455667788#@filembad
 vless://e0fc8dbc-d564-459f-b565-33074732c102@185.126.67.204:443?security=reality&encryption=none&pbk=_p24twNlnUIdoSiWlNoxSlu95PfQAoLIrxKQU4IBsU4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=asd-cur5.voxicheck.com&sid=1122334455667788#🔵@chillguy_vpn
 vless://e0fc8dbc-d564-459f-b565-33074732c102@185.126.67.207:443?security=reality&encryption=none&pbk=_p24twNlnUIdoSiWlNoxSlu95PfQAoLIrxKQU4IBsU4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=asd-cur1.voxicheck.com&sid=1122334455667788#@filembad
-vless://e0fc8dbc-d564-459f-b565-33074732c102@185.126.67.207:443?security=reality&encryption=none&pbk=_p24twNlnUIdoSiWlNoxSlu95PfQAoLIrxKQU4IBsU4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=asd-cur1.voxicheck.com&sid=1122334455667788#🇩🇪DE-🚀@VPNine1
-vless://e0fc8dbc-d564-459f-b565-33074732c102@185.126.67.207:443?security=reality&encryption=none&pbk=_p24twNlnUIdoSiWlNoxSlu95PfQAoLIrxKQU4IBsU4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=asd-cur1.voxicheck.com&sid=1122334455667788#🔵@chillguy_vpn
