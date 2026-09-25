@@ -3,12 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://416cea75-4802-43b1-8f31-c7fa1e211a6a@185.20.137.118:443?security=reality&encryption=none&pbk=1U9eTADaumTYxiO9NifVHUv5mbMowU2NSjgc2rBdvHo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=Miro.com&sid=7a0300af51a1c4cf#[ 🇫🇮 ] | @Cfox_SerVer
-vless://419f25c1-bc35-412e-93fb-258efee859b5@162.35.231.31:443?security=reality&encryption=none&pbk=XOcyZvF63CHDPnh3UCL-u-X8HYeNGiRtrwDVRLBC1DI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=162.35.231.31.sslip.io&sid=f41bc0b00ca1a978#@prrofile_purple | 𝗙𝗮𝗦𝗧 💚
-vless://419f25c1-bc35-412e-93fb-258efee859b5@gb2.murhost.network:443?security=reality&encryption=none&pbk=fyfX-egDrRvXNW1Gt2P_8rH4jdupAcmhFLOCZCzCowo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=gb2.murhost.network&sid=fc36b4a584871aa5#🇺🇸@ELiV2Ray
-vless://419f25c1-bc35-412e-93fb-258efee859b5@ru2.oshost.network:80?path=/api/v2/stream&security=none&encryption=none&type=ws#🇳🇱@EliV2ray
-vless://41b90a88-64b3-4337-9c60-c901df3e5b44@188.114.97.6:443/?type=ws&encryption=none&flow=&host=t03.tzteam.online&path=/?ed=2048&security=tls&sni=t03.tzteam.online&fp=chrome#@Vpn_Mafia
-vless://41b90a88-64b3-4337-9c60-c901df3e5b44@188.114.97.6:443/?type=ws&encryption=none&flow=&host=t07.tzteam.online&path=/?ed=2048&security=tls&sni=t07.tzteam.online&fp=chrome#@Vpn_Mafia
 vless://41bc5a50-7c41-4078-9a2a-611ab1c6dddb@snapp.ir:2095?path=/&security=none&encryption=none&host=lizardf1.fastshop11.ir&type=ws#canfingV2rayNG-145
 vless://41bc5a50-7c41-4078-9a2a-611ab1c6dddb@snapp.ir:2095?path=/&security=none&encryption=none&host=lizardf1.fastshop11.ir&type=ws#🇮🇷180601 | ⚡️Telegram = t.me/SOSkeyNET
 vless://41db9eef-eeef-1c7c-d1af-57d03da5370c@69.46.46.33:443?path=/ws/41db9eef-eeef-1c7c-d1af-57d03da5370c&security=tls&alpn=http/1.1&encryption=none&host=sunny-horizon-9745-production.up.railway.app&fp=chrome&type=ws&sni=sunny-horizon-9745-production.up.railway.app#3 🇳🇱 @V2ngNet
@@ -503,3 +497,9 @@ vless://55cce866-637d-44fa-b9aa-915439e1d50d@5u6up.pastilbastani.ir:2096?securit
 vless://55e9e2fe-c3d5-464e-86ba-846b3538f828@188.114.96.66:2082?type=ws&encryption=none&path=/@cephalon_ala-@cephalon_ala-@cephalon_ala-@cephalon_ala-@cephalon_ala-@cephalon_ala-@cephalon_ala-@cephalon_ala-@cephalon_ala-@cephalon_ala?ed=1024&host=war.does.not.determine.who.is.right_only.who.is.left.2.0.2.6.cEphAlon.BeauTy&security=none#🚸 Cephalon_ala-[23]
 vless://55ed97fc-77d1-4802-baf3-acef70776331@yt.orpheous.ru:443?security=reality&encryption=none&pbk=9rdvkUGJyNbRvsB0Pp06h1URq9AHDPRtH9-wmNB1-j4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yt.orpheous.ru&sid=e4aa362b5f9d07d7#‎🛰️ @EXPRESSVPN_420
 vless://55f7d143-a594-4a91-b030-f227039f85ef@79.127.196.11:8443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cdg-1.fromblancwithlove.com#TEL;Father_vpn
+vless://55f7d143-a594-4a91-b030-f227039f85ef@79.127.196.11:8443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=cdg-1.fromblancwithlove.com#TEL;Father_vpn
+vless://560ecca1-7e20-4b41-b4d6-781fb3bc179d@down.chaqalli.com:2082?path=/&security=none&encryption=mlkem768x25519plus.native.0rtt.Px0rEez31FH9Ten81Og17JMaeLuA6l3iAW-Bfu2_Rh0&type=ws#@filembad
+vless://560ecca1-7e20-4b41-b4d6-781fb3bc179d@down.chaqalli.com:2082?path=/&security=none&encryption=mlkem768x25519plus.native.0rtt.Px0rEez31FH9Ten81Og17JMaeLuA6l3iAW-Bfu2_Rh0&type=ws#@meliproxyy
+vless://560ecca1-7e20-4b41-b4d6-781fb3bc179d@down.chaqalli.com:2082?path=/&security=none&encryption=mlkem768x25519plus.native.0rtt.Px0rEez31FH9Ten81Og17JMaeLuA6l3iAW-Bfu2_Rh0&type=ws#@vmesskhodam
+vless://560ecca1-7e20-4b41-b4d6-781fb3bc179d@trk2.chaqalli.com:8080?path=/&security=&encryption=mlkem768x25519plus.native.0rtt.HZkmJtPesWHuoN7JnEmjat7utDPAEE6gYX0MUvIl-Wk&host=primevideo.com&type=ws#@Tarkahodeh 🏴󠁧󠁢󠁷󠁬󠁳󠁿
+vless://560ecca1-7e20-4b41-b4d6-781fb3bc179d@trk2.chaqalli.com:8080?path=/&security=&encryption=mlkem768x25519plus.native.0rtt.HZkmJtPesWHuoN7JnEmjat7utDPAEE6gYX0MUvIl-Wk&host=primevideo.com&type=ws#@v2ray313 کانالمون ⚡
